@@ -579,9 +579,6 @@ print(risk_scores)
 - **Training Samples**: 649 (SMOTE: 964 after balancing)
 - **Test Samples**: 217
 - **Models Trained**: 4 base + 4 tuned = 8 total
-- **Hyperparameters Tested**: 40 GridSearchCV combinations
-- **Execution Time**: ~45 minutes (start to finish)
-- **Final Accuracy**: 100% (1.0000)
 - **SVM Improvement**: +8.59% on validation set
 
 ---
