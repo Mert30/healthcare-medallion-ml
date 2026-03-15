@@ -6,13 +6,6 @@
 
 **Çözüm**: Random Forest Classifier ile base model ve hyperparameter tuning sonrası değer tahmini
 
-**Başarı Metrikleri**:
-
-- ✅ **Accuracy: 1.0000** (Perfect Classification)
-- ✅ **Precision: 1.0000** (False Positive = 0)
-- ✅ **Recall: 1.0000** (False Negative = 0)
-- ✅ **F1-Score: 1.0000** (Balanced Performance)
-
 ---
 
 ## 📁 Proje Klasör Yapısı
@@ -24,7 +17,7 @@ healthcare-medallion-ml/
 │   ├── patients.csv              # 🧑‍⚕️ Hasta demografik bilgileri
 │   ├── doctors.csv               # 👨‍⚕️ Doktor bilgileri ve uzmanlıkları
 │   ├── appointments.csv          # 📅 Randevu kayıtları
-│   └── lab_results.csv           # 🔬 Laboratuvar test sonuçları (4 CSV)
+│   └── lab_results.csv           # 🔬 Laboratuvar test sonuçları
 │
 ├── HealthcareDB/                 # 🏗️ MEDALLION ARCHITECTURE
 │   ├── BronzeLayer/
@@ -44,7 +37,6 @@ healthcare-medallion-ml/
 │   ├── best_patient_risk_model.pkl         # Trained Random Forest Model
 │   ├── feature_encoder.pkl                 # OneHotEncoder (Categorical Features)
 │   ├── feature_names.pkl                   # Feature Column List
-│   └── patient_risk_predictions.csv        # 217 Test Tahminleri (LOW/HIGH RISK)
 │
 └── README.md                      # 📖 Main Documentation
 ```
