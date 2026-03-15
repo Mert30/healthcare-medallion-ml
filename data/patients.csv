@@ -1,0 +1,1211 @@
+patient_id,full_name,gender,birth_date,city,phone_number,blood_type,insurance_provider,registration_date
+770487,Mehmet Garcia,male,1962-10-05,istanbul ,5551234567,,MediPlus,11/11/2019
+216739,Omar Khan,FEMALE,1974-06-04,Antalya,555 123 4567,AB+,SGK,2023-07-16
+126225,Ayşe Smith ,male,30/06/2010,Bursa,5551234567,B+,HealthCo,2024-06-14
+877572,Aisha Rossi,Male,1974-12-15,istanbul ,555 123 4567,Unknown,MediPlus,2024-07-25
+388389,Jane Demir,Male,1964-06-05,istanbul ,5551234567,O+,MediPlus,2023-07-23
+356787,Jane Demir,FEMALE,06/04/1986,Istanbul,(555)123-4567,O+,None,2018-01-05
+334053,Wei Rossi,FEMALE,2018-03-08,Antalya,INVALID,A-,SGK,2020-12-29
+246316,Sofia Ivanov,Male,21/06/1971,Ankara,5551234567,,SGK,2021-06-26
+872246,Sofia Kaya,FEMALE,17/09/1994,istanbul ,(555)123-4567,,None,2021-04-10
+207473,Mehmet Khan,Male,06/02/1967,Izmir,INVALID,O+,None,13/09/2023
+809570,John Yılmaz,Female,18/05/1975,istanbul ,123,,MediPlus,2024-08-01
+876646,Jane Silva,Female,2018-06-10,Bursa,INVALID,B-,HealthCo,09/02/2023
+671858,Ali Chen,Female,2016-10-23,istanbul ,5551234567,B+,None,2022-04-11
+191161,Luca Chen,Male,02/01/1959,Antalya,(555)123-4567,Unknown,PrivateCare,2022-12-09
+719176,Ayşe Rossi,FEMALE,1973-10-11,Izmir,,,None,2022-06-17
+542417,Ali Ivanov,FEMALE,1956-02-21,Istanbul,,A-,HealthCo,23/03/2021
+133326,Mehmet Garcia,Female,1952-08-06,Ankara,123,Unknown,None,2018-08-18
+131244,Sofia Kaya,Female,1965-04-02,istanbul ,123,B+,PrivateCare,01/11/2024
+198246,Wei Garcia,male,1991-03-26,Antalya,123,B+,SGK,08/02/2018
+329258,Wei Chen,male,2002-09-18,Ankara,INVALID,,SGK,2022-10-04
+343962,Fatma Khan,FEMALE,2001-04-23,Izmir,5551234567,A+,None,26/04/2021
+629903,Omar Rossi,Female,05/09/1975,Bursa,555 123 4567,B+,SGK,2020-07-31
+731262,Sofia Yılmaz,Male,19/09/1977,Izmir,555 123 4567,Unknown,PrivateCare,2018-05-17
+127824,Fatma Kaya,Female,24/05/1998,Izmir,INVALID,AB+,MediPlus,2022-02-07
+688508,Ayşe Rossi,FEMALE,1956-10-03,ANKARA,123,O+,SGK,13/07/2020
+308496,Carlos Yılmaz,male,1973-09-22,Bursa,INVALID,O+,SGK,2023-02-06
+850800,Sofia Smith,Male,1992-04-19,Antalya,INVALID,AB+,HealthCo,2024-04-18
+781453,Ayşe Kaya,Female,25/01/1954,Bursa,(555)123-4567,Unknown,HealthCo,31/05/2021
+835392,Jane Silva,FEMALE,1987-08-08,Bursa,INVALID,AB+,SGK,25/09/2019
+671412,Omar Chen ,male,1969-06-29,Bursa,,O+,SGK,25/08/2020
+539898,Carlos Garcia,Male,11/01/1967,Istanbul,555 123 4567,B-,PrivateCare,2023-02-06
+331148,Luca Smith,Female,27/02/1956,Izmir,(555)123-4567,A+,MediPlus,2024-03-20
+571029,Mehmet Kaya,Female,1998-06-19,Istanbul,555 123 4567,B-,None,2019-12-16
+717889,Jane Yılmaz,Male,1965-08-19,istanbul ,INVALID,O+,None,04/06/2019
+391704,Luca Demir,male,1990-07-21,istanbul ,,A+,SGK,27/06/2018
+948749,Wei Khan,Male,30/03/1988,Izmir,123,B+,SGK,02/07/2023
+106814,Mehmet Garcia,male,04/01/2006,istanbul ,123,Unknown,SGK,25/02/2024
+895667,Omar Demir,FEMALE,26/09/2008,Ankara,INVALID,O+,HealthCo,08/03/2024
+944962,Carlos Khan,Female,2015-06-16,Antalya,INVALID,A-,SGK,2022-10-15
+267414,Ayşe Demir,male,1988-09-29,Antalya,5551234567,Unknown,MediPlus,07/03/2022
+832052,Sofia Khan,Female,2014-09-09,Ankara,,,PrivateCare,2021-03-24
+543143,Ayşe Chen,Male,1999-11-27,Bursa,,AB+,SGK,2021-02-15
+456778,Mehmet Garcia,Female,16/01/2013,Bursa,,Unknown,SGK,2021-10-23
+391369,Mehmet Yılmaz,Female,26/03/1958,Izmir,555 123 4567,O+,None,2020-05-31
+263032,Luca Demir,FEMALE,1954-09-20,istanbul ,123,,HealthCo,2018-07-23
+325772,John Smith,FEMALE,2017-09-23,Bursa,,AB+,SGK,2021-11-14
+900581,Fatma Khan,Female,2003-10-08,ANKARA,555 123 4567,AB+,MediPlus,2020-04-17
+452944,Ayşe Yılmaz,Female,16/08/1994,Bursa,123,O+,SGK,2019-12-21
+207175,Carlos Yılmaz,FEMALE,1989-02-19,Antalya,,Unknown,MediPlus,15/11/2018
+197251,Ayşe Khan,male,15/11/1951,Istanbul,INVALID,A-,PrivateCare,05/12/2019
+498382,Carlos Ivanov,Female,1985-12-04,Izmir,(555)123-4567,A-,None,10/06/2022
+201414,Sofia Demir,Female,1997-08-08,Ankara,5551234567,B+,MediPlus,2021-12-02
+476417,Fatma Kaya,FEMALE,2004-01-17,istanbul ,123,,None,2018-11-05
+988662,Sofia Ivanov ,FEMALE,30/12/1978,Antalya,555 123 4567,AB+,None,2021-07-18
+460663,Ali Chen ,male,1995-07-08,Istanbul,,A-,None,2023-03-07
+733052,Luca Silva,Male,1984-06-29,istanbul ,123,B-,MediPlus,20/03/2024
+377370,Luca Rossi,male,1994-12-24,Antalya,5551234567,B+,SGK,2018-09-11
+946335,Fatma Rossi,male,1989-06-03,istanbul ,INVALID,O+,None,2024-11-02
+145561,Ali Chen,Female,1955-11-30,Izmir,5551234567,B+,MediPlus,2024-04-04
+865179,John Khan,male,1961-07-27,ANKARA,(555)123-4567,A-,HealthCo,2018-12-14
+581741,Aisha Chen,FEMALE,1951-08-21,Ankara,(555)123-4567,B+,PrivateCare,09/01/2020
+662275,Ayşe Garcia,Male,1959-01-28,Antalya,555 123 4567,B+,None,20/01/2024
+230889,Carlos Kaya ,male,1964-07-22,Antalya,,B-,HealthCo,10/11/2019
+496922,Luca Garcia,FEMALE,02/07/2017,ANKARA,(555)123-4567,O+,None,2023-01-13
+182627,Wei Rossi,Female,13/04/1975,ANKARA,123,B+,MediPlus,2023-08-22
+678856,Ali Rossi,Male,1983-04-21,Izmir,5551234567,B+,MediPlus,25/02/2019
+407419,Wei Silva,FEMALE,22/03/1963,Izmir,5551234567,Unknown,SGK,11/01/2019
+969693,Carlos Silva ,Male,1983-07-20,ANKARA,,O+,PrivateCare,2018-12-01
+759176,Mehmet Yılmaz,FEMALE,27/09/1975,istanbul ,123,A+,SGK,2023-04-20
+748564,Ali Garcia,FEMALE,07/05/1969,Istanbul,555 123 4567,B-,MediPlus,26/02/2024
+479201,Ayşe Yılmaz,FEMALE,1971-05-24,Bursa,123,A+,None,2023-02-16
+705397,Luca Smith,FEMALE,2014-06-19,Ankara,,A-,None,2022-10-25
+301629,Jane Demir,FEMALE,1997-03-12,Istanbul,,Unknown,MediPlus,2023-09-11
+838797,John Yılmaz,Male,14/01/1982,ANKARA,123,O+,PrivateCare,2021-11-13
+172933,Ali Chen,FEMALE,1998-12-26,Antalya,(555)123-4567,B+,SGK,19/12/2019
+148050,Omar Rossi,male,1953-04-26,Izmir,123,Unknown,None,29/06/2018
+793384,Wei Garcia,Male,14/04/1953,ANKARA,,O+,MediPlus,2020-02-22
+338968,Ayşe Chen,Female,15/03/1989,istanbul ,,,MediPlus,07/12/2022
+910620,Aisha Garcia,Female,31/05/1957,Bursa,555 123 4567,O+,SGK,2018-11-20
+403445,Ayşe Chen,FEMALE,2009-04-18,Izmir,INVALID,A+,MediPlus,2023-01-01
+183667,Luca Khan,male,19/08/1974,Bursa,,B+,SGK,2018-08-23
+996865,Mehmet Ivanov,male,01/11/2010,Izmir,INVALID,A+,None,2018-05-23
+344098,Mehmet Rossi,FEMALE,1983-04-13,Izmir,,AB+,PrivateCare,2018-11-11
+205907,Ayşe Yılmaz,male,2016-01-01,ANKARA,555 123 4567,,PrivateCare,2023-10-22
+498591,Luca Garcia,Male,05/04/2012,istanbul ,(555)123-4567,,SGK,2023-07-05
+391476,Sofia Chen,male,2009-11-30,ANKARA,(555)123-4567,B+,MediPlus,2018-09-23
+575435,Aisha Smith,male,20/11/1960,Bursa,123,O+,HealthCo,2019-07-23
+766563,Aisha Kaya,FEMALE,25/11/2004,Bursa,INVALID,Unknown,None,2018-09-27
+974628,Ayşe Kaya,Female,11/06/1978,ANKARA,123,B+,PrivateCare,2023-01-18
+482554,Carlos Silva,male,21/12/1954,Antalya,(555)123-4567,O+,None,2023-10-24
+270555,John Demir,Male,1972-06-25,Bursa,,B+,None,2024-03-06
+488162,Luca Kaya,Male,11/05/1965,ANKARA,5551234567,A-,SGK,2024-10-14
+472528,Sofia Ivanov,FEMALE,29/09/1973,Antalya,123,AB+,MediPlus,2024-06-01
+319684,Wei Smith ,FEMALE,2011-06-15,istanbul ,INVALID,,PrivateCare,2023-02-01
+802729,Jane Ivanov,FEMALE,1962-11-21,Ankara,555 123 4567,A-,MediPlus,31/07/2021
+379946,Fatma Rossi ,FEMALE,1960-12-28,ANKARA,123,Unknown,PrivateCare,2020-10-12
+835911,Mehmet Chen,FEMALE,29/10/2001,istanbul ,555 123 4567,,SGK,17/02/2020
+816751,Ayşe Khan,Male,1995-05-07,Izmir,INVALID,,MediPlus,2020-09-13
+779514,Aisha Yılmaz,male,1959-08-24,Istanbul,INVALID,A+,None,19/12/2020
+174870,Aisha Smith,male,1982-07-11,ANKARA,123,A-,PrivateCare,2018-10-29
+738720,Ayşe Khan,Female,25/06/1983,Ankara,123,Unknown,None,2021-10-20
+765822,Ali Yılmaz,Female,1953-06-29,Bursa,123,B+,MediPlus,26/09/2021
+279451,Luca Chen,FEMALE,1964-07-30,Antalya,123,AB+,HealthCo,2021-05-10
+660086,Ali Chen,Male,20/09/1979,Bursa,INVALID,AB+,None,2022-09-03
+864544,Luca Smith,FEMALE,2014-09-20,Ankara,,B-,SGK,2023-05-22
+356702,Luca Demir,Female,1967-02-12,istanbul ,123,,SGK,2021-07-08
+271339,Omar Kaya,FEMALE,1996-07-14,Izmir,(555)123-4567,,None,24/08/2021
+584714,Jane Silva,Female,14/10/1981,Izmir,123,AB+,PrivateCare,2020-12-18
+497887,John Garcia,male,2013-03-29,Izmir,5551234567,Unknown,HealthCo,2023-06-26
+383060,Jane Kaya,male,1976-01-22,Antalya,INVALID,B-,PrivateCare,2018-11-20
+771088,Aisha Garcia,Female,03/06/2000,Ankara,5551234567,B-,PrivateCare,2019-07-17
+821590,Ali Demir,Male,1987-01-30,Bursa,(555)123-4567,Unknown,HealthCo,2023-04-19
+684004,Wei Smith ,Male,25/10/2017,Antalya,123,B-,None,2021-08-08
+330283,Omar Yılmaz ,FEMALE,1965-09-15,ANKARA,INVALID,B+,MediPlus,22/12/2019
+817870,Ali Yılmaz,FEMALE,1976-10-08,Antalya,123,,PrivateCare,16/03/2019
+440035,Aisha Rossi,male,1974-06-24,Antalya,(555)123-4567,A+,MediPlus,2019-04-07
+983794,John Ivanov,FEMALE,03/07/2010,ANKARA,INVALID,O+,SGK,2019-12-20
+905635,Carlos Demir,male,30/07/1966,istanbul ,(555)123-4567,,MediPlus,2023-05-10
+913694,Jane Garcia,Female,04/04/2002,Istanbul,,A-,HealthCo,2018-02-16
+158655,John Kaya,male,16/05/1986,Izmir,123,B-,PrivateCare,2021-06-27
+340174,Mehmet Rossi,FEMALE,1963-09-29,ANKARA,123,B-,PrivateCare,2024-10-17
+961722,Sofia Ivanov ,Male,1957-05-06,Istanbul,123,B-,None,04/12/2023
+133659,Aisha Kaya,FEMALE,1964-10-05,Istanbul,123,,SGK,2023-11-02
+944151,Wei Kaya,male,1996-01-18,Antalya,5551234567,Unknown,MediPlus,2024-04-28
+430776,Ali Smith ,Male,2001-11-19,Istanbul,INVALID,A+,MediPlus,2022-10-02
+520651,Carlos Kaya,FEMALE,24/02/1962,ANKARA,INVALID,Unknown,SGK,2022-09-18
+380746,Sofia Silva,FEMALE,06/12/1961,Bursa,(555)123-4567,B-,SGK,2021-11-25
+169403,Ali Garcia,Female,16/07/1991,Ankara,INVALID,O+,PrivateCare,2024-02-09
+321231,John Smith,Male,17/01/2015,Ankara,(555)123-4567,A-,SGK,12/05/2018
+694731,Luca Yılmaz ,FEMALE,1990-01-19,Ankara,123,B-,SGK,2018-07-19
+852787,Mehmet Silva,male,1975-12-14,Ankara,555 123 4567,B+,None,2024-06-17
+429963,Fatma Khan,Female,1976-12-16,Antalya,,Unknown,None,30/03/2024
+322955,Wei Yılmaz,FEMALE,24/11/1980,istanbul ,(555)123-4567,AB+,HealthCo,11/04/2022
+787277,Mehmet Silva,FEMALE,1992-06-25,Istanbul,123,Unknown,HealthCo,2020-07-12
+623481,Aisha Silva,FEMALE,1962-01-11,ANKARA,555 123 4567,A-,None,2020-11-10
+514850,Omar Smith,Female,1954-08-16,ANKARA,123,B-,HealthCo,2024-10-13
+774079,Fatma Chen,Male,14/03/1977,Antalya,INVALID,B-,None,2018-03-04
+581141,Omar Smith,FEMALE,01/08/1985,Bursa,,O+,MediPlus,2024-03-11
+249811,John Chen,FEMALE,03/01/1996,ANKARA,555 123 4567,B-,MediPlus,2023-03-24
+377746,Jane Khan ,FEMALE,1954-02-07,Izmir,(555)123-4567,B-,MediPlus,25/06/2020
+246413,Fatma Khan,male,12/02/2001,Izmir,INVALID,,HealthCo,2023-08-08
+358607,Mehmet Chen,Male,1965-03-09,Bursa,5551234567,A-,SGK,2024-02-17
+881177,Ali Khan,Female,03/05/1962,Bursa,INVALID,O+,SGK,2020-08-05
+688637,Luca Ivanov,Male,08/05/1993,Istanbul,123,AB+,None,2018-03-06
+665158,John Yılmaz,Male,21/01/1995,Istanbul,123,B+,PrivateCare,30/10/2022
+375504,Fatma Ivanov,male,1997-03-25,istanbul ,INVALID,B-,PrivateCare,2021-12-22
+883300,John Demir,FEMALE,25/08/2008,Istanbul,,A+,PrivateCare,2018-05-10
+712982,Ayşe Rossi,Male,05/12/1988,Bursa,5551234567,B-,PrivateCare,2021-09-18
+549245,Omar Ivanov,Male,1992-08-29,Ankara,555 123 4567,A+,PrivateCare,2018-11-01
+711878,Luca Kaya,Female,27/06/2017,Bursa,INVALID,O+,HealthCo,20/06/2022
+518801,Omar Kaya,Male,04/11/2011,istanbul ,(555)123-4567,A-,MediPlus,14/08/2023
+479580,Luca Ivanov,FEMALE,2003-06-08,istanbul ,(555)123-4567,O+,None,2021-08-29
+329974,Carlos Khan,Female,31/08/1966,Antalya,5551234567,A-,MediPlus,2022-04-06
+245051,Mehmet Khan,Male,06/11/2013,Istanbul,5551234567,AB+,HealthCo,24/09/2019
+634277,Jane Garcia,FEMALE,1959-03-04,Istanbul,5551234567,A-,MediPlus,2020-02-07
+617488,Aisha Demir ,FEMALE,2003-07-22,istanbul ,5551234567,B-,None,21/08/2021
+195325,Aisha Kaya,Female,2011-06-26,Istanbul,(555)123-4567,Unknown,MediPlus,2019-07-23
+892495,Carlos Garcia,FEMALE,11/06/1993,Bursa,123,B-,HealthCo,2022-01-19
+149405,Ayşe Kaya,male,1977-05-02,istanbul ,555 123 4567,Unknown,None,2022-06-09
+214975,Mehmet Garcia,FEMALE,08/10/1978,Izmir,555 123 4567,,None,2020-04-02
+260265,Fatma Chen,Female,1983-09-27,Bursa,123,B+,None,2022-05-29
+757924,Ali Rossi ,FEMALE,2013-07-20,Antalya,INVALID,B+,MediPlus,08/04/2021
+267753,Fatma Garcia ,FEMALE,2009-02-03,Bursa,INVALID,Unknown,None,30/09/2022
+930555,Ali Chen,Male,12/12/2012,ANKARA,(555)123-4567,O+,PrivateCare,2024-01-09
+813536,Sofia Ivanov,FEMALE,1953-12-22,Istanbul,5551234567,A-,MediPlus,25/06/2022
+542666,Fatma Silva,male,2017-01-01,istanbul ,INVALID,B+,MediPlus,2024-07-05
+725380,Ali Rossi,Female,1959-05-19,Izmir,555 123 4567,O+,HealthCo,2018-12-18
+166613,Fatma Silva,male,1993-04-29,Istanbul,555 123 4567,A+,SGK,2019-02-04
+503457,Ali Chen,Female,2008-02-18,Bursa,(555)123-4567,O+,None,05/11/2019
+500156,Carlos Rossi,FEMALE,20/10/1970,Istanbul,,B-,HealthCo,2020-01-26
+724834,Luca Khan,Male,1984-11-19,Bursa,5551234567,B+,MediPlus,2020-05-29
+590785,Jane Smith,FEMALE,1991-01-19,Bursa,INVALID,A-,MediPlus,2023-06-28
+654816,Jane Rossi,Female,2005-05-21,Izmir,5551234567,B-,MediPlus,03/05/2021
+363626,Ayşe Kaya,FEMALE,29/06/1983,istanbul ,(555)123-4567,,None,2023-09-24
+680099,Omar Kaya,FEMALE,1999-10-14,Bursa,5551234567,O+,SGK,2021-03-29
+112038,Wei Kaya,FEMALE,04/07/1967,istanbul ,,,HealthCo,2024-04-19
+813328,Mehmet Demir,male,2000-09-21,Ankara,INVALID,,None,2020-06-22
+855731,Aisha Demir,Male,2001-05-19,ANKARA,,,None,03/02/2024
+220116,Fatma Khan,FEMALE,10/03/1959,Izmir,555 123 4567,A-,HealthCo,2020-10-10
+814825,Ayşe Smith,FEMALE,30/10/1968,Ankara,123,B+,PrivateCare,2024-08-05
+663054,Fatma Yılmaz,male,2001-02-22,Izmir,123,AB+,None,2021-02-25
+887352,Sofia Demir,Female,01/03/1962,Antalya,(555)123-4567,B-,PrivateCare,13/08/2022
+379786,Omar Chen,male,17/03/1972,Antalya,INVALID,Unknown,HealthCo,2022-05-28
+905934,Ayşe Demir,FEMALE,1986-02-21,istanbul ,555 123 4567,A+,SGK,2021-02-13
+772097,Omar Rossi,FEMALE,15/12/2006,Ankara,INVALID,B-,HealthCo,07/01/2022
+456699,John Chen,male,1975-06-11,Antalya,5551234567,A+,SGK,2024-06-25
+216970,Sofia Rossi ,FEMALE,1951-06-18,Ankara,,B+,MediPlus,2019-10-10
+407757,Mehmet Garcia,Female,17/05/1958,Istanbul,INVALID,AB+,PrivateCare,2020-10-22
+555884,Carlos Demir,Female,2013-02-17,Bursa,,,SGK,2020-05-24
+265840,Ali Chen,Female,26/10/1960,istanbul ,5551234567,A-,SGK,2022-09-26
+575763,Jane Chen,Male,1976-11-05,Bursa,123,A+,None,2019-06-30
+103402,Sofia Kaya,FEMALE,1989-06-26,Bursa,,,PrivateCare,2020-05-22
+857168,Ayşe Demir,FEMALE,24/07/1962,Izmir,(555)123-4567,B-,MediPlus,11/08/2024
+854639,Sofia Demir,Male,1972-04-06,ANKARA,,AB+,PrivateCare,23/09/2024
+376183,Aisha Ivanov ,Female,1995-09-18,istanbul ,INVALID,A-,PrivateCare,2022-05-24
+624902,Wei Ivanov,Female,1956-05-15,istanbul ,123,Unknown,MediPlus,19/02/2018
+898975,Aisha Kaya ,male,2018-06-06,Ankara,5551234567,A+,HealthCo,2018-10-26
+287330,Aisha Garcia,Female,24/05/2006,Izmir,5551234567,AB+,SGK,2022-08-29
+632342,Aisha Smith,Male,1963-12-10,Izmir,,Unknown,PrivateCare,2022-05-20
+211579,Ali Smith,male,26/09/1957,Antalya,,B+,SGK,2019-04-21
+755674,Ali Kaya,male,2012-12-07,Ankara,555 123 4567,B+,MediPlus,27/07/2023
+412942,Omar Demir ,Male,1952-08-19,istanbul ,INVALID,O+,SGK,2022-10-25
+982554,Wei Ivanov,Male,1964-12-21,Ankara,,A+,SGK,10/11/2020
+769987,Ali Smith,Male,1954-02-15,Bursa,,Unknown,PrivateCare,18/04/2022
+632323,Jane Smith ,male,06/05/1987,Istanbul,123,A+,PrivateCare,2021-08-03
+738551,Fatma Silva,male,13/02/1954,Izmir,5551234567,,SGK,10/10/2018
+308573,Jane Smith,male,1976-02-28,Bursa,INVALID,B-,None,29/05/2021
+260263,Fatma Kaya,Male,28/07/1950,Izmir,5551234567,Unknown,MediPlus,2018-04-08
+492077,Ayşe Smith ,Female,13/07/1997,Antalya,555 123 4567,A-,SGK,2022-09-16
+899550,Fatma Silva,Male,22/01/1987,Bursa,(555)123-4567,Unknown,SGK,2022-03-06
+269396,Luca Ivanov,male,1955-08-03,ANKARA,INVALID,O+,MediPlus,2019-06-20
+665579,Wei Garcia,Male,1970-12-16,Ankara,5551234567,B+,HealthCo,2020-04-10
+916449,Wei Chen,male,1986-06-21,istanbul ,555 123 4567,A-,SGK,07/01/2022
+656116,Mehmet Garcia,Female,22/03/2013,Istanbul,,B-,MediPlus,2018-06-15
+100599,Carlos Silva,FEMALE,24/05/1954,ANKARA,INVALID,B-,SGK,01/12/2020
+728038,Wei Demir,Female,1962-07-17,Ankara,INVALID,O+,SGK,10/09/2018
+439902,Luca Ivanov ,FEMALE,22/03/1973,ANKARA,(555)123-4567,A-,MediPlus,2018-11-04
+612340,Ayşe Yılmaz,FEMALE,1991-05-11,Istanbul,INVALID,Unknown,PrivateCare,2024-06-08
+120422,Jane Smith ,Female,1966-10-16,Antalya,555 123 4567,,HealthCo,01/01/2023
+217301,Aisha Rossi,Female,1955-06-22,Antalya,123,A+,HealthCo,2022-04-18
+480612,Omar Chen,male,1993-01-13,istanbul ,555 123 4567,B+,SGK,2023-06-09
+972064,Jane Ivanov,male,1969-08-25,ANKARA,123,B-,PrivateCare,2021-02-24
+945964,Ayşe Smith,Male,2008-12-06,ANKARA,(555)123-4567,Unknown,MediPlus,26/12/2023
+422451,Mehmet Kaya ,male,1971-03-23,Bursa,123,B+,None,09/01/2022
+351083,Fatma Rossi ,Female,1998-08-21,Istanbul,123,,SGK,2023-07-02
+160738,Jane Ivanov,male,28/01/1968,Istanbul,5551234567,B+,None,27/10/2021
+352572,Omar Kaya,FEMALE,14/12/1959,Bursa,5551234567,O+,MediPlus,03/02/2022
+694916,Jane Kaya,male,18/02/1964,Ankara,,O+,PrivateCare,25/11/2022
+182582,Sofia Ivanov,FEMALE,1965-09-24,ANKARA,123,A+,PrivateCare,2021-04-21
+189814,Luca Chen,male,2004-11-06,Antalya,5551234567,B-,MediPlus,2024-05-05
+867460,Jane Kaya,male,28/01/2007,istanbul ,5551234567,AB+,PrivateCare,30/12/2018
+609597,Fatma Demir ,FEMALE,1981-06-11,Antalya,INVALID,B+,HealthCo,19/03/2019
+955662,Wei Khan,Female,1981-07-06,Ankara,INVALID,A-,SGK,20/02/2019
+172574,John Yılmaz,FEMALE,1978-08-05,Ankara,,A-,None,2019-03-05
+897549,Ayşe Chen,Female,18/04/2003,Bursa,INVALID,B+,SGK,01/06/2023
+658582,Ayşe Chen,male,10/06/1968,Antalya,555 123 4567,AB+,PrivateCare,2022-08-04
+903035,Ayşe Yılmaz,FEMALE,1985-04-01,Istanbul,555 123 4567,,PrivateCare,2023-07-04
+231869,Ayşe Yılmaz,Male,1968-07-26,Izmir,INVALID,,HealthCo,10/04/2021
+234628,Sofia Garcia,male,06/03/1958,Ankara,INVALID,A+,MediPlus,2022-05-07
+791798,Wei Rossi,Male,1973-08-19,Istanbul,,O+,None,2021-01-05
+598369,Carlos Ivanov,FEMALE,1970-05-31,Bursa,(555)123-4567,,MediPlus,05/05/2022
+676510,Ayşe Khan,Female,2014-01-31,Istanbul,INVALID,B+,PrivateCare,28/05/2024
+273148,Fatma Smith,Female,1961-04-27,ANKARA,123,AB+,MediPlus,17/11/2018
+377932,Omar Demir,FEMALE,1957-10-22,ANKARA,5551234567,Unknown,SGK,2022-06-16
+653306,Carlos Kaya,Male,1963-04-19,Bursa,5551234567,AB+,None,14/07/2024
+736059,Jane Khan,Female,1973-09-12,Izmir,INVALID,B+,None,2023-06-12
+543692,Luca Khan ,FEMALE,1953-06-24,Izmir,555 123 4567,A+,MediPlus,2021-09-19
+322086,John Garcia,male,25/02/1975,Antalya,INVALID,O+,MediPlus,07/02/2019
+665492,Omar Khan,FEMALE,10/04/2004,Antalya,INVALID,O+,SGK,2020-02-09
+891952,Aisha Kaya,Male,1955-11-21,Ankara,(555)123-4567,B-,SGK,2023-09-07
+865388,Fatma Yılmaz,FEMALE,1990-12-13,Bursa,INVALID,A-,SGK,16/01/2022
+823378,Fatma Chen,male,1993-11-07,Izmir,(555)123-4567,AB+,SGK,29/12/2019
+310922,John Yılmaz,Female,1984-09-05,Antalya,(555)123-4567,B-,MediPlus,01/06/2024
+847581,Sofia Khan,Female,1996-01-19,Bursa,5551234567,B-,MediPlus,2018-02-06
+426858,Luca Garcia,male,11/12/2013,istanbul ,555 123 4567,B-,HealthCo,2021-02-01
+518373,John Silva,male,2005-12-12,Bursa,,AB+,MediPlus,2019-02-24
+804314,Sofia Demir,male,1993-03-21,Antalya,,AB+,PrivateCare,2021-02-06
+781446,Mehmet Silva,Female,24/07/1971,Antalya,5551234567,,MediPlus,2024-09-23
+491559,John Khan,Female,1986-04-19,Izmir,,B-,None,2018-05-25
+559381,Sofia Rossi,Female,2010-04-11,Izmir,5551234567,,PrivateCare,14/05/2021
+642717,Omar Garcia,Male,22/01/2015,Ankara,555 123 4567,B-,MediPlus,20/01/2020
+573417,Carlos Chen,Male,1983-05-07,ANKARA,,A-,HealthCo,2021-04-19
+226882,Fatma Silva,Female,01/10/1960,Ankara,(555)123-4567,O+,HealthCo,2022-04-13
+359947,Luca Rossi,Female,1962-11-07,Izmir,,A+,SGK,09/01/2020
+335612,Wei Garcia,Male,14/10/1968,Ankara,123,Unknown,HealthCo,2019-11-22
+167136,Carlos Khan,Male,1992-10-30,Izmir,123,B-,SGK,2018-06-04
+454508,Sofia Yılmaz,Female,23/03/2006,Istanbul,INVALID,AB+,PrivateCare,2020-07-15
+122056,Ayşe Yılmaz,male,02/10/1976,istanbul ,,B+,MediPlus,11/02/2023
+716886,Wei Chen,Female,2017-04-18,Ankara,,A+,None,2022-07-11
+680828,Aisha Kaya,Male,1961-01-18,Bursa,5551234567,A-,SGK,2018-06-03
+341292,Ali Demir,Female,1987-05-23,Ankara,,A+,MediPlus,2019-05-22
+717024,Carlos Demir,Male,2009-06-08,Bursa,,A-,MediPlus,16/10/2024
+330914,Ayşe Demir,Female,1994-08-27,Izmir,,Unknown,MediPlus,29/03/2020
+107540,Mehmet Yılmaz,Female,1999-03-06,Istanbul,5551234567,A-,SGK,2020-04-30
+174441,Luca Rossi,male,20/05/1963,Antalya,(555)123-4567,,MediPlus,2023-09-27
+842225,John Rossi,male,1954-06-30,ANKARA,,O+,HealthCo,17/12/2019
+761759,Omar Demir,Female,10/07/1958,Izmir,555 123 4567,,None,2018-07-07
+161733,John Demir,FEMALE,07/06/1983,Izmir,INVALID,,HealthCo,2020-01-20
+340062,Sofia Kaya,Male,1960-02-22,istanbul ,123,,None,29/08/2018
+170674,Sofia Rossi,Female,06/04/1966,istanbul ,INVALID,A-,HealthCo,2022-01-08
+132938,Wei Yılmaz,Female,1955-09-07,Antalya,555 123 4567,A-,HealthCo,2021-07-11
+446479,Sofia Smith,Male,1993-03-27,Istanbul,,B+,None,2022-04-26
+174299,Wei Rossi,male,1964-11-02,Istanbul,123,B-,None,2023-07-07
+639131,Sofia Khan,FEMALE,07/03/1986,Istanbul,INVALID,,MediPlus,2018-11-19
+349565,Ayşe Rossi ,Male,09/11/2016,ANKARA,5551234567,AB+,None,2019-02-25
+392004,Aisha Smith ,Female,22/09/2008,ANKARA,INVALID,O+,None,2021-10-28
+801474,Luca Ivanov,Female,12/06/1992,Istanbul,555 123 4567,O+,MediPlus,28/01/2022
+608993,Aisha Silva,FEMALE,18/07/1983,Istanbul,555 123 4567,B-,PrivateCare,07/07/2018
+324643,Ayşe Khan,FEMALE,1969-05-05,Istanbul,,A-,HealthCo,20/02/2020
+665427,Wei Ivanov,FEMALE,1995-03-27,ANKARA,123,,None,2023-08-06
+238739,Mehmet Ivanov,male,31/07/1965,Bursa,INVALID,Unknown,None,2019-06-10
+858490,Omar Smith,Female,1974-07-19,Ankara,INVALID,AB+,None,05/11/2021
+698782,Jane Silva,male,2006-10-02,Antalya,(555)123-4567,B+,None,2020-05-08
+704201,Aisha Chen,FEMALE,2013-09-23,Antalya,,AB+,HealthCo,2021-12-13
+595631,Ali Silva ,male,1959-07-21,ANKARA,(555)123-4567,AB+,MediPlus,2019-08-19
+354801,Mehmet Yılmaz ,FEMALE,16/12/2011,Istanbul,123,B-,None,15/04/2020
+922733,Carlos Smith ,FEMALE,02/11/1995,istanbul ,INVALID,O+,None,2021-03-24
+595948,Ali Yılmaz,male,2016-09-19,ANKARA,123,B-,PrivateCare,20/12/2022
+946721,John Rossi,Male,01/12/1965,istanbul ,5551234567,Unknown,MediPlus,2018-11-02
+526833,Aisha Garcia,Female,1961-09-02,Istanbul,(555)123-4567,O+,None,2020-11-10
+299659,Ali Ivanov ,male,2009-05-19,Bursa,(555)123-4567,B+,None,2024-06-03
+198907,Ayşe Silva,Female,1964-04-19,Antalya,555 123 4567,O+,MediPlus,2024-01-09
+201639,John Smith,Male,11/07/2017,Istanbul,,O+,HealthCo,30/04/2023
+790993,Fatma Ivanov,Male,2005-09-22,istanbul ,555 123 4567,AB+,SGK,2018-06-13
+551989,Aisha Chen,Female,21/02/1996,Izmir,123,A-,SGK,2022-12-31
+471507,Mehmet Silva,Female,1997-11-02,ANKARA,,Unknown,SGK,2018-09-26
+544154,Fatma Silva,Female,17/01/2013,Istanbul,INVALID,O+,SGK,2022-11-18
+531071,Ayşe Demir,Female,1954-11-14,Izmir,INVALID,Unknown,HealthCo,2020-10-28
+589710,Sofia Khan,Male,1988-11-06,ANKARA,,A+,SGK,2022-05-15
+864491,Jane Silva,FEMALE,1959-07-10,istanbul ,INVALID,A+,HealthCo,2021-05-19
+156802,Mehmet Silva,male,1969-09-22,Antalya,(555)123-4567,AB+,MediPlus,21/05/2022
+806073,Ali Silva,Male,1999-10-19,Izmir,(555)123-4567,O+,PrivateCare,2018-06-21
+785197,Carlos Silva,Male,1962-10-12,Ankara,,A+,None,2020-06-23
+777568,Wei Silva,FEMALE,1956-07-24,Izmir,555 123 4567,B+,PrivateCare,2018-10-03
+203198,Ayşe Garcia,male,2005-07-31,Antalya,123,B+,None,2020-03-03
+163556,Luca Chen,Female,19/05/1978,Antalya,,Unknown,MediPlus,2019-11-22
+522179,Jane Kaya,male,20/12/2010,istanbul ,123,A-,PrivateCare,2023-05-20
+863587,Sofia Ivanov,Male,10/05/1957,Antalya,5551234567,A+,None,28/07/2019
+455784,Sofia Yılmaz ,male,2002-03-16,Bursa,123,,PrivateCare,2024-08-13
+939482,Jane Khan,FEMALE,13/01/1970,Bursa,123,A-,HealthCo,12/08/2024
+214576,Jane Silva,Female,14/12/1950,Ankara,123,B+,HealthCo,11/11/2019
+360735,Jane Yılmaz,Male,19/08/1969,Antalya,(555)123-4567,O+,HealthCo,2020-08-07
+300896,Wei Rossi,male,1954-03-02,ANKARA,,AB+,None,2021-08-20
+299448,Aisha Ivanov,Male,1965-08-06,Bursa,555 123 4567,Unknown,PrivateCare,2022-03-31
+662336,Aisha Khan,Male,29/08/1981,Bursa,(555)123-4567,,PrivateCare,2021-11-14
+570405,Fatma Demir,Male,29/02/1996,Antalya,(555)123-4567,Unknown,MediPlus,2020-05-16
+246991,Omar Demir,FEMALE,14/03/1993,Istanbul,(555)123-4567,A+,PrivateCare,2023-05-17
+542374,Luca Ivanov,Male,1964-06-15,Ankara,555 123 4567,B+,None,2023-10-01
+292401,Carlos Ivanov,FEMALE,25/07/2000,ANKARA,INVALID,B+,PrivateCare,07/03/2021
+392075,Carlos Ivanov,Female,21/10/1962,Antalya,,O+,HealthCo,2020-01-15
+585100,Luca Ivanov ,FEMALE,1956-03-05,ANKARA,(555)123-4567,A-,PrivateCare,2022-04-28
+361941,Wei Ivanov,FEMALE,2003-10-24,Antalya,(555)123-4567,A+,HealthCo,2023-12-17
+179046,Aisha Khan,FEMALE,25/03/1983,ANKARA,INVALID,O+,None,2023-12-11
+564656,Omar Ivanov,Male,1958-10-07,Izmir,123,Unknown,MediPlus,2020-11-08
+947272,Fatma Yılmaz,Male,15/08/2013,istanbul ,,B-,MediPlus,2018-01-30
+997546,Carlos Chen,FEMALE,1959-07-25,Bursa,555 123 4567,AB+,HealthCo,2024-07-25
+677057,Fatma Khan,FEMALE,14/07/1999,Izmir,555 123 4567,O+,HealthCo,2023-05-31
+202664,Omar Kaya,Female,2009-02-23,Istanbul,(555)123-4567,Unknown,MediPlus,2020-07-30
+153045,Aisha Ivanov,Male,15/07/2012,ANKARA,5551234567,B+,HealthCo,2018-08-02
+783823,Luca Khan,FEMALE,1957-11-28,istanbul ,123,AB+,None,2020-06-27
+666847,Ali Kaya,male,2007-06-12,Ankara,5551234567,B-,None,2018-02-13
+976638,Mehmet Yılmaz ,male,1982-04-10,ANKARA,INVALID,O+,HealthCo,02/01/2018
+115474,Carlos Ivanov,male,1967-12-21,Izmir,555 123 4567,B-,None,09/10/2018
+197793,Fatma Rossi,Male,1986-03-29,Bursa,555 123 4567,O+,SGK,2020-12-05
+890170,Aisha Garcia,FEMALE,05/04/1998,Bursa,INVALID,B-,MediPlus,2024-06-12
+989921,Wei Rossi ,Female,25/08/2002,Antalya,,B-,MediPlus,2023-05-29
+347861,Carlos Chen ,male,1996-05-03,Istanbul,123,B+,HealthCo,2020-12-14
+274389,Jane Chen,Female,10/08/1969,istanbul ,,B-,PrivateCare,2021-01-07
+526156,Omar Smith,male,1973-10-23,Ankara,5551234567,A-,SGK,10/04/2020
+609231,Sofia Rossi,male,2005-01-25,Bursa,555 123 4567,,None,27/01/2024
+604740,John Rossi,Female,29/05/1966,Istanbul,123,Unknown,HealthCo,2023-09-25
+324130,Aisha Yılmaz,FEMALE,1995-01-30,Izmir,,A+,SGK,2019-12-17
+520521,Sofia Smith,Female,1984-01-16,Bursa,555 123 4567,B-,MediPlus,2021-08-25
+161483,Wei Ivanov,male,1980-10-12,Izmir,INVALID,AB+,HealthCo,2023-08-05
+272634,Mehmet Ivanov,Female,07/10/1961,Bursa,INVALID,Unknown,PrivateCare,25/07/2020
+497382,Mehmet Kaya,male,07/06/1992,ANKARA,INVALID,AB+,MediPlus,2019-12-25
+102260,Aisha Ivanov,FEMALE,1954-04-13,ANKARA,,A-,HealthCo,2019-11-01
+509386,Omar Chen,male,1973-04-22,Istanbul,INVALID,A-,MediPlus,2024-04-14
+378085,Sofia Ivanov,male,1967-11-07,Izmir,,,HealthCo,2024-01-15
+922157,Ayşe Khan,male,2005-01-20,istanbul ,,Unknown,SGK,17/08/2019
+923267,Ayşe Kaya,FEMALE,1980-10-29,Izmir,INVALID,O+,None,2021-07-21
+577110,Aisha Rossi,male,1987-02-21,Antalya,,A-,PrivateCare,2018-04-05
+399105,Mehmet Khan ,FEMALE,1959-03-30,Bursa,5551234567,A-,MediPlus,2023-04-23
+543555,Luca Kaya,male,25/07/1957,istanbul ,,B+,PrivateCare,2022-05-16
+830429,Aisha Kaya,FEMALE,1952-07-25,istanbul ,123,AB+,None,01/01/2022
+865990,Wei Kaya,FEMALE,2012-08-02,Bursa,,AB+,MediPlus,2024-08-17
+921414,Wei Silva,Female,18/05/1970,Izmir,5551234567,A+,None,2022-12-15
+682765,Mehmet Chen,FEMALE,1975-09-23,Izmir,5551234567,Unknown,MediPlus,2018-02-04
+794022,Luca Smith,FEMALE,1950-08-25,Ankara,(555)123-4567,Unknown,HealthCo,2020-02-12
+853305,Fatma Garcia,male,1957-02-08,Izmir,,AB+,HealthCo,2020-09-08
+610311,Fatma Demir,male,1966-05-14,Antalya,123,,PrivateCare,2019-03-29
+262316,Jane Yılmaz,male,1963-08-26,Izmir,(555)123-4567,,SGK,2024-01-01
+299122,Fatma Demir,FEMALE,1963-07-09,Izmir,INVALID,A+,MediPlus,2020-06-08
+411120,Ayşe Kaya,Female,1955-01-11,ANKARA,555 123 4567,Unknown,SGK,2022-05-27
+328275,Ayşe Smith,Female,10/07/1984,istanbul ,,A-,None,2022-12-20
+161324,Sofia Smith,Male,1992-06-02,Antalya,123,A-,MediPlus,02/07/2021
+707314,Wei Garcia,Male,1967-10-30,Ankara,,Unknown,MediPlus,02/08/2018
+871476,Ali Kaya ,Male,1974-10-09,Bursa,,,None,10/06/2022
+668532,Mehmet Chen,Male,1958-01-11,Istanbul,555 123 4567,B+,None,2023-08-10
+163918,Ayşe Kaya,FEMALE,1993-10-07,Antalya,(555)123-4567,A+,HealthCo,06/04/2024
+884309,Jane Kaya,FEMALE,28/06/1972,Ankara,123,B+,None,11/06/2023
+428838,Jane Chen,Male,2015-09-16,Bursa,(555)123-4567,,MediPlus,18/09/2024
+159942,John Silva,Male,1982-12-08,Bursa,555 123 4567,B-,MediPlus,2023-09-04
+152578,Omar Demir,Female,21/01/2009,Bursa,555 123 4567,O+,HealthCo,2022-05-07
+712554,Sofia Chen,Female,1959-11-29,ANKARA,5551234567,B-,SGK,2018-10-01
+599948,Wei Smith,male,1958-11-10,Istanbul,555 123 4567,B-,None,2022-05-11
+627276,Omar Demir,Male,05/03/1951,istanbul ,,A+,MediPlus,2020-05-04
+994141,Aisha Khan,Male,10/02/1983,Antalya,5551234567,AB+,SGK,27/08/2018
+656926,Fatma Silva,Female,1958-09-18,Bursa,,B+,None,2020-08-04
+265080,Omar Silva,FEMALE,01/04/1987,Istanbul,(555)123-4567,B+,None,2024-06-19
+159642,Carlos Silva,male,12/04/1980,Izmir,123,O+,MediPlus,27/12/2023
+632496,Carlos Khan,male,2015-02-14,Izmir,INVALID,,HealthCo,2020-09-12
+184002,Ali Yılmaz,Male,1975-07-10,Izmir,(555)123-4567,B-,MediPlus,2023-10-22
+992697,Ali Garcia,Male,1999-09-03,istanbul ,555 123 4567,B+,PrivateCare,26/05/2024
+294851,John Chen ,FEMALE,2002-03-25,Bursa,(555)123-4567,A-,MediPlus,15/11/2020
+171849,Wei Kaya ,male,21/10/1993,Istanbul,,Unknown,SGK,18/06/2024
+723939,Ali Chen,Female,19/03/1981,Antalya,,A+,HealthCo,2022-11-14
+171262,Ali Garcia,Female,1997-01-16,Ankara,5551234567,Unknown,HealthCo,2024-01-21
+808011,Luca Ivanov,Female,1995-04-13,Izmir,5551234567,,None,2022-11-05
+346629,Omar Yılmaz,Female,1999-03-06,ANKARA,(555)123-4567,,None,2018-12-15
+523389,Fatma Rossi,Female,19/06/1985,Ankara,5551234567,AB+,HealthCo,2020-03-14
+225710,Jane Ivanov,male,1958-01-14,Izmir,123,A+,MediPlus,2022-08-22
+697347,Mehmet Chen,Female,14/04/2005,Ankara,,O+,PrivateCare,2022-12-17
+358175,Omar Demir,male,31/01/1960,Istanbul,555 123 4567,A-,MediPlus,22/09/2020
+707040,Wei Rossi,male,1952-01-16,Bursa,INVALID,B+,SGK,2024-01-13
+723398,Carlos Ivanov,male,2009-07-12,Istanbul,INVALID,A+,SGK,2020-11-12
+141672,Carlos Garcia ,FEMALE,24/06/2009,Ankara,INVALID,A-,MediPlus,15/01/2022
+749468,Wei Ivanov,Male,1997-09-09,Istanbul,(555)123-4567,AB+,MediPlus,2020-03-25
+185965,Wei Khan,male,2016-10-13,Ankara,123,AB+,SGK,2021-11-21
+539589,Sofia Garcia,Female,25/09/1984,Ankara,555 123 4567,Unknown,PrivateCare,01/05/2018
+789305,Ayşe Khan,FEMALE,18/09/1996,Izmir,123,O+,HealthCo,2020-07-20
+712024,Aisha Kaya,Female,20/07/1968,Izmir,,B+,HealthCo,2024-07-07
+692683,Mehmet Ivanov,Female,1964-03-06,Izmir,(555)123-4567,A+,MediPlus,2024-04-01
+648177,Carlos Khan,Female,1977-03-20,Ankara,5551234567,AB+,None,2021-01-26
+431737,Luca Ivanov,FEMALE,1970-09-19,Ankara,123,,MediPlus,2020-08-03
+373432,Mehmet Khan ,Male,1994-02-02,Izmir,INVALID,B-,PrivateCare,2019-11-02
+314181,Fatma Demir,male,20/11/1965,ANKARA,INVALID,B-,HealthCo,05/12/2022
+802258,Carlos Yılmaz,Male,16/07/2004,Bursa,5551234567,,HealthCo,08/04/2022
+850981,Ali Smith,Male,1996-07-14,Ankara,555 123 4567,,HealthCo,2018-06-10
+429445,John Garcia ,Female,1991-05-23,istanbul ,,,SGK,2021-04-20
+350280,Omar Silva,Female,1960-02-26,istanbul ,INVALID,O+,HealthCo,25/07/2024
+378517,Ali Kaya ,male,1990-09-14,Antalya,,B+,SGK,07/04/2020
+515011,Ayşe Demir,Female,2013-05-11,istanbul ,123,Unknown,SGK,2022-01-26
+237235,Mehmet Chen,Male,25/09/2000,istanbul ,555 123 4567,AB+,HealthCo,2019-09-07
+804318,John Kaya,Male,19/07/1960,istanbul ,INVALID,,None,2020-04-10
+776856,Ali Ivanov,FEMALE,1994-04-09,Istanbul,123,A+,PrivateCare,2024-08-08
+414569,Aisha Garcia,male,08/08/2005,Istanbul,(555)123-4567,A+,None,2020-04-30
+579434,Luca Garcia,Female,15/09/1979,Antalya,555 123 4567,B+,HealthCo,2018-07-20
+431535,Omar Ivanov,FEMALE,25/04/1982,ANKARA,5551234567,Unknown,None,17/01/2019
+888387,Ayşe Garcia,Female,1992-03-28,Antalya,(555)123-4567,A+,SGK,2021-01-29
+176066,Luca Silva,male,1957-11-12,istanbul ,123,O+,MediPlus,13/10/2024
+109767,Aisha Ivanov,FEMALE,2005-11-30,istanbul ,(555)123-4567,B-,MediPlus,2019-06-16
+580547,Fatma Yılmaz,FEMALE,1960-08-09,istanbul ,5551234567,O+,MediPlus,29/04/2019
+751332,Aisha Smith ,male,06/01/1951,Bursa,123,O+,SGK,2021-02-27
+690341,Ayşe Chen ,Female,1980-08-16,Ankara,555 123 4567,O+,HealthCo,2024-05-19
+204837,Wei Yılmaz,male,2007-12-04,istanbul ,INVALID,A+,None,2019-09-29
+176819,John Ivanov,male,15/01/2015,ANKARA,555 123 4567,A-,PrivateCare,2024-03-24
+663750,John Yılmaz,FEMALE,05/06/1980,Ankara,123,A-,MediPlus,29/12/2023
+323508,Omar Chen,male,2013-09-07,istanbul ,555 123 4567,B-,None,2022-08-23
+630458,John Kaya,FEMALE,1960-01-26,Bursa,5551234567,,None,03/06/2018
+378082,Mehmet Smith,Male,06/07/1980,ANKARA,123,B+,PrivateCare,2023-11-15
+238890,Omar Yılmaz,Male,1991-03-19,Antalya,123,A-,MediPlus,2023-11-10
+465962,Wei Yılmaz,Female,1959-04-02,Izmir,(555)123-4567,B-,MediPlus,2021-07-03
+172132,John Silva,Male,19/08/1978,Istanbul,123,A-,PrivateCare,2019-04-27
+356150,Aisha Chen,Female,1999-04-15,Ankara,5551234567,AB+,None,03/08/2019
+487477,Jane Silva,Male,1989-10-20,istanbul ,5551234567,A-,HealthCo,2018-04-29
+398830,Carlos Kaya,FEMALE,2013-03-21,Bursa,555 123 4567,AB+,MediPlus,2024-08-24
+265409,Fatma Silva ,FEMALE,17/01/1957,Istanbul,INVALID,AB+,HealthCo,2023-03-23
+559469,Wei Smith,male,1970-01-29,ANKARA,555 123 4567,,HealthCo,22/11/2020
+974244,Ali Demir,male,1992-08-23,Bursa,123,B+,None,2023-05-15
+669605,Ayşe Khan ,male,30/01/2014,Bursa,INVALID,Unknown,None,2021-08-27
+837715,Carlos Smith,male,2005-09-13,Ankara,,Unknown,HealthCo,14/10/2019
+417212,Luca Chen ,FEMALE,08/11/1998,Istanbul,123,,MediPlus,2019-12-10
+741390,Aisha Demir,FEMALE,1989-12-10,Izmir,INVALID,A+,SGK,2022-07-21
+946305,Fatma Kaya,FEMALE,07/02/2002,Bursa,555 123 4567,Unknown,None,01/01/2018
+785743,Luca Rossi,male,1967-07-22,istanbul ,,O+,SGK,2021-07-20
+654634,Luca Yılmaz,Male,10/11/2004,Izmir,123,A+,SGK,14/07/2022
+108203,Omar Silva,FEMALE,1982-03-25,Antalya,555 123 4567,Unknown,HealthCo,01/03/2021
+800305,Carlos Khan,FEMALE,1998-11-27,ANKARA,555 123 4567,Unknown,PrivateCare,2019-12-12
+956795,John Kaya,FEMALE,1962-01-18,Ankara,5551234567,B+,HealthCo,2018-03-06
+681542,Wei Ivanov,FEMALE,11/03/1988,istanbul ,555 123 4567,B-,PrivateCare,2023-02-05
+413921,Carlos Ivanov,male,1950-09-01,Istanbul,5551234567,,MediPlus,27/08/2020
+795613,Ayşe Ivanov,male,14/03/1993,istanbul ,123,A-,None,2018-11-24
+208618,Luca Demir,male,1972-01-01,Bursa,5551234567,O+,None,2018-11-16
+240814,Ali Rossi,male,1990-09-25,ANKARA,555 123 4567,AB+,PrivateCare,2023-04-06
+377312,Ali Ivanov,Female,2017-03-27,Bursa,5551234567,AB+,None,2024-04-27
+221035,Ali Garcia,male,1993-06-28,Ankara,123,AB+,MediPlus,2023-09-02
+212235,John Yılmaz,FEMALE,2016-07-08,Izmir,(555)123-4567,AB+,PrivateCare,17/12/2019
+878480,Wei Kaya,Female,25/04/1997,ANKARA,INVALID,Unknown,HealthCo,05/11/2021
+680097,Fatma Rossi,Male,18/02/2015,Antalya,555 123 4567,A-,SGK,2020-05-13
+262998,Mehmet Rossi,Female,1985-10-10,istanbul ,,Unknown,HealthCo,05/05/2023
+385577,John Kaya,FEMALE,03/08/1997,Antalya,555 123 4567,A+,SGK,2018-02-18
+395442,Aisha Chen,Male,26/09/1988,Izmir,,Unknown,HealthCo,2021-01-21
+734210,Sofia Smith,Female,17/11/2015,Izmir,123,A+,SGK,2020-03-09
+320861,Ayşe Yılmaz,male,1986-11-23,Izmir,(555)123-4567,A+,SGK,2019-03-02
+852470,Luca Demir,Male,07/02/1955,Istanbul,123,B+,HealthCo,07/06/2020
+459536,Sofia Ivanov,Male,30/07/1966,Antalya,INVALID,AB+,HealthCo,2020-01-25
+313487,Omar Chen ,FEMALE,1973-02-01,Izmir,5551234567,AB+,MediPlus,2018-10-31
+820892,Mehmet Rossi,FEMALE,1956-03-24,Istanbul,(555)123-4567,Unknown,PrivateCare,2020-04-01
+765046,Luca Demir ,male,13/08/1989,ANKARA,INVALID,A+,HealthCo,2019-02-28
+994343,Mehmet Yılmaz,FEMALE,24/05/1953,Bursa,5551234567,,HealthCo,2020-12-27
+376807,Carlos Khan ,FEMALE,17/04/2015,Istanbul,123,O+,MediPlus,2018-10-15
+629959,Sofia Garcia,male,1985-12-10,Istanbul,INVALID,AB+,PrivateCare,2019-01-07
+612262,Mehmet Silva,Male,12/07/1953,Antalya,,O+,HealthCo,2020-02-22
+363319,Ayşe Rossi,Female,2015-12-21,istanbul ,INVALID,A-,None,2018-05-27
+987204,Sofia Garcia ,male,1994-10-30,Istanbul,555 123 4567,A+,HealthCo,15/01/2023
+153266,Ayşe Smith,Female,29/08/2008,Antalya,123,B-,SGK,21/02/2023
+196781,Ali Kaya,Female,11/11/1993,Antalya,,B+,SGK,15/04/2023
+765095,Mehmet Yılmaz,Male,28/07/1977,ANKARA,5551234567,A-,HealthCo,2019-02-03
+544151,Luca Ivanov,FEMALE,1969-10-15,Izmir,5551234567,B+,MediPlus,2020-04-10
+969634,Fatma Yılmaz,FEMALE,2003-03-18,Ankara,,O+,None,2018-09-16
+390120,Mehmet Rossi,FEMALE,10/11/1971,ANKARA,(555)123-4567,A+,HealthCo,2018-06-16
+146228,Ayşe Yılmaz,male,1950-08-25,istanbul ,,,PrivateCare,01/01/2019
+103717,Fatma Kaya,Male,2007-05-27,Bursa,(555)123-4567,,None,2023-01-19
+449759,Ayşe Garcia,Male,1981-03-17,Bursa,555 123 4567,B-,HealthCo,2024-04-03
+908577,Sofia Smith,FEMALE,1974-10-19,istanbul ,(555)123-4567,B+,SGK,07/04/2019
+237174,Ali Chen,FEMALE,1975-07-29,Istanbul,5551234567,A+,None,2020-10-26
+768061,Mehmet Kaya,FEMALE,1952-08-10,Bursa,123,O+,HealthCo,2019-04-21
+374680,Fatma Chen,FEMALE,22/08/1970,ANKARA,(555)123-4567,Unknown,PrivateCare,2021-08-28
+269430,Ayşe Rossi,FEMALE,2002-06-29,Ankara,INVALID,O+,PrivateCare,2022-11-21
+877236,Wei Smith,Male,2006-09-14,Izmir,(555)123-4567,A-,HealthCo,2021-01-09
+563298,Wei Khan,Female,11/05/1965,Bursa,123,B-,SGK,19/06/2020
+678478,Carlos Silva,male,21/11/1993,Istanbul,,Unknown,PrivateCare,2020-06-05
+839945,Fatma Chen,Male,1988-12-16,istanbul ,5551234567,A+,HealthCo,20/08/2024
+548462,Omar Silva,Male,1953-01-06,istanbul ,INVALID,B-,SGK,2022-06-04
+688153,Aisha Yılmaz,Male,09/03/2012,Istanbul,INVALID,AB+,PrivateCare,2020-06-11
+110139,Omar Rossi,Female,04/03/2001,ANKARA,,Unknown,PrivateCare,10/04/2018
+217308,Jane Rossi,Male,24/02/2013,Izmir,INVALID,AB+,None,2018-10-17
+178898,Aisha Ivanov,Male,01/08/1968,Bursa,,O+,SGK,2018-11-28
+824586,Ayşe Khan,Male,1982-10-19,Bursa,,B-,PrivateCare,2018-06-17
+256294,Jane Smith,Female,1998-05-31,ANKARA,,B-,MediPlus,14/05/2023
+672092,Jane Garcia,FEMALE,06/03/1995,istanbul ,123,A-,HealthCo,2021-02-09
+137778,Omar Silva,Male,08/11/2010,Ankara,INVALID,A-,SGK,2021-04-12
+975136,Carlos Kaya,Female,15/11/1975,istanbul ,(555)123-4567,B-,None,2018-11-12
+487151,Sofia Yılmaz,FEMALE,1976-04-20,istanbul ,,A+,MediPlus,27/01/2024
+710805,Fatma Demir,male,24/12/1951,istanbul ,123,O+,MediPlus,09/08/2020
+679364,Wei Ivanov,Female,26/09/2009,ANKARA,555 123 4567,B+,MediPlus,2024-02-25
+255287,Fatma Rossi,Female,14/05/1983,Bursa,(555)123-4567,AB+,PrivateCare,2018-07-13
+550664,Mehmet Kaya,FEMALE,1964-06-19,Izmir,555 123 4567,B+,PrivateCare,18/06/2018
+233636,Aisha Yılmaz,Female,2009-09-16,Bursa,555 123 4567,A-,SGK,2021-11-09
+143860,Carlos Rossi,male,16/01/1963,Antalya,,AB+,HealthCo,2021-08-04
+423232,John Ivanov,male,2009-10-30,Antalya,5551234567,,SGK,04/05/2024
+482364,Mehmet Silva,male,1960-06-26,Istanbul,555 123 4567,A+,None,2022-07-04
+934794,Sofia Smith ,FEMALE,2002-05-05,Antalya,,A-,None,2021-02-12
+141832,Carlos Smith ,male,1994-01-01,istanbul ,(555)123-4567,Unknown,MediPlus,2024-10-14
+475190,Carlos Chen,Male,1951-02-04,Ankara,,,HealthCo,2021-12-10
+320281,Wei Garcia,Male,11/09/1964,Ankara,(555)123-4567,AB+,HealthCo,03/10/2022
+815198,Aisha Chen ,FEMALE,07/12/1955,Antalya,555 123 4567,Unknown,PrivateCare,16/08/2024
+361650,Aisha Rossi,male,2013-09-20,Bursa,INVALID,A+,MediPlus,2019-07-15
+799330,Luca Garcia,Female,1994-04-30,Izmir,555 123 4567,,SGK,2023-03-14
+207786,Sofia Garcia,FEMALE,1987-06-05,Istanbul,123,O+,None,2020-09-29
+470858,Wei Ivanov,male,14/02/1989,Bursa,,A+,MediPlus,04/05/2023
+918011,Mehmet Ivanov,Female,1955-04-02,Istanbul,555 123 4567,O+,HealthCo,04/03/2023
+687080,Sofia Chen ,Female,1954-05-16,ANKARA,,B+,SGK,2023-12-10
+526117,Luca Kaya,male,1998-10-12,Izmir,,O+,SGK,19/07/2021
+750810,Aisha Ivanov,FEMALE,19/07/1981,istanbul ,555 123 4567,B+,SGK,2018-02-22
+885884,Fatma Kaya,Male,1995-02-28,istanbul ,INVALID,A-,SGK,11/02/2020
+262060,Mehmet Yılmaz,male,1993-01-07,Ankara,,AB+,SGK,2022-01-25
+348237,Omar Demir,Female,1969-12-13,Ankara,5551234567,Unknown,SGK,2019-08-07
+270395,Ayşe Yılmaz ,Male,12/06/1993,istanbul ,5551234567,AB+,SGK,2018-06-24
+938742,Ayşe Garcia,Female,2009-11-22,Bursa,(555)123-4567,B+,MediPlus,31/01/2019
+950155,Ali Demir,Female,22/01/1963,ANKARA,123,B-,None,10/02/2021
+285652,Luca Demir,male,22/11/1958,Ankara,123,A+,SGK,2018-02-27
+532322,Fatma Silva,Male,2013-06-30,Ankara,555 123 4567,Unknown,HealthCo,2024-08-11
+125990,Fatma Silva,Female,1970-06-01,istanbul ,555 123 4567,AB+,None,2021-07-11
+288073,Omar Yılmaz,male,1957-05-19,Antalya,INVALID,B-,None,2019-04-19
+872343,Carlos Garcia,male,1988-05-24,Ankara,5551234567,,SGK,13/10/2018
+448321,Carlos Rossi,Male,21/11/1996,Antalya,(555)123-4567,A-,MediPlus,2018-12-15
+920391,Fatma Chen,FEMALE,1967-12-20,Izmir,,AB+,HealthCo,2022-07-14
+531712,Jane Rossi,Female,23/10/2009,ANKARA,INVALID,A-,SGK,15/07/2022
+941204,John Rossi,Male,1994-08-12,istanbul ,,A+,PrivateCare,2019-07-06
+802448,Carlos Ivanov ,Male,2010-12-08,Antalya,123,,HealthCo,2021-05-25
+870763,Fatma Garcia,Male,2009-05-26,ANKARA,5551234567,Unknown,SGK,2023-08-30
+950132,Carlos Rossi ,male,22/03/1978,Antalya,(555)123-4567,,HealthCo,2022-12-18
+360222,Mehmet Garcia,FEMALE,2014-03-18,istanbul ,123,B+,None,2019-03-25
+379766,Ali Khan,male,1973-08-18,Izmir,5551234567,A+,None,2022-03-28
+266931,Ali Kaya,male,1982-11-15,istanbul ,5551234567,Unknown,MediPlus,2024-07-19
+925622,Jane Khan,Male,1981-07-07,Antalya,5551234567,AB+,SGK,2020-09-27
+835343,Jane Kaya,FEMALE,1951-10-08,Izmir,5551234567,,None,2018-06-03
+213346,Ali Chen,Male,1983-11-21,Antalya,,B-,MediPlus,2021-08-13
+501124,Wei Silva,FEMALE,2009-11-15,Antalya,5551234567,B-,MediPlus,2021-05-11
+140605,John Yılmaz,Male,03/09/1976,Antalya,123,A-,None,05/07/2022
+593554,Jane Garcia,Male,1956-01-14,Antalya,555 123 4567,AB+,HealthCo,2023-12-16
+333238,Sofia Silva,Female,1978-02-10,Istanbul,,B+,None,2022-07-06
+309267,Wei Smith,FEMALE,14/04/2009,Bursa,,A+,None,2023-03-30
+956253,Fatma Chen,FEMALE,1991-06-29,istanbul ,555 123 4567,A-,PrivateCare,09/09/2019
+582662,Carlos Garcia,Female,02/10/1975,Istanbul,(555)123-4567,B-,SGK,2020-11-16
+466643,Fatma Garcia,Female,1991-08-23,Ankara,555 123 4567,B+,SGK,2022-11-22
+420015,John Garcia,Male,2009-02-03,Istanbul,5551234567,O+,None,22/06/2018
+960394,John Demir,Female,07/07/1986,Ankara,5551234567,A-,None,2019-01-05
+933980,Sofia Ivanov,male,1997-02-14,Izmir,123,Unknown,PrivateCare,2019-01-05
+338651,Carlos Smith,male,1962-12-11,ANKARA,123,A+,HealthCo,26/05/2020
+333752,Aisha Chen,Female,07/10/2012,Izmir,(555)123-4567,O+,HealthCo,2021-07-20
+124813,Omar Chen,Male,1977-08-25,Antalya,,B-,MediPlus,2024-10-17
+792094,Aisha Khan,Female,30/09/1977,ANKARA,INVALID,Unknown,SGK,26/01/2022
+302511,Carlos Garcia,Female,1976-12-29,istanbul ,,O+,HealthCo,2020-08-22
+517821,Ali Garcia,male,09/03/1957,Antalya,INVALID,A-,PrivateCare,2023-07-07
+444207,Omar Garcia,male,1995-06-05,istanbul ,,A+,SGK,2022-09-20
+392136,Sofia Kaya,male,2006-07-14,Izmir,123,A-,SGK,2019-07-12
+172792,Mehmet Smith,male,29/04/1996,istanbul ,INVALID,B+,MediPlus,17/06/2019
+910891,Mehmet Ivanov,FEMALE,23/05/1979,istanbul ,123,B-,SGK,2020-03-24
+392683,Ali Silva,Female,21/01/2008,Izmir,,B+,SGK,25/07/2020
+468203,Carlos Ivanov,Male,24/06/1988,Istanbul,,Unknown,HealthCo,2019-09-04
+772642,Sofia Rossi,male,1960-08-19,Izmir,,,HealthCo,2020-04-12
+634150,Mehmet Khan,Female,15/07/1968,istanbul ,(555)123-4567,A+,MediPlus,05/03/2021
+519093,John Smith,FEMALE,2005-06-01,Istanbul,5551234567,,PrivateCare,2020-10-14
+812526,Jane Khan,male,2011-08-15,Istanbul,5551234567,A+,SGK,20/04/2022
+984642,Jane Smith,Male,01/04/1992,Istanbul,555 123 4567,Unknown,MediPlus,19/10/2024
+662262,Carlos Chen,Female,12/11/1961,Bursa,INVALID,O+,HealthCo,2024-04-10
+447235,Mehmet Demir,Male,20/06/1978,Ankara,INVALID,AB+,MediPlus,2022-11-09
+128941,Carlos Garcia,Female,13/08/1973,Izmir,,,PrivateCare,2020-12-16
+220944,Aisha Rossi ,male,1954-10-10,Ankara,,,HealthCo,2018-08-12
+373903,Ayşe Rossi,Female,1953-08-29,Istanbul,555 123 4567,A-,PrivateCare,2024-04-16
+287241,John Kaya,Female,05/02/1965,Bursa,5551234567,B+,HealthCo,2021-01-22
+708792,Ayşe Smith,Male,09/09/1994,istanbul ,555 123 4567,A-,MediPlus,2021-09-08
+378361,Mehmet Yılmaz,Male,1957-04-10,Izmir,5551234567,,MediPlus,2023-05-20
+140115,Omar Ivanov,Male,1961-08-08,Antalya,5551234567,Unknown,SGK,19/07/2018
+213668,Carlos Garcia,Female,1965-12-21,istanbul ,INVALID,AB+,PrivateCare,2022-06-22
+725550,Ayşe Garcia,male,14/01/1994,Antalya,5551234567,O+,None,24/06/2021
+555673,Fatma Rossi,Male,18/12/1989,ANKARA,INVALID,O+,None,2023-05-06
+462479,Mehmet Khan,Female,2006-08-01,Antalya,,B+,HealthCo,2018-06-15
+863934,Aisha Silva,male,1957-07-14,Ankara,(555)123-4567,AB+,PrivateCare,2022-11-27
+924629,Aisha Khan ,Male,1976-07-05,Bursa,INVALID,Unknown,SGK,2024-03-06
+428914,Wei Ivanov,Male,1972-09-24,Antalya,,,PrivateCare,2024-07-26
+557592,Mehmet Khan,FEMALE,1954-01-23,Bursa,555 123 4567,O+,PrivateCare,2021-05-04
+735656,Fatma Kaya,FEMALE,07/01/1957,Bursa,5551234567,A+,HealthCo,2024-10-10
+636265,Ayşe Yılmaz,FEMALE,29/05/1965,Izmir,123,O+,HealthCo,2023-02-28
+221263,John Demir ,Female,1961-03-22,ANKARA,5551234567,B-,HealthCo,2020-02-21
+503906,Sofia Kaya,FEMALE,2008-04-16,Ankara,INVALID,Unknown,SGK,2024-01-16
+704596,Ayşe Kaya,FEMALE,04/09/1963,Bursa,(555)123-4567,B-,MediPlus,29/12/2022
+299312,Luca Khan,FEMALE,1954-07-27,ANKARA,INVALID,AB+,SGK,2019-02-25
+367095,Wei Khan ,Male,1993-08-11,istanbul ,123,O+,None,2023-06-22
+146542,Ayşe Garcia,male,2008-02-29,istanbul ,,Unknown,SGK,2023-04-23
+843215,Mehmet Garcia,male,2015-02-25,Bursa,,,PrivateCare,2021-11-09
+557239,John Khan,Female,26/05/1987,Bursa,(555)123-4567,AB+,SGK,15/01/2022
+101773,Sofia Rossi,FEMALE,1961-08-01,istanbul ,555 123 4567,B-,PrivateCare,2019-10-03
+645175,Aisha Yılmaz,Male,1951-08-18,ANKARA,5551234567,O+,HealthCo,2020-12-04
+945687,Ayşe Ivanov,male,1970-05-04,ANKARA,5551234567,AB+,PrivateCare,2020-07-06
+664607,Omar Silva,FEMALE,19/03/2004,ANKARA,5551234567,A-,None,26/07/2018
+820221,Luca Demir,Female,2000-06-18,Izmir,(555)123-4567,AB+,HealthCo,2019-03-08
+854377,Aisha Rossi,Female,21/09/2015,Istanbul,(555)123-4567,,HealthCo,2019-09-24
+877991,Ali Smith,FEMALE,1992-06-30,Izmir,,B-,PrivateCare,2023-08-31
+872840,Aisha Khan,FEMALE,1970-06-22,ANKARA,123,O+,SGK,2022-10-23
+803204,Wei Kaya ,male,22/11/1950,istanbul ,(555)123-4567,Unknown,SGK,21/10/2023
+306606,Carlos Yılmaz ,male,24/03/2009,istanbul ,INVALID,AB+,MediPlus,11/09/2019
+481913,Jane Yılmaz,FEMALE,06/02/1975,Antalya,(555)123-4567,,MediPlus,05/11/2024
+552248,Sofia Khan,Female,13/09/1967,Bursa,123,AB+,PrivateCare,2018-12-12
+173372,Ayşe Silva,Male,1999-07-03,ANKARA,123,AB+,PrivateCare,27/10/2021
+796503,John Khan,male,1995-05-01,Istanbul,5551234567,A-,HealthCo,03/09/2018
+446239,John Ivanov,Female,2016-02-09,Izmir,555 123 4567,AB+,None,20/10/2021
+753425,Sofia Kaya,Female,2014-02-01,ANKARA,555 123 4567,,SGK,2020-10-11
+429164,Mehmet Khan,Female,1986-12-20,istanbul ,5551234567,O+,None,2018-09-12
+795612,Carlos Ivanov,FEMALE,2000-02-24,istanbul ,,,HealthCo,06/06/2022
+989208,Mehmet Kaya,Male,1995-05-18,Antalya,(555)123-4567,,HealthCo,2023-02-18
+230679,Ali Kaya,Male,2000-02-26,Izmir,123,AB+,SGK,2019-05-02
+854717,Aisha Kaya,Female,1960-07-25,Ankara,123,Unknown,SGK,2022-03-14
+414910,John Garcia,Male,1969-05-05,ANKARA,5551234567,Unknown,HealthCo,2023-06-26
+631756,Luca Garcia,Female,2000-10-03,ANKARA,(555)123-4567,,HealthCo,15/10/2021
+424308,Sofia Rossi,FEMALE,14/05/1963,istanbul ,(555)123-4567,Unknown,MediPlus,2021-08-25
+799287,Aisha Yılmaz,Male,24/02/2010,Bursa,,AB+,None,2021-02-10
+528231,Sofia Demir,Male,2007-10-08,Bursa,123,B-,HealthCo,28/02/2020
+442027,Aisha Yılmaz ,Female,16/10/1960,Ankara,,,SGK,2023-12-19
+521947,Aisha Ivanov,male,1978-09-30,istanbul ,(555)123-4567,Unknown,SGK,2018-07-04
+831076,Aisha Chen,male,1984-04-09,Ankara,(555)123-4567,AB+,SGK,15/04/2019
+410016,Mehmet Garcia,Male,16/07/1986,Antalya,5551234567,AB+,HealthCo,2018-08-30
+681343,Ayşe Chen,Male,1962-10-13,Istanbul,(555)123-4567,B-,None,2021-08-20
+233470,Luca Smith,Male,1994-03-24,Izmir,INVALID,Unknown,SGK,2023-08-29
+301158,Wei Yılmaz,Male,23/07/1986,Ankara,123,B+,MediPlus,2018-03-18
+540869,Luca Khan,male,1990-01-04,Bursa,(555)123-4567,B-,None,2023-08-12
+797229,Carlos Silva,Female,1990-07-12,Istanbul,5551234567,,MediPlus,19/03/2023
+497562,Luca Garcia,male,2011-01-03,Istanbul,(555)123-4567,A-,MediPlus,10/12/2021
+810219,Ayşe Khan,FEMALE,2012-08-29,Ankara,123,O+,MediPlus,27/07/2019
+884475,Sofia Garcia,male,12/07/2017,Ankara,INVALID,O+,SGK,2021-01-23
+282480,Omar Kaya,Female,30/12/2007,istanbul ,123,,HealthCo,2024-10-29
+745414,Aisha Demir,FEMALE,26/03/2008,Antalya,5551234567,O+,HealthCo,2024-01-16
+696750,Luca Chen,Female,1984-09-12,istanbul ,5551234567,B-,SGK,2018-02-04
+415568,John Chen,FEMALE,1967-03-08,Izmir,5551234567,AB+,HealthCo,26/05/2021
+525800,Omar Ivanov,FEMALE,1968-10-04,Ankara,123,B-,None,2022-06-11
+674553,Sofia Ivanov ,male,2000-09-13,Bursa,(555)123-4567,AB+,PrivateCare,2024-08-06
+974224,Sofia Yılmaz,Male,03/03/2012,istanbul ,,A+,MediPlus,2020-11-01
+100425,Carlos Khan,Male,1974-08-02,Antalya,(555)123-4567,A+,MediPlus,2023-10-24
+418635,Carlos Silva ,Male,1990-04-09,Antalya,(555)123-4567,Unknown,SGK,2022-05-25
+400850,Fatma Smith ,FEMALE,1964-10-03,istanbul ,5551234567,O+,MediPlus,2018-09-15
+320392,Fatma Demir,Female,1992-06-27,Istanbul,123,,SGK,27/10/2021
+550770,Sofia Rossi,Male,2001-12-09,ANKARA,(555)123-4567,A+,HealthCo,06/09/2018
+923927,Ali Garcia ,Male,16/10/2004,Izmir,INVALID,Unknown,SGK,2018-09-27
+708158,Luca Khan,FEMALE,30/11/1970,Bursa,123,A-,MediPlus,2018-02-13
+736130,Sofia Yılmaz,Male,1990-09-27,Bursa,(555)123-4567,B+,None,2024-08-04
+786508,John Chen,Male,1987-10-09,Istanbul,(555)123-4567,AB+,None,2022-12-27
+437902,Carlos Silva,Female,20/06/2008,Ankara,INVALID,AB+,None,2021-06-28
+587575,Jane Garcia,Male,02/02/1983,Ankara,123,A+,HealthCo,2023-10-22
+563246,Jane Smith,FEMALE,23/12/1967,Antalya,,,None,04/04/2020
+563638,Omar Chen,Female,2001-11-22,Istanbul,INVALID,A+,HealthCo,2021-10-06
+808446,Fatma Yılmaz,FEMALE,2007-04-23,Antalya,555 123 4567,Unknown,PrivateCare,2020-08-01
+324082,Carlos Kaya,Female,1950-08-09,Izmir,INVALID,B-,None,2018-10-30
+636004,Jane Yılmaz,Female,1952-08-30,Izmir,123,B-,PrivateCare,2021-03-09
+596171,Fatma Yılmaz,FEMALE,18/10/1965,Antalya,5551234567,O+,PrivateCare,2019-02-19
+932291,John Rossi,FEMALE,1971-07-19,Antalya,5551234567,A-,PrivateCare,2022-03-06
+934692,Mehmet Smith,Female,1967-03-14,Istanbul,123,B-,None,2022-03-13
+871711,John Kaya,FEMALE,1979-05-26,Ankara,,A-,HealthCo,21/02/2021
+277934,Sofia Ivanov,male,1955-10-27,istanbul ,123,,PrivateCare,09/05/2022
+790855,Jane Chen,Male,21/02/1997,Ankara,(555)123-4567,B-,HealthCo,2023-07-20
+188914,Fatma Khan,male,1969-08-11,Izmir,123,A-,PrivateCare,2022-03-25
+397571,Ayşe Garcia,male,1989-11-17,istanbul ,INVALID,,HealthCo,2020-07-31
+640490,Carlos Chen,male,1994-08-21,Antalya,5551234567,O+,SGK,2022-04-16
+796101,John Silva,Male,1996-01-03,Istanbul,5551234567,O+,SGK,17/11/2018
+763686,Aisha Smith,male,1979-12-11,Ankara,,B+,None,2021-09-10
+749342,John Yılmaz,FEMALE,1976-11-13,ANKARA,123,A+,HealthCo,20/11/2021
+451470,Sofia Silva,Female,15/04/2018,istanbul ,(555)123-4567,,HealthCo,2022-06-17
+197923,Jane Demir,Female,01/02/1978,istanbul ,INVALID,A+,MediPlus,23/10/2022
+958179,Mehmet Ivanov,male,1961-07-07,Izmir,(555)123-4567,Unknown,HealthCo,2018-02-09
+887625,Sofia Khan,Male,09/06/2018,Ankara,(555)123-4567,O+,None,2024-01-12
+346277,Sofia Ivanov,FEMALE,2004-07-13,Istanbul,123,Unknown,PrivateCare,21/05/2022
+805477,Wei Demir,Female,1979-07-03,Istanbul,,B+,SGK,2023-01-24
+425498,Omar Ivanov,male,1993-11-01,Ankara,(555)123-4567,AB+,None,2020-03-26
+335552,Ayşe Rossi,FEMALE,1955-02-26,istanbul ,(555)123-4567,A-,PrivateCare,2018-02-15
+945742,Aisha Khan,Female,27/11/1992,ANKARA,(555)123-4567,AB+,HealthCo,13/05/2022
+308802,Omar Rossi,FEMALE,30/03/1964,Izmir,(555)123-4567,A+,PrivateCare,2021-06-25
+254511,Wei Demir,FEMALE,26/10/1985,istanbul ,INVALID,A+,SGK,2020-10-08
+125611,John Rossi,Female,10/02/1981,istanbul ,(555)123-4567,B+,None,2021-05-03
+148458,Omar Khan ,Male,1991-01-28,Ankara,(555)123-4567,AB+,None,2020-01-22
+356736,John Demir,Male,16/08/2012,Izmir,5551234567,A-,None,08/06/2020
+598216,Jane Khan,Male,1990-06-16,Antalya,,,HealthCo,2020-04-29
+740967,Jane Khan,Female,1967-06-11,Izmir,,,HealthCo,2018-02-13
+991014,Wei Demir,FEMALE,1957-05-28,ANKARA,555 123 4567,B+,PrivateCare,19/09/2020
+905819,Ali Ivanov,Male,1959-01-07,Antalya,5551234567,AB+,PrivateCare,2019-05-24
+176365,Wei Chen,FEMALE,1965-12-18,Antalya,5551234567,A-,HealthCo,22/05/2018
+577538,Omar Garcia,Female,1989-10-31,Ankara,555 123 4567,B-,PrivateCare,2018-01-20
+534572,Ayşe Yılmaz,Male,1987-10-31,Ankara,5551234567,B+,PrivateCare,2018-03-01
+760356,Ali Khan,Female,1995-12-24,Bursa,INVALID,Unknown,SGK,2021-09-01
+703634,Fatma Smith,Male,1959-07-02,istanbul ,(555)123-4567,,PrivateCare,2019-12-13
+303880,Ayşe Garcia,male,23/04/2008,ANKARA,123,,SGK,2018-06-29
+853240,Omar Silva,FEMALE,2001-01-24,Antalya,,B+,MediPlus,2019-01-24
+830180,Mehmet Chen,FEMALE,2009-10-13,istanbul ,123,B-,None,2021-10-04
+502630,Luca Yılmaz,Female,1970-11-14,Bursa,5551234567,A+,PrivateCare,2019-05-24
+618392,Jane Rossi ,FEMALE,1976-08-11,Antalya,555 123 4567,B+,MediPlus,2022-03-20
+519066,Jane Yılmaz,Male,23/09/1996,Ankara,,O+,MediPlus,2022-08-27
+355836,Fatma Smith,Female,1998-05-21,Bursa,INVALID,O+,PrivateCare,14/10/2020
+254739,Wei Yılmaz ,Female,19/10/1955,Ankara,(555)123-4567,A-,PrivateCare,14/10/2018
+787926,Luca Silva,Female,1968-05-02,Antalya,(555)123-4567,B-,HealthCo,2018-11-17
+821024,Mehmet Ivanov,male,1972-05-03,ANKARA,INVALID,A-,MediPlus,2024-06-19
+105814,Carlos Khan,Female,1965-01-19,ANKARA,INVALID,A+,HealthCo,2022-09-28
+887443,Carlos Demir,Female,30/01/2018,Izmir,INVALID,,MediPlus,2021-05-14
+907451,Wei Garcia,FEMALE,1983-08-28,Ankara,(555)123-4567,B-,SGK,2023-05-24
+211764,Ali Silva,FEMALE,11/07/2015,Antalya,555 123 4567,Unknown,HealthCo,2023-07-06
+916232,John Ivanov,Female,1956-05-23,Ankara,INVALID,AB+,MediPlus,09/06/2018
+545798,Aisha Rossi,Female,20/12/2006,Ankara,INVALID,A+,MediPlus,2018-08-25
+329471,Sofia Yılmaz,Female,28/07/2012,Izmir,(555)123-4567,B+,SGK,2019-08-29
+284430,Ayşe Demir,Male,24/10/2007,Bursa,(555)123-4567,Unknown,PrivateCare,2022-04-24
+943170,Carlos Garcia,male,2012-01-26,Antalya,INVALID,A-,SGK,2023-12-24
+829716,Sofia Ivanov,FEMALE,24/11/1980,Antalya,555 123 4567,A+,PrivateCare,06/01/2021
+643118,Wei Yılmaz,FEMALE,1958-09-10,Ankara,(555)123-4567,O+,PrivateCare,2022-09-08
+587115,Omar Kaya,Female,1967-10-07,Ankara,(555)123-4567,A+,PrivateCare,21/08/2023
+152657,Fatma Garcia,male,1986-09-04,Istanbul,INVALID,A-,MediPlus,24/03/2019
+684482,Ayşe Chen,Male,1952-08-30,Istanbul,555 123 4567,A+,None,2023-05-12
+361303,Ali Demir,male,1968-12-08,istanbul ,INVALID,O+,None,2018-01-30
+989545,Carlos Chen,male,07/04/1983,Antalya,INVALID,Unknown,None,06/11/2021
+227253,Ali Chen,Female,18/08/1979,Istanbul,123,A-,None,2018-01-13
+578634,John Smith,Male,1983-01-20,Antalya,555 123 4567,A+,MediPlus,2023-05-01
+239816,Ali Chen,Male,2010-10-27,Izmir,INVALID,,SGK,2024-10-21
+940346,Omar Khan,Male,13/05/1976,Ankara,INVALID,A-,MediPlus,10/08/2019
+587213,Sofia Silva,Female,1991-11-18,Ankara,(555)123-4567,B+,SGK,02/01/2023
+800005,Ayşe Khan,Female,2014-03-20,Antalya,555 123 4567,,SGK,30/08/2021
+656932,Sofia Kaya,Female,15/12/1997,Bursa,123,A-,MediPlus,2023-07-09
+686075,Carlos Khan,Female,31/08/2008,Ankara,555 123 4567,A-,MediPlus,20/04/2024
+724377,Ayşe Demir,Male,1957-12-30,Bursa,555 123 4567,B+,MediPlus,22/08/2024
+432711,Carlos Ivanov,FEMALE,2016-02-11,istanbul ,555 123 4567,O+,PrivateCare,2018-09-11
+891937,Aisha Ivanov,male,2003-01-01,Ankara,555 123 4567,B-,HealthCo,2022-06-08
+564071,Sofia Rossi,Male,24/03/1963,Bursa,555 123 4567,AB+,None,21/08/2019
+742412,Omar Demir,FEMALE,14/07/1974,Izmir,,Unknown,SGK,2024-06-08
+954596,Jane Kaya ,Female,2014-04-21,ANKARA,INVALID,Unknown,MediPlus,10/07/2020
+854213,Sofia Kaya,male,1951-12-08,ANKARA,INVALID,Unknown,SGK,2021-10-14
+629298,Aisha Garcia,Male,02/05/1975,Ankara,555 123 4567,A+,MediPlus,10/03/2020
+547470,Wei Kaya,Female,2001-10-12,ANKARA,,B-,SGK,2023-05-31
+970914,Jane Ivanov,Female,23/02/1959,Istanbul,5551234567,O+,HealthCo,2019-08-28
+674485,Mehmet Yılmaz,FEMALE,12/07/1960,Ankara,5551234567,A-,PrivateCare,2021-10-18
+567574,Carlos Rossi,Male,26/02/1977,ANKARA,INVALID,Unknown,MediPlus,2019-12-08
+266889,Sofia Rossi,Female,1982-12-15,Istanbul,123,,MediPlus,2019-04-23
+879779,Omar Demir,male,2003-03-11,Bursa,(555)123-4567,A-,MediPlus,07/06/2023
+597732,Ayşe Silva,FEMALE,1966-08-03,Istanbul,123,A-,PrivateCare,2018-03-22
+571932,Sofia Demir,male,18/03/1966,Istanbul,5551234567,B+,None,2020-01-08
+371782,Fatma Kaya,male,1957-11-17,Izmir,123,B+,HealthCo,2018-05-24
+888295,Sofia Yılmaz,FEMALE,1972-04-12,Ankara,123,,MediPlus,29/10/2023
+359249,Aisha Chen,Male,2004-05-20,Ankara,5551234567,B-,PrivateCare,2020-05-09
+980660,John Smith,FEMALE,15/01/1962,Istanbul,123,AB+,MediPlus,2020-06-03
+768636,Carlos Kaya,Female,1985-11-22,Bursa,(555)123-4567,A-,MediPlus,2020-11-07
+390782,Sofia Smith,Female,2014-02-04,Izmir,INVALID,Unknown,SGK,2023-09-26
+903013,Luca Smith,Male,1956-12-15,Izmir,,A-,MediPlus,2023-12-17
+915451,Jane Garcia ,Female,16/02/1963,istanbul ,5551234567,A-,PrivateCare,2020-07-13
+646622,Aisha Garcia,male,29/10/2002,Bursa,555 123 4567,A-,SGK,2023-06-29
+608136,Mehmet Chen,FEMALE,2017-06-15,istanbul ,123,B+,MediPlus,14/11/2021
+757193,Ali Silva,male,2013-12-26,Istanbul,,O+,PrivateCare,2019-06-02
+350867,Sofia Ivanov,FEMALE,11/07/1987,Bursa,555 123 4567,AB+,HealthCo,2020-01-20
+387936,Aisha Smith,male,19/05/1977,ANKARA,5551234567,A-,SGK,23/12/2018
+561239,Omar Smith,FEMALE,1958-05-27,ANKARA,5551234567,Unknown,None,2018-08-24
+181247,Omar Kaya,Female,1993-01-12,ANKARA,,A+,HealthCo,2023-12-21
+848206,Omar Silva ,FEMALE,2017-04-04,Ankara,,B-,PrivateCare,2023-12-04
+399607,Ayşe Chen,male,1961-12-17,Istanbul,555 123 4567,B-,None,2018-07-28
+345884,Ayşe Garcia,FEMALE,1976-11-03,Ankara,555 123 4567,A+,HealthCo,2020-12-20
+384913,Luca Rossi,Male,1955-02-28,Izmir,,B+,HealthCo,2023-03-01
+452161,Jane Yılmaz,Female,1959-02-03,istanbul ,5551234567,,SGK,2020-03-20
+435239,Mehmet Garcia,Female,1970-04-14,Bursa,555 123 4567,A-,HealthCo,2022-03-14
+666390,Sofia Rossi,Female,1964-07-08,Istanbul,(555)123-4567,AB+,SGK,2022-11-13
+184491,Mehmet Khan,FEMALE,11/10/1987,Antalya,555 123 4567,A-,HealthCo,2018-05-10
+245095,Wei Silva,FEMALE,17/06/1994,Bursa,,Unknown,PrivateCare,2019-06-06
+258157,Ayşe Demir,Female,1951-11-25,Istanbul,,O+,HealthCo,2021-11-10
+342495,Luca Yılmaz,Female,1988-12-19,Bursa,(555)123-4567,B+,PrivateCare,2021-03-01
+501641,John Demir,FEMALE,23/08/1973,Antalya,5551234567,B+,PrivateCare,2020-10-10
+827659,Luca Kaya,Female,1970-07-31,istanbul ,5551234567,B-,SGK,2022-07-02
+260227,Ali Khan,Male,1986-07-17,Bursa,INVALID,A+,MediPlus,2020-08-05
+840734,Ayşe Garcia,Male,1982-08-14,Ankara,5551234567,A+,SGK,08/12/2021
+324345,Sofia Chen,Female,1969-01-07,Izmir,INVALID,O+,MediPlus,21/02/2021
+167348,John Demir,male,10/09/1958,Antalya,555 123 4567,O+,PrivateCare,10/03/2024
+535020,Sofia Garcia,Male,1968-11-04,Istanbul,123,B-,PrivateCare,24/12/2018
+527398,Omar Rossi,FEMALE,1958-11-07,ANKARA,(555)123-4567,B+,SGK,2024-02-17
+446954,Mehmet Smith,male,1987-07-09,Izmir,INVALID,A-,HealthCo,31/10/2020
+668969,Ayşe Rossi,male,1987-08-04,Antalya,(555)123-4567,AB+,SGK,26/08/2023
+588557,Luca Yılmaz,Male,2012-03-30,Ankara,INVALID,Unknown,None,2022-06-17
+535970,Carlos Khan,Male,2004-06-23,ANKARA,123,,None,2020-01-24
+165290,Omar Silva,Male,1973-03-22,Ankara,(555)123-4567,A+,None,2020-06-21
+316881,Fatma Garcia,Male,04/07/1953,Antalya,(555)123-4567,B-,None,11/02/2021
+973349,Ayşe Yılmaz,male,2008-03-11,Antalya,(555)123-4567,Unknown,None,14/10/2024
+540552,John Chen,male,20/02/1955,Ankara,555 123 4567,A+,None,12/02/2018
+508396,Sofia Ivanov,Female,20/07/1959,ANKARA,INVALID,B-,MediPlus,14/04/2022
+907189,John Smith,FEMALE,08/03/2002,Izmir,(555)123-4567,,SGK,2022-06-08
+712451,Wei Kaya,Female,1991-03-20,Antalya,555 123 4567,A+,MediPlus,2019-12-23
+829308,Mehmet Kaya ,Female,14/05/1985,istanbul ,,Unknown,SGK,2020-02-09
+120480,Omar Silva,Male,26/04/1962,Istanbul,5551234567,A+,PrivateCare,2018-02-18
+998348,Fatma Demir,Male,1974-01-05,Bursa,,O+,SGK,2024-09-22
+902784,Fatma Kaya,FEMALE,06/02/1993,Ankara,(555)123-4567,A+,None,25/12/2022
+703655,Omar Garcia,male,2006-04-18,Istanbul,123,Unknown,PrivateCare,28/03/2018
+498858,Ali Smith,Female,1952-02-26,Antalya,INVALID,A-,HealthCo,2022-04-28
+600149,Mehmet Demir,Male,1970-02-22,Izmir,5551234567,A+,None,2021-02-28
+106182,Mehmet Kaya,male,1988-06-15,Bursa,555 123 4567,O+,SGK,2024-09-22
+468845,John Rossi,Male,2009-05-14,ANKARA,5551234567,B+,PrivateCare,23/12/2020
+413118,Jane Kaya,FEMALE,1985-01-16,Antalya,555 123 4567,B+,SGK,14/05/2023
+890075,Jane Kaya,FEMALE,26/04/1966,Bursa,,O+,PrivateCare,2021-12-15
+508930,Sofia Smith,Female,1984-05-18,istanbul ,5551234567,Unknown,None,2023-07-30
+994905,Luca Smith,Male,2013-01-28,Izmir,123,,PrivateCare,2022-01-21
+976325,Ayşe Yılmaz,FEMALE,1981-05-05,Ankara,(555)123-4567,B-,SGK,2019-07-25
+539375,Omar Kaya ,FEMALE,08/07/1960,Izmir,5551234567,A-,None,2019-08-10
+664365,Ayşe Rossi,Female,14/04/2003,Istanbul,5551234567,Unknown,PrivateCare,2018-05-04
+883826,Mehmet Rossi,FEMALE,2016-09-15,Antalya,555 123 4567,,SGK,2023-12-01
+870319,John Demir,Female,1963-12-27,Istanbul,INVALID,Unknown,HealthCo,2018-05-12
+672661,Aisha Garcia,Male,2001-04-28,Bursa,INVALID,B+,PrivateCare,2020-07-20
+938722,Carlos Ivanov,Male,1955-01-09,ANKARA,,,HealthCo,23/01/2020
+732556,Jane Khan,Male,1984-02-19,Istanbul,5551234567,O+,None,2022-03-02
+331251,Jane Yılmaz,Male,1971-06-28,ANKARA,555 123 4567,B-,None,2024-01-28
+611945,Fatma Yılmaz,FEMALE,1971-07-25,Istanbul,5551234567,O+,SGK,2024-05-24
+330080,John Yılmaz,FEMALE,30/12/1981,Antalya,555 123 4567,B+,SGK,2022-06-19
+386193,Jane Khan,FEMALE,2016-07-08,istanbul ,123,A+,MediPlus,19/08/2023
+557007,Mehmet Kaya,Female,2011-03-22,ANKARA,,B+,PrivateCare,18/01/2019
+609232,Aisha Silva,Female,18/05/2015,Izmir,555 123 4567,O+,None,14/11/2023
+130434,Carlos Yılmaz,Male,11/12/2013,Ankara,123,,SGK,2022-05-07
+507746,Ali Kaya,Female,1977-10-09,Izmir,(555)123-4567,A-,MediPlus,2018-12-24
+452457,Luca Chen,FEMALE,1981-09-14,Izmir,INVALID,B+,SGK,04/01/2020
+801364,Luca Rossi,Female,1953-07-21,istanbul ,555 123 4567,O+,MediPlus,2021-03-20
+812131,Ayşe Khan,Female,1995-05-23,Antalya,123,A+,PrivateCare,2018-06-24
+936912,Ayşe Garcia,FEMALE,1983-09-19,Antalya,5551234567,O+,HealthCo,24/06/2022
+523956,Wei Silva,FEMALE,1991-09-15,ANKARA,INVALID,B-,HealthCo,09/01/2020
+859359,Jane Demir,FEMALE,1978-06-19,Istanbul,555 123 4567,,SGK,2024-10-11
+273061,Aisha Kaya ,FEMALE,1992-02-29,Istanbul,555 123 4567,Unknown,HealthCo,2020-05-24
+981334,Fatma Yılmaz,Male,22/12/1968,Ankara,5551234567,AB+,HealthCo,2022-09-29
+590094,Ayşe Garcia,male,2013-11-23,Ankara,5551234567,A-,HealthCo,2022-09-16
+233827,Jane Garcia,Female,1964-10-05,Antalya,INVALID,O+,None,2022-09-13
+752483,Carlos Yılmaz,Female,27/04/2000,Izmir,,O+,SGK,2024-09-11
+660069,Mehmet Rossi,FEMALE,1963-03-26,Izmir,123,A+,HealthCo,2021-07-20
+128276,Mehmet Rossi,Female,28/04/2007,istanbul ,,B+,None,2019-02-04
+513160,Carlos Smith,Male,1981-03-25,Izmir,555 123 4567,A+,MediPlus,22/02/2020
+720644,John Silva,FEMALE,11/03/1961,Bursa,555 123 4567,A-,PrivateCare,2023-02-11
+691807,Wei Khan,male,1983-06-23,ANKARA,,Unknown,MediPlus,2024-09-02
+795205,Omar Ivanov ,FEMALE,26/11/1958,Istanbul,INVALID,A-,HealthCo,2019-03-02
+128418,Aisha Ivanov,FEMALE,05/12/1952,Istanbul,(555)123-4567,,SGK,2022-09-19
+188025,Jane Rossi,Female,18/01/1987,Bursa,555 123 4567,AB+,MediPlus,2022-06-10
+773971,John Khan ,male,2010-05-28,ANKARA,123,O+,MediPlus,2022-08-26
+549433,Mehmet Ivanov,Male,1988-07-30,ANKARA,123,Unknown,PrivateCare,2022-05-23
+242291,Sofia Khan,Male,2015-04-28,Antalya,(555)123-4567,A-,None,2021-07-27
+584125,Carlos Garcia ,FEMALE,1999-08-09,Istanbul,,B+,SGK,2021-08-13
+290556,Luca Silva,FEMALE,1957-01-25,Antalya,,O+,PrivateCare,14/04/2018
+152727,Fatma Smith,FEMALE,1976-08-21,ANKARA,555 123 4567,A+,MediPlus,01/10/2020
+372793,Ayşe Kaya,Male,2006-04-16,Istanbul,(555)123-4567,AB+,MediPlus,01/07/2024
+497519,Mehmet Demir,Male,1956-12-10,istanbul ,5551234567,Unknown,SGK,20/01/2022
+443254,Wei Demir,FEMALE,12/11/1968,ANKARA,(555)123-4567,B+,MediPlus,18/03/2022
+321941,Ali Kaya,male,2009-03-07,Izmir,INVALID,A+,PrivateCare,20/10/2024
+576786,Aisha Garcia,Female,1960-11-28,Ankara,555 123 4567,A-,PrivateCare,2018-05-02
+442722,Ali Chen,Male,1962-06-07,Izmir,,AB+,HealthCo,2019-06-03
+453894,Omar Rossi,Female,1989-02-13,Antalya,,AB+,HealthCo,27/06/2022
+898207,Ayşe Ivanov,FEMALE,2002-09-18,istanbul ,123,AB+,MediPlus,23/04/2020
+497542,Luca Demir,Male,2004-06-25,istanbul ,(555)123-4567,A+,None,2020-03-29
+391773,John Ivanov ,Female,1986-10-07,ANKARA,555 123 4567,Unknown,PrivateCare,2023-12-13
+888539,Jane Smith,Male,1956-07-08,Istanbul,555 123 4567,A+,MediPlus,2022-03-03
+972335,Fatma Rossi,Female,28/11/2000,Bursa,(555)123-4567,A-,None,2020-08-10
+542042,John Ivanov,male,2010-03-25,Ankara,(555)123-4567,A+,HealthCo,2022-09-24
+364525,Wei Yılmaz,FEMALE,1974-08-15,Ankara,123,A+,MediPlus,2019-05-24
+975467,Ali Ivanov,Male,02/06/1950,Bursa,123,A+,MediPlus,2021-03-10
+185884,Sofia Yılmaz,male,1956-03-25,istanbul ,5551234567,O+,HealthCo,28/08/2022
+593152,Luca Yılmaz,Male,1985-04-15,ANKARA,555 123 4567,A-,SGK,2023-02-05
+120324,Fatma Yılmaz,Female,1950-12-07,Ankara,5551234567,B-,MediPlus,15/08/2021
+885408,Aisha Yılmaz ,Male,30/09/2011,Izmir,5551234567,AB+,MediPlus,29/11/2020
+665621,Omar Ivanov,Male,1984-01-20,Ankara,555 123 4567,B+,None,29/11/2019
+154615,Carlos Rossi,FEMALE,2009-12-13,Izmir,555 123 4567,,PrivateCare,2023-12-02
+466960,Ayşe Garcia,Female,30/07/1976,Antalya,5551234567,A-,HealthCo,2021-12-16
+335113,Ali Smith,Male,07/03/1951,Izmir,(555)123-4567,O+,MediPlus,02/04/2023
+781725,Omar Rossi,male,2008-10-15,istanbul ,INVALID,B-,HealthCo,2023-08-29
+171951,Fatma Demir,Male,1974-12-05,Ankara,INVALID,A-,SGK,12/06/2021
+919182,Fatma Yılmaz,male,1991-05-07,Izmir,5551234567,A-,MediPlus,2018-04-28
+783414,Carlos Smith ,male,1963-07-07,Izmir,5551234567,A+,HealthCo,2022-10-31
+142213,Omar Khan,FEMALE,1967-05-26,Bursa,INVALID,A-,SGK,2022-07-08
+890870,Sofia Smith,Female,1959-12-19,Istanbul,123,A-,MediPlus,06/08/2018
+132537,Fatma Ivanov,male,03/10/2012,istanbul ,(555)123-4567,B+,PrivateCare,2022-05-25
+359295,Jane Garcia,FEMALE,2013-04-29,Antalya,555 123 4567,B-,PrivateCare,2018-01-13
+309044,Jane Demir ,FEMALE,1964-12-13,istanbul ,555 123 4567,A+,PrivateCare,2023-02-08
+979995,John Demir,Male,26/04/1965,istanbul ,(555)123-4567,,SGK,2018-02-09
+121369,Ali Yılmaz,Female,22/11/2000,ANKARA,(555)123-4567,A-,SGK,05/04/2021
+751517,John Chen,FEMALE,1990-08-10,Izmir,555 123 4567,,SGK,07/12/2021
+259784,Jane Garcia,FEMALE,2013-09-17,Istanbul,555 123 4567,A+,PrivateCare,23/10/2023
+350132,Carlos Smith,FEMALE,26/02/2009,Izmir,(555)123-4567,A-,PrivateCare,2022-01-03
+232352,Carlos Demir,Female,29/07/1974,Izmir,,O+,MediPlus,10/02/2024
+596564,Carlos Ivanov ,male,09/06/1987,ANKARA,123,A-,HealthCo,2021-02-05
+801978,Wei Ivanov,FEMALE,1981-02-17,Antalya,(555)123-4567,AB+,None,2018-02-04
+219946,Aisha Kaya ,Male,1977-03-29,Ankara,555 123 4567,A-,SGK,22/09/2018
+691364,Wei Garcia,male,1950-06-16,ANKARA,123,B+,SGK,2018-01-03
+328552,Omar Garcia,male,19/10/1962,Ankara,5551234567,,MediPlus,2020-03-16
+587623,Fatma Khan,male,1987-11-29,Ankara,123,Unknown,MediPlus,06/02/2019
+833442,Luca Kaya,male,22/04/2011,Izmir,5551234567,AB+,None,2020-10-21
+368690,Sofia Rossi,male,1998-12-20,Bursa,,O+,HealthCo,2022-11-25
+904150,Jane Khan,Male,1991-11-09,ANKARA,INVALID,A-,PrivateCare,2022-08-08
+486814,Luca Garcia,male,1971-10-09,Istanbul,INVALID,B+,HealthCo,2022-03-09
+275939,Sofia Yılmaz ,Male,10/07/1991,Izmir,,A-,MediPlus,2023-10-23
+735324,Luca Demir,Male,1976-01-26,Antalya,(555)123-4567,B+,None,19/09/2021
+736745,Omar Rossi,Male,1962-03-28,ANKARA,INVALID,B-,SGK,2019-09-26
+884256,Ayşe Yılmaz,Male,24/09/1963,istanbul ,5551234567,,HealthCo,2019-05-11
+853252,Ali Demir,male,1976-11-27,ANKARA,123,,None,24/01/2020
+220096,Ayşe Khan,Female,14/02/1963,Ankara,123,B-,HealthCo,2020-01-27
+915573,Wei Garcia,FEMALE,20/12/1975,istanbul ,,A-,HealthCo,2024-08-08
+959099,Carlos Khan,male,1963-04-18,Istanbul,,,SGK,2023-02-16
+271720,Jane Kaya,male,24/12/1991,Bursa,123,B-,MediPlus,2023-02-21
+426147,Omar Silva,male,1985-01-16,istanbul ,,B+,MediPlus,2019-12-16
+213349,Sofia Garcia,Female,1985-05-05,Bursa,,AB+,PrivateCare,2023-06-05
+706794,Omar Chen,Male,30/10/2002,Istanbul,5551234567,B+,PrivateCare,2021-11-26
+126925,Ayşe Demir,Female,22/10/1994,Istanbul,(555)123-4567,Unknown,HealthCo,2023-05-06
+427110,Ayşe Yılmaz ,male,2004-11-23,Bursa,,A+,PrivateCare,03/06/2018
+703766,Jane Demir,Female,2012-09-07,Ankara,555 123 4567,,HealthCo,30/06/2019
+810250,Sofia Garcia,Female,1970-03-26,Istanbul,123,A+,SGK,2019-10-26
+493537,Fatma Yılmaz,Male,11/08/1962,Izmir,(555)123-4567,,PrivateCare,12/01/2022
+515922,Fatma Ivanov,Female,1992-07-02,ANKARA,5551234567,,HealthCo,2021-12-31
+849747,Sofia Khan,Male,1956-05-11,istanbul ,(555)123-4567,A+,None,05/06/2019
+307963,Aisha Chen,male,1952-01-09,Istanbul,(555)123-4567,AB+,SGK,02/04/2021
+179688,Aisha Ivanov,Male,29/08/1971,Bursa,INVALID,AB+,SGK,2023-08-11
+720859,Ali Chen ,Female,1987-10-22,Bursa,,O+,SGK,02/10/2021
+824161,Fatma Rossi,Male,17/07/1956,Izmir,5551234567,Unknown,None,28/04/2024
+970917,Omar Ivanov,Male,25/03/1957,Istanbul,5551234567,,None,16/05/2023
+757711,Fatma Chen ,Female,1988-09-17,Bursa,123,Unknown,SGK,2020-07-21
+354646,Aisha Rossi,FEMALE,1954-09-05,Bursa,(555)123-4567,A-,HealthCo,2022-03-26
+206851,Ayşe Ivanov ,Female,1982-12-28,Istanbul,123,A+,PrivateCare,2021-11-06
+831059,Carlos Silva,Male,2000-12-17,Istanbul,5551234567,B+,HealthCo,03/03/2018
+910004,Mehmet Garcia,male,1953-12-03,Ankara,123,Unknown,HealthCo,2024-10-03
+416232,Sofia Demir,male,2008-11-27,ANKARA,(555)123-4567,,MediPlus,21/10/2020
+991597,Jane Silva,Male,04/04/1976,Istanbul,555 123 4567,Unknown,None,2020-09-27
+817497,Wei Garcia,male,1957-01-14,Antalya,123,B-,SGK,16/07/2019
+729577,Jane Kaya,Male,21/03/1953,Istanbul,INVALID,A+,MediPlus,2022-12-09
+944657,John Ivanov,FEMALE,1984-06-19,istanbul ,5551234567,Unknown,HealthCo,2018-12-13
+226935,Wei Yılmaz,male,1970-02-19,Istanbul,123,O+,SGK,2020-01-26
+934904,Luca Chen ,FEMALE,21/07/1973,ANKARA,INVALID,A+,SGK,2024-08-17
+693423,Aisha Khan,FEMALE,17/09/2014,istanbul ,123,AB+,PrivateCare,23/03/2021
+920652,Carlos Rossi ,male,22/11/2016,Istanbul,(555)123-4567,AB+,MediPlus,2020-09-02
+143064,Luca Khan,Male,19/06/1953,Istanbul,555 123 4567,O+,MediPlus,2022-01-21
+464069,Mehmet Rossi,FEMALE,1991-07-07,Antalya,123,B-,HealthCo,2018-02-06
+658623,Ali Ivanov,FEMALE,1957-02-19,Ankara,555 123 4567,AB+,MediPlus,2024-11-04
+549186,Wei Kaya,Female,28/05/1970,Istanbul,,A+,PrivateCare,25/08/2019
+793655,Sofia Silva,male,1989-07-03,Izmir,5551234567,O+,None,2018-06-21
+488571,Omar Yılmaz,Male,2003-11-18,Ankara,(555)123-4567,O+,None,2019-03-24
+172306,Jane Khan,male,28/05/1956,Izmir,INVALID,O+,HealthCo,2021-03-05
+630538,John Ivanov,Male,1952-10-17,Istanbul,123,B-,MediPlus,2018-07-02
+778998,Aisha Silva,Female,03/03/2002,istanbul ,,A-,SGK,2020-05-30
+457806,Fatma Ivanov,Male,04/03/1995,ANKARA,123,A+,None,24/02/2024
+113266,Wei Silva,Female,1996-09-06,Izmir,(555)123-4567,O+,PrivateCare,2021-01-07
+990844,Wei Chen,FEMALE,14/02/2017,Izmir,5551234567,O+,None,2020-09-14
+540463,Aisha Demir,Female,03/07/1982,Bursa,(555)123-4567,B-,HealthCo,2024-10-14
+962276,Sofia Ivanov,Male,2009-09-28,Istanbul,INVALID,Unknown,None,02/12/2020
+614013,Mehmet Ivanov,Male,03/05/1994,Ankara,5551234567,Unknown,MediPlus,22/03/2020
+210665,Aisha Rossi ,Female,2016-08-23,Istanbul,(555)123-4567,Unknown,HealthCo,20/05/2018
+554582,Jane Kaya,male,04/02/1986,Bursa,123,A-,SGK,15/09/2020
+479781,Ayşe Chen,FEMALE,10/04/1990,Antalya,(555)123-4567,B+,None,17/01/2023
+766459,Aisha Demir,FEMALE,30/08/1963,istanbul ,555 123 4567,,PrivateCare,2024-08-28
+968962,Aisha Ivanov,Male,22/01/1975,Bursa,123,Unknown,MediPlus,2019-02-01
+582071,Jane Khan,Female,01/08/1978,istanbul ,123,AB+,None,2019-08-10
+841666,Luca Chen,FEMALE,1958-12-04,Ankara,(555)123-4567,AB+,MediPlus,2019-11-10
+260422,Luca Demir,Female,14/10/1970,Istanbul,123,A+,None,2019-08-01
+556641,Aisha Smith,FEMALE,1950-08-07,Antalya,INVALID,B+,HealthCo,2018-04-16
+284692,John Demir,male,05/04/2014,Istanbul,(555)123-4567,AB+,SGK,2019-05-07
+869440,Jane Demir,male,09/10/2016,istanbul ,,A-,MediPlus,2018-11-01
+647091,Ali Khan,Male,05/01/1959,Antalya,,A+,PrivateCare,2023-11-06
+782054,Mehmet Ivanov,Female,02/10/1983,istanbul ,(555)123-4567,,MediPlus,2020-06-20
+383201,Mehmet Smith,Male,13/12/2006,istanbul ,5551234567,,None,16/10/2023
+745830,Luca Smith,Female,2013-09-11,Antalya,555 123 4567,,None,2022-09-09
+947458,Sofia Kaya,FEMALE,03/12/1976,Bursa,555 123 4567,,MediPlus,2021-04-11
+664315,Ayşe Smith,Female,31/01/1960,Antalya,INVALID,A-,PrivateCare,2021-03-22
+912270,Wei Chen,FEMALE,2009-04-07,ANKARA,INVALID,Unknown,PrivateCare,19/06/2022
+606983,Ali Garcia,male,1974-01-14,Antalya,555 123 4567,Unknown,HealthCo,2022-08-03
+587455,Wei Khan,male,1985-10-07,Antalya,5551234567,AB+,HealthCo,2018-08-12
+556732,Carlos Smith,male,12/05/2001,Ankara,123,A+,SGK,2024-01-05
+965845,Carlos Demir,Male,2013-03-23,Bursa,(555)123-4567,O+,None,15/12/2021
+866536,Fatma Kaya,male,1998-01-22,Izmir,INVALID,B-,None,2020-07-28
+721254,Omar Smith,FEMALE,1951-03-23,ANKARA,INVALID,A+,PrivateCare,24/03/2018
+381433,John Garcia,FEMALE,1952-03-05,Antalya,INVALID,B+,MediPlus,2020-10-09
+437960,Ayşe Demir,Female,1956-08-18,Istanbul,,Unknown,PrivateCare,2022-08-29
+993085,Luca Garcia,Male,1979-01-16,Izmir,,,HealthCo,2018-04-06
+357420,John Khan,Female,1958-05-08,istanbul ,5551234567,,HealthCo,2022-07-23
+971084,Jane Silva ,Female,2014-02-09,istanbul ,555 123 4567,,None,2020-07-06
+190872,Ayşe Garcia,FEMALE,1979-10-29,Bursa,(555)123-4567,A-,PrivateCare,2018-12-09
+392477,Carlos Ivanov ,FEMALE,1992-06-25,Izmir,INVALID,AB+,MediPlus,09/05/2024
+572700,Mehmet Yılmaz ,Female,03/11/1978,ANKARA,123,,None,2024-09-18
+355709,Wei Chen,Male,2008-06-30,Istanbul,INVALID,A-,HealthCo,05/03/2023
+886931,Mehmet Yılmaz,Male,1964-07-17,Istanbul,INVALID,,PrivateCare,2019-05-13
+587282,Sofia Silva ,Male,1993-09-16,istanbul ,555 123 4567,AB+,None,2024-02-19
+697530,Jane Ivanov,Female,1983-05-05,ANKARA,123,O+,None,2019-11-11
+739979,Luca Garcia,Female,1992-05-10,Ankara,123,,SGK,14/09/2021
+800646,Jane Khan ,Female,1966-01-29,Ankara,,A-,None,02/10/2018
+497399,Wei Chen ,Female,1958-07-01,Izmir,,A+,PrivateCare,2023-04-04
+452737,John Garcia,male,1988-03-26,Bursa,123,B-,SGK,2021-06-06
+130094,Luca Kaya,Female,29/03/1959,ANKARA,123,Unknown,MediPlus,2021-02-20
+618317,Luca Ivanov ,Female,2004-04-04,Ankara,5551234567,B+,PrivateCare,2023-04-24
+992288,Mehmet Rossi,FEMALE,1950-01-09,Antalya,INVALID,O+,MediPlus,2018-08-02
+440802,Aisha Demir,male,1971-08-08,Izmir,123,O+,None,26/03/2022
+290672,Ayşe Ivanov,FEMALE,11/03/1969,istanbul ,,AB+,SGK,11/02/2021
+611233,Aisha Khan,male,2008-07-02,Antalya,INVALID,B-,None,14/04/2018
+322423,Aisha Smith,Female,1984-04-24,Istanbul,123,AB+,MediPlus,2018-02-13
+472060,Ayşe Chen ,male,1972-10-07,Antalya,INVALID,Unknown,SGK,2018-02-23
+936587,Omar Garcia,FEMALE,07/08/1974,Bursa,,,HealthCo,01/06/2024
+370902,Mehmet Rossi ,Male,12/04/2017,Bursa,,B+,PrivateCare,13/02/2024
+456871,Mehmet Demir,Male,23/08/1987,Izmir,5551234567,AB+,PrivateCare,2019-05-05
+393243,Sofia Ivanov,male,2016-02-28,Bursa,5551234567,Unknown,HealthCo,20/07/2021
+725113,Sofia Yılmaz,Female,1955-10-30,istanbul ,5551234567,AB+,None,2023-08-17
+835244,Fatma Silva,Male,1986-09-19,Izmir,INVALID,A-,None,2018-01-14
+389688,Wei Demir,Male,06/06/1960,ANKARA,(555)123-4567,A+,PrivateCare,18/01/2020
+682789,Sofia Chen,Female,1991-04-20,Antalya,,B+,MediPlus,2020-10-07
+110644,Ali Khan,Female,2013-05-01,ANKARA,(555)123-4567,AB+,PrivateCare,2021-02-16
+641722,Mehmet Garcia,male,08/04/1973,Izmir,,,PrivateCare,2020-12-19
+300337,Ali Ivanov,male,1984-08-07,Antalya,,AB+,PrivateCare,2024-05-18
+189771,Jane Silva,male,28/06/1999,Ankara,INVALID,AB+,SGK,2021-01-06
+353080,Ayşe Silva,male,23/01/2009,Bursa,INVALID,A+,MediPlus,2023-05-01
+855053,Omar Demir,male,2006-06-22,Antalya,5551234567,B+,MediPlus,2018-02-02
+526170,John Kaya,FEMALE,1991-11-19,Antalya,INVALID,,PrivateCare,2018-03-31
+612311,John Chen,Female,2003-11-30,ANKARA,123,A-,HealthCo,2022-07-02
+682144,Carlos Garcia,male,2001-10-23,Bursa,,B-,None,2018-04-27
+894993,Mehmet Kaya,Female,2009-07-08,ANKARA,555 123 4567,,HealthCo,09/08/2018
+351997,Mehmet Rossi,Male,28/01/1950,Ankara,(555)123-4567,B-,HealthCo,31/03/2020
+824156,Ayşe Smith,Male,30/10/1963,istanbul ,123,Unknown,PrivateCare,2022-03-13
+599219,Wei Khan,Female,01/08/1991,istanbul ,555 123 4567,AB+,HealthCo,2019-01-28
+777278,Luca Khan,Male,1997-12-01,Ankara,123,B+,PrivateCare,2023-06-24
+846420,Jane Chen,Male,1980-06-28,Antalya,(555)123-4567,B+,HealthCo,2018-01-07
+614663,Fatma Yılmaz,FEMALE,1968-12-13,Ankara,555 123 4567,AB+,HealthCo,2019-01-16
+569945,Sofia Rossi,Male,1953-02-15,istanbul ,5551234567,O+,SGK,2022-09-24
+931450,Sofia Khan,FEMALE,1951-02-05,Istanbul,INVALID,Unknown,HealthCo,2019-06-12
+118080,Ali Garcia,FEMALE,1988-02-16,Bursa,555 123 4567,,MediPlus,2019-04-20
+197573,Aisha Chen,Male,08/01/1960,Ankara,5551234567,O+,None,2022-10-03
+408528,John Smith,Male,12/03/1996,Istanbul,INVALID,,MediPlus,2023-02-07
+332360,Ali Ivanov,Male,2011-07-31,Bursa,555 123 4567,B+,MediPlus,2022-10-10
+524045,Jane Khan,male,1951-07-29,Antalya,5551234567,Unknown,PrivateCare,2021-05-04
+825391,Mehmet Demir,male,1997-12-30,Izmir,INVALID,B-,None,2019-08-16
+355123,Luca Rossi,Male,1953-08-24,istanbul ,123,A-,MediPlus,2022-03-07
+421080,Sofia Garcia,Male,1987-11-28,ANKARA,INVALID,A-,PrivateCare,24/01/2020
+796212,Luca Garcia,Male,15/03/1977,Izmir,123,,PrivateCare,18/01/2024
+709805,Carlos Garcia,FEMALE,02/01/2017,Ankara,,AB+,MediPlus,2020-01-31
+486945,Ali Khan,FEMALE,1968-08-01,Bursa,,O+,SGK,2022-08-25
+596249,Fatma Smith,FEMALE,16/08/1951,Bursa,INVALID,O+,None,2020-06-24
+680358,Carlos Rossi,Female,2000-01-12,istanbul ,,,PrivateCare,2021-10-27
+656711,Aisha Kaya,Male,2010-05-18,Antalya,INVALID,O+,SGK,2022-07-09
+460455,Fatma Silva,Female,1983-02-14,Bursa,123,B+,None,2021-07-15
+546173,Jane Ivanov,FEMALE,1988-09-18,Ankara,INVALID,B+,HealthCo,06/04/2018
+882169,Luca Demir,Female,1958-09-13,ANKARA,(555)123-4567,Unknown,None,15/05/2020
+677124,Carlos Chen,Male,2017-05-26,Antalya,,O+,None,2024-09-20
+446859,Aisha Silva,FEMALE,1985-03-08,Ankara,(555)123-4567,Unknown,MediPlus,2022-07-13
+468900,Ali Silva ,FEMALE,21/12/1979,istanbul ,INVALID,B-,SGK,2019-12-07
+836996,Luca Smith,FEMALE,07/06/1962,Istanbul,555 123 4567,B-,PrivateCare,24/08/2023
+575786,Luca Rossi,FEMALE,2011-05-26,Bursa,123,B-,PrivateCare,2022-02-25
+384076,Wei Chen,Female,14/11/2014,Izmir,(555)123-4567,AB+,SGK,2019-12-19
+421517,Ali Smith,Female,2001-10-26,ANKARA,(555)123-4567,,None,2020-09-30
+363615,Sofia Demir,Male,10/03/2004,Istanbul,,A+,HealthCo,2019-10-15
+341736,Aisha Rossi,Male,1984-07-27,Antalya,123,A+,HealthCo,05/09/2022
+226516,Wei Yılmaz,FEMALE,13/04/1976,istanbul ,5551234567,A-,PrivateCare,2018-06-13
+856321,John Ivanov,Female,10/08/2017,Ankara,INVALID,B-,MediPlus,2019-11-24
+301939,Ayşe Chen,Female,08/08/2007,ANKARA,555 123 4567,O+,MediPlus,20/02/2023
+430876,Omar Rossi,Female,01/09/1979,Ankara,123,AB+,SGK,2020-11-22
+225362,Fatma Chen,male,2000-07-23,istanbul ,,,MediPlus,2021-04-07
+878967,Mehmet Kaya,Female,23/02/1963,Bursa,555 123 4567,B+,None,2022-04-23
+661894,Ali Garcia,Female,02/09/1982,Izmir,,B+,None,2023-10-18
+899213,Aisha Chen,FEMALE,1996-12-13,Ankara,INVALID,Unknown,SGK,2023-06-11
+823688,Sofia Demir,Male,1980-09-18,Antalya,(555)123-4567,O+,HealthCo,2020-04-25
+294143,Wei Ivanov,male,18/04/2007,Antalya,5551234567,Unknown,SGK,17/11/2023
+300845,Jane Silva,Male,1956-01-11,ANKARA,5551234567,,None,31/12/2023
+326895,Aisha Smith,Female,1971-12-15,Ankara,,,PrivateCare,2020-01-19
+874483,Ali Ivanov,Male,1973-11-04,Ankara,123,AB+,SGK,10/01/2019
+607719,Fatma Smith ,Male,1971-11-20,Izmir,,A-,PrivateCare,2024-07-08
+389930,Wei Demir,FEMALE,1989-08-24,Izmir,123,A+,None,2020-03-19
+859782,Carlos Demir,FEMALE,05/08/2014,Istanbul,555 123 4567,Unknown,None,2020-03-08
+718226,John Rossi,male,2006-08-15,Izmir,123,B-,MediPlus,2023-09-09
+897135,John Silva,Female,1995-02-18,istanbul ,5551234567,O+,None,2022-12-08
+650121,Wei Rossi ,FEMALE,1964-08-20,Izmir,,B+,PrivateCare,2022-11-05
+725780,Ayşe Smith,Male,1969-02-16,Antalya,555 123 4567,B-,None,2021-06-04
+396745,Sofia Kaya,Female,1979-01-18,Izmir,123,,None,11/06/2022
+205409,Carlos Garcia,male,09/07/1970,Ankara,555 123 4567,O+,MediPlus,18/04/2023
+973074,Omar Chen,FEMALE,1990-05-07,Istanbul,INVALID,O+,PrivateCare,2024-04-26
+303547,Wei Garcia,male,01/10/1951,ANKARA,555 123 4567,A+,MediPlus,2020-04-08
+410636,Carlos Khan,FEMALE,1979-03-22,ANKARA,555 123 4567,A-,SGK,27/03/2020
+338533,Fatma Kaya,Male,15/03/1979,ANKARA,,Unknown,HealthCo,2024-08-25
+478411,Fatma Garcia,male,2004-06-06,Bursa,555 123 4567,,MediPlus,2018-08-31
+288158,Ayşe Rossi,FEMALE,18/01/1962,ANKARA,(555)123-4567,B+,None,2018-10-31
+416950,John Ivanov,male,1967-12-11,Bursa,123,AB+,SGK,2022-12-01
+114835,Mehmet Demir,FEMALE,25/09/2012,Antalya,(555)123-4567,B+,MediPlus,09/07/2021
+842411,Wei Smith,male,1991-05-05,Bursa,,A+,PrivateCare,2020-03-26
+660081,Ayşe Khan,Male,1988-05-03,Bursa,555 123 4567,A+,None,16/06/2023
+232731,Carlos Yılmaz,male,28/03/1995,Antalya,5551234567,A-,None,01/09/2021
+387636,Ayşe Silva ,FEMALE,1960-01-29,Bursa,,B-,SGK,05/10/2023
+147726,Sofia Khan ,male,1974-11-03,istanbul ,123,Unknown,SGK,2019-09-16
+157174,Carlos Ivanov,FEMALE,1976-05-11,Ankara,555 123 4567,B-,None,2022-05-17
+680238,Sofia Chen,male,1997-10-05,Antalya,123,B+,PrivateCare,31/03/2020
+406327,Mehmet Smith,Male,1977-09-04,ANKARA,(555)123-4567,O+,SGK,2018-04-18
+831295,Jane Chen,male,24/08/1970,Ankara,(555)123-4567,O+,SGK,2020-04-06
+232413,Mehmet Rossi,Female,17/01/1961,istanbul ,5551234567,,HealthCo,2022-03-17
+768854,Carlos Smith ,Female,13/06/1968,Bursa,123,A-,PrivateCare,14/08/2024
+889359,Fatma Demir,Female,18/11/1993,Ankara,5551234567,O+,HealthCo,07/01/2022
+614723,John Silva,FEMALE,18/01/1960,ANKARA,5551234567,O+,MediPlus,2018-03-08
+207570,John Demir,FEMALE,13/12/1988,istanbul ,5551234567,AB+,MediPlus,2021-05-16
+112861,Ali Kaya,FEMALE,1972-05-04,ANKARA,5551234567,A+,None,2018-02-07
+701949,Fatma Garcia,Female,07/05/1983,Antalya,,B+,MediPlus,2019-10-08
+398151,Ayşe Kaya,male,1952-09-09,Bursa,555 123 4567,A+,SGK,2021-06-07
+592198,Jane Yılmaz ,FEMALE,1992-03-18,ANKARA,123,B+,PrivateCare,15/08/2019
+601968,Ayşe Yılmaz ,FEMALE,13/04/1981,istanbul ,INVALID,,PrivateCare,2019-01-13
+561865,Luca Yılmaz,male,1977-12-09,Bursa,,A-,HealthCo,2020-11-18
+457256,Wei Ivanov,Female,1967-08-11,Antalya,5551234567,A-,HealthCo,2023-10-10
+293319,John Ivanov,male,1959-06-11,Antalya,INVALID,AB+,PrivateCare,2020-10-23
+153872,Jane Khan,FEMALE,16/08/1983,Antalya,5551234567,B-,PrivateCare,01/07/2024
+364742,Ali Kaya,FEMALE,2006-12-08,istanbul ,555 123 4567,B-,None,2020-09-01
+600935,Carlos Rossi,male,1969-04-10,Antalya,123,O+,MediPlus,2020-12-12
+219629,Mehmet Garcia,Male,04/08/1980,Antalya,555 123 4567,AB+,SGK,20/06/2023
+962050,Jane Khan,FEMALE,2007-08-16,ANKARA,5551234567,A-,None,2024-02-04
+168517,Omar Garcia,Male,01/05/1961,ANKARA,123,B+,HealthCo,2021-06-11
+520172,Aisha Smith,male,18/09/1962,Bursa,123,B+,None,27/06/2020
+615633,Aisha Silva,Female,20/03/1954,Izmir,(555)123-4567,A-,PrivateCare,2022-01-25
+177680,Sofia Ivanov,FEMALE,20/04/1970,ANKARA,(555)123-4567,AB+,SGK,2019-09-15
+705050,Carlos Garcia,Female,20/12/1984,Antalya,555 123 4567,A+,SGK,22/09/2022
+760021,John Silva ,FEMALE,2009-12-09,Ankara,(555)123-4567,,PrivateCare,29/08/2024
+819796,Fatma Khan,male,21/04/1964,Istanbul,(555)123-4567,AB+,PrivateCare,2022-05-21
+156213,Carlos Demir,male,17/02/2015,ANKARA,555 123 4567,A+,SGK,2019-09-14
+259097,Aisha Garcia,male,1997-01-12,ANKARA,5551234567,,PrivateCare,2024-09-17
+256445,Ayşe Chen,Male,31/05/1974,Antalya,INVALID,Unknown,None,2018-06-17
+950544,Mehmet Rossi,male,2018-01-17,Ankara,,,HealthCo,2023-11-12
+690180,Carlos Yılmaz,male,2007-03-30,Antalya,123,O+,HealthCo,21/02/2021
+418594,Sofia Garcia,FEMALE,1981-12-31,Ankara,123,Unknown,MediPlus,19/02/2019
+189318,Ayşe Rossi,FEMALE,20/04/2000,Istanbul,123,A-,None,2024-05-05
+360247,Sofia Demir,FEMALE,2001-08-23,ANKARA,INVALID,A+,MediPlus,2020-09-04
+224205,Sofia Rossi,FEMALE,1991-05-03,Antalya,5551234567,B-,None,2023-11-12
+685181,Mehmet Yılmaz,Male,26/07/2006,Antalya,INVALID,AB+,MediPlus,2019-02-09
+901577,Sofia Chen,male,12/08/1981,istanbul ,,AB+,PrivateCare,2020-10-15
+536390,Fatma Silva,Female,06/02/1999,ANKARA,INVALID,A-,MediPlus,02/07/2022
+735770,Jane Ivanov,Male,15/04/1998,Antalya,INVALID,O+,None,2020-07-21
+725084,Wei Kaya,male,2017-11-16,ANKARA,INVALID,O+,PrivateCare,20/12/2020
+929151,Mehmet Chen,male,1951-06-06,ANKARA,123,B+,HealthCo,2024-07-11
+748458,Luca Demir,male,1967-10-27,Ankara,,O+,None,15/09/2024
+336650,Jane Khan,male,08/12/1961,Bursa,123,A-,MediPlus,01/03/2019
+913373,Fatma Rossi,FEMALE,1953-08-29,Ankara,,B-,PrivateCare,2019-09-27
+647957,Fatma Rossi,Male,16/02/2008,ANKARA,123,,HealthCo,2019-08-19
+498855,Carlos Silva,FEMALE,15/06/1999,Antalya,123,Unknown,MediPlus,2020-02-27
+572398,Omar Chen,male,1973-08-24,Bursa,555 123 4567,A-,PrivateCare,02/02/2022
+564226,Jane Smith,FEMALE,1998-04-17,Bursa,555 123 4567,A-,None,31/01/2019
+411797,Fatma Chen,male,18/05/2014,Bursa,5551234567,,None,19/03/2024
+717113,Wei Rossi,Male,2003-01-10,Izmir,INVALID,B+,SGK,2019-12-03
+549660,Sofia Chen,Male,14/11/1955,Antalya,123,,HealthCo,2021-02-04
+420214,Omar Kaya,male,1985-07-20,Izmir,(555)123-4567,Unknown,PrivateCare,2023-01-26
+696251,Aisha Ivanov,Male,19/03/1978,ANKARA,5551234567,A-,None,2024-11-01
+751194,Carlos Kaya,Female,2015-09-21,Istanbul,,,SGK,29/09/2024
+163156,Jane Demir,FEMALE,13/06/1958,istanbul ,,,PrivateCare,09/06/2024
+739244,Jane Kaya,FEMALE,1958-08-08,Istanbul,(555)123-4567,AB+,HealthCo,28/12/2019
+876039,Fatma Smith,male,05/07/1981,Istanbul,123,A+,None,2018-12-01
+204053,Ali Chen,male,1958-07-27,Istanbul,123,O+,SGK,2023-12-08
+899787,Mehmet Smith,Male,07/02/2007,ANKARA,,B+,None,2020-01-15
+317881,Jane Ivanov,FEMALE,15/11/1965,Istanbul,123,A+,None,2019-12-29
+755900,Ayşe Garcia,Male,1976-02-23,istanbul ,(555)123-4567,B+,None,2020-01-09
+321275,Jane Rossi,Male,2009-01-28,Izmir,(555)123-4567,O+,PrivateCare,12/05/2022
+377501,Fatma Rossi,FEMALE,24/11/1966,ANKARA,,A-,None,2018-06-20
+792509,Ayşe Chen,Female,1997-04-23,Izmir,555 123 4567,B+,HealthCo,2023-12-19
+185131,Fatma Garcia,FEMALE,2006-03-11,Istanbul,555 123 4567,,None,2022-11-18
+264686,Carlos Garcia,Male,23/08/1994,Ankara,5551234567,AB+,None,22/03/2021
+351516,Omar Ivanov,Male,1998-09-12,Izmir,INVALID,B-,MediPlus,08/07/2021
+282256,Aisha Yılmaz,male,19/05/2011,Antalya,,A+,PrivateCare,2023-09-14
+678805,Ayşe Rossi,Female,30/08/1966,Bursa,,A+,SGK,2021-08-04
+178711,Carlos Smith,male,2011-11-06,Ankara,INVALID,B-,MediPlus,2021-04-04
+264136,Carlos Yılmaz,FEMALE,1963-12-28,Antalya,123,AB+,PrivateCare,2020-10-05
+102805,Sofia Garcia,Female,17/09/1986,ANKARA,INVALID,AB+,None,31/08/2022
+528361,Ali Khan,Male,01/10/1953,Antalya,5551234567,A-,PrivateCare,2023-01-14
+572387,Wei Demir,FEMALE,1966-06-14,Izmir,123,AB+,MediPlus,17/11/2019
+822858,Luca Garcia,Male,26/09/1959,Bursa,INVALID,B-,PrivateCare,06/06/2022
+722656,Aisha Yılmaz,Female,1992-01-27,Istanbul,,A-,PrivateCare,2019-04-02
+592738,Carlos Ivanov,Female,1983-04-11,ANKARA,(555)123-4567,O+,SGK,2019-08-08
+405407,Luca Yılmaz,Female,1963-09-14,Antalya,5551234567,Unknown,HealthCo,24/10/2020
+134225,Mehmet Garcia,FEMALE,1995-05-12,Istanbul,INVALID,A-,PrivateCare,2020-01-24
+342720,Luca Silva,Male,1975-10-27,Antalya,5551234567,Unknown,None,2019-08-11
+402099,Aisha Yılmaz,Male,30/06/2005,Antalya,(555)123-4567,A+,HealthCo,2021-08-10
+841296,Ali Ivanov,Male,30/03/1955,Bursa,123,A-,SGK,2024-05-11
+396451,Sofia Rossi,Female,09/04/2001,Antalya,INVALID,AB+,MediPlus,2021-03-02
+837135,Sofia Rossi,Female,26/12/1992,Ankara,555 123 4567,B+,HealthCo,2019-09-20
+576086,John Kaya,FEMALE,09/01/1983,istanbul ,,B-,HealthCo,04/11/2022
+174637,Mehmet Chen,FEMALE,02/09/1968,istanbul ,INVALID,,MediPlus,21/09/2022
+820775,Jane Chen,Female,2009-09-10,Bursa,(555)123-4567,O+,HealthCo,2023-12-11
+344762,Aisha Khan,FEMALE,17/08/1983,Izmir,123,Unknown,SGK,2020-05-24
+377405,Fatma Smith,FEMALE,1980-04-18,Ankara,INVALID,A+,PrivateCare,2019-10-04
+926097,Carlos Ivanov,Female,2009-11-03,Ankara,INVALID,O+,HealthCo,26/04/2024
+929683,Fatma Kaya,Male,02/06/2018,Antalya,5551234567,A-,SGK,2021-07-19
+755420,Ali Yılmaz,Female,1954-09-25,Antalya,(555)123-4567,B-,MediPlus,2019-01-04
+718439,Ayşe Chen,male,30/11/2005,Antalya,(555)123-4567,AB+,MediPlus,17/07/2024
+793300,Ayşe Silva,FEMALE,03/05/1964,Ankara,123,,MediPlus,2019-09-15
+942956,Omar Smith ,Male,03/03/1960,Ankara,INVALID,,HealthCo,24/08/2019
+307428,Wei Kaya,Female,1951-10-16,istanbul ,5551234567,,None,24/01/2022
+545790,Jane Chen,FEMALE,17/08/1957,Ankara,5551234567,B-,MediPlus,2018-10-10
+220351,John Demir,FEMALE,28/10/1981,Ankara,555 123 4567,AB+,PrivateCare,2023-07-20
+671015,Aisha Garcia,Male,09/09/1996,Antalya,(555)123-4567,AB+,MediPlus,2018-04-07
+335729,Wei Khan,Male,1980-04-12,Ankara,123,A+,None,2023-02-20
+779094,Ali Garcia ,male,1984-02-25,Antalya,INVALID,O+,MediPlus,2023-04-10
+342720,Luca Silva,Male,1975-10-27,Antalya,5551234567,Unknown,None,2019-08-11
+442722,Ali Chen,Male,1962-06-07,Izmir,,AB+,HealthCo,2019-06-03
+765822,Ali Yılmaz,Female,1953-06-29,Bursa,123,B+,MediPlus,26/09/2021
+630458,John Kaya,FEMALE,1960-01-26,Bursa,5551234567,,None,03/06/2018
+145561,Ali Chen,Female,1955-11-30,Izmir,5551234567,B+,MediPlus,2024-04-04
+615633,Aisha Silva,Female,20/03/1954,Izmir,(555)123-4567,A-,PrivateCare,2022-01-25
+299448,Aisha Ivanov,Male,1965-08-06,Bursa,555 123 4567,Unknown,PrivateCare,2022-03-31
+383201,Mehmet Smith,Male,13/12/2006,istanbul ,5551234567,,None,16/10/2023
+712024,Aisha Kaya,Female,20/07/1968,Izmir,,B+,HealthCo,2024-07-07
+549433,Mehmet Ivanov,Male,1988-07-30,ANKARA,123,Unknown,PrivateCare,2022-05-23

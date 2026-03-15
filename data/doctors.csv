@@ -1,0 +1,151 @@
+doctor_id,doctor_name,specialization,hospital_wing,hire_date
+737483,Jane Dr.Ivanov,Cardio,a ,2023-05-07
+645135,Jane Dr.Rossi,Ortho,D,2017-12-10
+626974,Omar Dr.Smith,Neuro,a ,2018-05-14
+941637,Wei Dr.Chen,Dermatology,D,2030-04-01
+558747,Mehmet Dr.Khan,Dermatology,A,2024-09-28
+338768,Sofia Dr.Kaya,Dermatology,C,2024-10-17
+563058,Mehmet Dr.Kaya,Neurology,B,27/02/2015
+954048,Jane Dr.Smith,Cardiology,D,2030-05-01
+474294,Aisha Dr.Garcia,Neuro,B,26/05/2019
+779215,Carlos Dr.Kaya,General,b ,2020-06-15
+402273,Jane Dr.Rossi,Orthopedics,B,2015-09-02
+712575,Fatma Dr.Khan,General,A,2017-08-21
+495322,Sofia Dr.Garcia,Dermatology,a ,2025-09-24
+479626,Jane Dr.Chen,Neurology,C,2016-05-14
+287352,Wei Dr.Chen,Dermatology,B,2021-05-04
+671727,Jane Dr.Rossi,Orthopedics,a ,2017-05-07
+904441,Fatma Dr.Kaya,Ortho,b ,2018-10-27
+288914,Luca Dr.Ivanov,Neuro,B,2021-06-02
+898585,Jane Dr.Silva,Cardio,D,24/06/2020
+534090,Aisha Dr.Rossi,General,a ,2023-05-31
+733506,John Dr.Demir,General,D,05/02/2025
+319039,Omar Dr.Kaya,Ortho,A,20/09/2023
+224125,Jane Dr.Chen,General,a ,2020-04-24
+334769,Wei Dr.Chen,Neuro,b ,21/08/2016
+999081,Ayşe Dr.Garcia,Cardiology,b ,2017-02-09
+312249,John Dr.Smith,Dermatology,D,03/12/2024
+454763,John Dr.Smith,Neurology,C,2022-11-09
+278029,Ayşe Dr.Chen,General,B,14/06/2030
+385710,Luca Dr.Rossi,Ortho,A,2020-01-04
+591526,Omar Dr.Ivanov,General,C,2025-07-04
+268114,Ali Dr.Demir,Cardiology,C,2016-10-29
+361487,Omar Dr.Khan,Cardiology,b ,2021-03-13
+799689,Jane Dr.Ivanov,Cardiology,b ,2019-11-14
+448455,Ali Dr.Silva,Cardiology,b ,04/03/2018
+291631,Ayşe Dr.Kaya,Neurology,A,2023-01-16
+279074,Ayşe Dr.Chen,Ortho,C,11/11/2020
+210113,Wei Dr.Khan,Cardiology,a ,29/11/2015
+958232,Mehmet Dr.Silva,Cardio,B,2019-09-02
+214100,John Dr.Smith,Neuro,A,12/01/2020
+972279,Sofia Dr.Smith,General,A,2022-03-25
+557705,Mehmet Dr.Kaya,Ortho,C,2015-06-22
+847454,Ali Dr.Silva,Orthopedics,D,2019-05-07
+273801,Aisha Dr.Demir,Cardiology,B,2015-04-07
+363833,Ali Dr.Chen,Cardio,a ,2030-02-28
+811062,Mehmet Dr.Khan,Neuro,B,20/11/2024
+856541,John Dr.Garcia,Ortho,a ,10/06/2030
+683145,Luca Dr.Garcia,Ortho,B,2019-05-10
+861654,Sofia Dr.Garcia,General,A,2018-09-01
+546974,Aisha Dr.Khan,Neuro,B,2019-12-30
+897238,Fatma Dr.Smith,Orthopedics,b ,28/01/2030
+310973,John Dr.Chen,General,A,2022-07-24
+842321,John Dr.Smith,Cardiology,C,2022-04-07
+327903,Jane Dr.Smith,General,b ,2015-02-20
+258894,Carlos Dr.Ivanov,Neurology,D,2019-05-11
+938352,Sofia Dr.Smith,Cardio,a ,2020-05-20
+345453,Luca Dr.Yılmaz,Cardiology,C,15/03/2016
+409213,Luca Dr.Kaya,Cardio,A,2030-04-24
+982304,Carlos Dr.Chen,Cardio,C,2019-02-16
+285097,Ali Dr.Demir,Orthopedics,B,2019-09-07
+394589,Fatma Dr.Demir,Cardiology,D,12/12/2017
+296158,Wei Dr.Ivanov,Orthopedics,C,23/01/2030
+953144,Omar Dr.Kaya,Neuro,A,2015-04-03
+296034,Wei Dr.Khan,General,D,2019-06-17
+204027,Ali Dr.Demir,Orthopedics,b ,2016-12-17
+654001,John Dr.Yılmaz,Orthopedics,B,2018-02-27
+918904,Sofia Dr.Yılmaz,Dermatology,a ,19/08/2017
+444397,Omar Dr.Yılmaz,Orthopedics,C,04/09/2025
+420430,Wei Dr.Silva,Neurology,C,2015-12-29
+252427,Aisha Dr.Kaya,Ortho,b ,21/05/2022
+951807,Carlos Dr.Chen,General,C,2022-03-03
+283269,Wei Dr.Silva,Dermatology,C,09/08/2023
+605695,Mehmet Dr.Chen,Ortho,b ,2025-10-12
+535968,Sofia Dr.Kaya,Cardiology,C,2020-03-26
+855833,Mehmet Dr.Ivanov,Ortho,a ,05/09/2020
+755046,Luca Dr.Kaya,Neuro,b ,2022-02-04
+401996,Ayşe Dr.Silva,Cardiology,a ,2019-06-12
+699168,Aisha Dr.Kaya,Neuro,b ,2016-03-01
+406883,Jane Dr.Chen,Dermatology,a ,2022-12-17
+942640,Jane Dr.Khan,Cardio,B,2022-05-14
+719360,Omar Dr.Smith,Cardiology,a ,2022-03-08
+834868,Ayşe Dr.Garcia,Neuro,D,2023-12-21
+940581,Ayşe Dr.Smith,Cardiology,A,2018-05-25
+395103,Sofia Dr.Demir,Cardio,C,2015-05-08
+692002,Jane Dr.Khan,Cardiology,b ,2020-01-28
+502056,Fatma Dr.Garcia,Dermatology,a ,2021-09-13
+967101,Luca Dr.Yılmaz,General,A,2021-08-12
+909004,Omar Dr.Rossi,Dermatology,a ,2020-08-09
+820559,Luca Dr.Chen,General,A,2023-08-20
+264242,Ayşe Dr.Rossi,Orthopedics,a ,05/05/2030
+664012,Omar Dr.Demir,General,D,13/01/2016
+393910,Wei Dr.Yılmaz,Ortho,C,2023-05-27
+732240,Fatma Dr.Ivanov,Dermatology,A,13/03/2021
+206620,Sofia Dr.Yılmaz,General,A,2015-02-12
+283422,Luca Dr.Khan,Cardiology,C,2020-08-18
+384393,Mehmet Dr.Rossi,Orthopedics,B,2021-07-26
+407324,Ayşe Dr.Kaya,Cardio,B,2015-06-13
+476049,Omar Dr.Kaya,Dermatology,A,2020-05-28
+350882,Sofia Dr.Ivanov,General,B,2018-05-23
+768326,Ayşe Dr.Demir,Neurology,B,02/01/2023
+803386,Luca Dr.Yılmaz,General,D,24/06/2016
+398543,Omar Dr.Silva,Ortho,b ,2019-02-10
+933968,John Dr.Khan,Dermatology,A,2021-02-04
+330034,Sofia Dr.Chen,General,D,24/09/2015
+937010,Mehmet Dr.Demir,Cardiology,B,08/09/2020
+998665,Wei Dr.Silva,Ortho,a ,2015-12-20
+279460,Sofia Dr.Kaya,Dermatology,A,13/12/2017
+397340,Mehmet Dr.Khan,Cardiology,C,2030-02-21
+396134,Aisha Dr.Garcia,Cardiology,C,2015-09-03
+537018,Fatma Dr.Rossi,Neuro,B,2024-11-15
+993023,Ayşe Dr.Kaya,Dermatology,a ,2022-06-12
+438777,Ayşe Dr.Kaya,Neurology,a ,07/02/2022
+370313,Aisha Dr.Demir,Neurology,B,2016-08-18
+613839,Jane Dr.Smith,Orthopedics,D,11/01/2022
+866157,Jane Dr.Khan,Cardiology,B,2015-09-02
+821080,Wei Dr.Ivanov,Neuro,b ,2022-07-14
+511132,Aisha Dr.Khan,Neurology,B,2025-03-06
+830775,Ayşe Dr.Khan,Cardiology,D,2021-09-19
+632308,Mehmet Dr.Yılmaz,Ortho,C,29/09/2015
+731265,Jane Dr.Garcia,Ortho,C,2019-05-30
+871712,Carlos Dr.Ivanov,Neurology,D,2024-08-04
+499266,Jane Dr.Silva,Cardio,C,2018-10-12
+428860,John Dr.Ivanov,Neuro,C,2022-01-20
+647242,Luca Dr.Smith,Ortho,C,24/05/2025
+463139,Carlos Dr.Garcia,Orthopedics,a ,2017-02-24
+561506,Luca Dr.Kaya,Orthopedics,B,2019-10-03
+971168,Aisha Dr.Chen,Neuro,D,15/09/2022
+452466,Omar Dr.Garcia,Neuro,B,2021-07-10
+756322,Mehmet Dr.Rossi,Ortho,B,15/09/2021
+207322,Luca Dr.Rossi,Ortho,B,2019-05-24
+886651,Carlos Dr.Silva,Dermatology,A,2017-11-09
+916734,Wei Dr.Rossi,Orthopedics,a ,30/09/2015
+463893,Carlos Dr.Rossi,Cardio,D,2021-05-13
+495120,Mehmet Dr.Demir,Ortho,A,2019-11-26
+990937,Aisha Dr.Silva,Orthopedics,B,2015-06-18
+369097,Carlos Dr.Smith,Cardiology,b ,16/10/2023
+267793,Luca Dr.Garcia,Orthopedics,D,2021-05-09
+264612,Luca Dr.Garcia,Ortho,B,2017-09-12
+265832,Fatma Dr.Kaya,Dermatology,B,2030-05-30
+717915,Ayşe Dr.Ivanov,Orthopedics,D,27/01/2021
+560944,Fatma Dr.Smith,General,a ,25/05/2016
+968516,John Dr.Demir,Cardiology,B,09/11/2016
+263338,Luca Dr.Khan,General,B,2022-07-12
+849954,Omar Dr.Rossi,General,B,2017-08-09
+992356,Carlos Dr.Yılmaz,Orthopedics,B,16/04/2023
+650987,Aisha Dr.Chen,Ortho,A,2024-11-20
+283835,Wei Dr.Ivanov,Neuro,C,2020-08-06
+906776,Omar Dr.Khan,Neurology,D,2016-08-14
+950895,John Dr.Smith,Orthopedics,B,2017-04-28
+667593,Ali Dr.Ivanov,Neuro,b ,2019-04-04
+212581,Ali Dr.Khan,Ortho,C,28/10/2022

@@ -1,0 +1,3501 @@
+test_id,appointment_id,test_name,test_value,unit,is_abnormal
+659992,628790,Blood Sugar,173.74,mg/dL,False
+708766,643148,Blood Sugar,222.84,mg/dL,True
+199965,368064,Vitamin D,159.64,nmol/L,True
+422600,973048,Cholesterol,216.71,mg/dL,True
+121496,541743,Vitamin D,Pending,ng/mL,True
+842084,809493,Cholesterol,87.58,mmol/L,True
+134223,563396,Blood Sugar,70.65,mg/dL,True
+555879,391559,Blood Sugar,23.48,mmol/L,False
+739893,582569,Cholesterol,88.27,mg/dL,False
+696229,614862,Blood Sugar,191.62,mg/dL,False
+710623,502409,Cholesterol,90.6,mg/dL,False
+419099,203660,Vitamin D,203.77,ng/mL,False
+271545,346143,Hemoglobin,17.04,g/dL,True
+342446,584295,Blood Sugar,99.31,mmol/L,False
+349303,351045,Blood Sugar,Error,mmol/L,True
+757209,685150,Cholesterol,209.06,mmol/L,False
+368135,729512,Blood Sugar,39.68,mg/dL,True
+105574,609788,Cholesterol,64.0,mg/dL,False
+474948,407481,Cholesterol,162.48,mg/dL,False
+856451,150747,Blood Sugar,94.62,mmol/L,True
+872526,633426,Blood Sugar,226.89,mg/dL,True
+808010,417735,Blood Sugar,57.95,mg/dL,False
+510966,941840,Cholesterol,14.62,mg/dL,False
+411490,423765,Blood Sugar,110.65,mmol/L,True
+536725,265357,Blood Sugar,74.29,mmol/L,True
+523498,951424,Cholesterol,218.1,mg/dL,True
+585528,609788,Hemoglobin,9.69,g/dL,True
+175257,703896,Vitamin D,91.16,nmol/L,True
+856837,726255,Cholesterol,121.0,mg/dL,False
+419950,517195,Cholesterol,121.93,mmol/L,True
+284720,791290,Cholesterol,80.04,mmol/L,False
+890696,952919,Hemoglobin,242.11,g/dL,False
+711552,863923,Vitamin D,42.39,nmol/L,False
+971498,939074,Cholesterol,151.28,mg/dL,False
+227693,437925,Cholesterol,12.18,mmol/L,False
+686182,859458,Cholesterol,Error,mmol/L,True
+627761,704565,Blood Sugar,198.42,mg/dL,True
+505986,927896,Blood Sugar,42.45,mmol/L,True
+661476,439533,Cholesterol,189.89,mmol/L,True
+472067,935864,Vitamin D,9.33,ng/mL,False
+903477,761779,Cholesterol,220.47,mg/dL,True
+117339,748509,Cholesterol,146.57,mg/dL,True
+905598,796855,Blood Sugar,Pending,mg/dL,True
+505924,486715,Hemoglobin,136.39,g/dL,False
+171163,642430,Blood Sugar,58.79,mg/dL,False
+329697,103055,Blood Sugar,200.55,mmol/L,False
+159949,258065,Blood Sugar,Error,mmol/L,True
+773847,912340,Hemoglobin,237.3,g/dL,True
+696396,321521,Blood Sugar,129.84,mmol/L,True
+453247,943724,Cholesterol,239.76,mg/dL,True
+276748,867476,Blood Sugar,95.54,mg/dL,False
+957911,223499,Cholesterol,99.45,mg/dL,True
+630465,775758,Cholesterol,213.49,mmol/L,False
+994047,835281,Hemoglobin,215.49,g/dL,True
+370698,672017,Vitamin D,233.94,ng/mL,False
+353022,602948,Hemoglobin,185.87,g/dL,True
+910895,714895,Vitamin D,98.99,nmol/L,True
+344087,712862,Blood Sugar,176.13,mg/dL,False
+381272,407108,Vitamin D,118.02,nmol/L,False
+445075,404893,Hemoglobin,217.05,g/dL,True
+501488,822115,Hemoglobin,230.25,g/dL,False
+128798,979041,Cholesterol,124.87,mmol/L,True
+998290,977327,Cholesterol,156.82,mmol/L,True
+129867,686253,Blood Sugar,75.21,mmol/L,False
+620326,342130,Hemoglobin,175.87,g/dL,True
+928385,582552,Hemoglobin,224.73,g/dL,False
+210830,402875,Hemoglobin,199.39,g/dL,False
+826359,281608,Cholesterol,80.63,mmol/L,True
+418059,221628,Hemoglobin,107.66,g/dL,False
+492022,313794,Hemoglobin,70.59,g/dL,False
+933473,516243,Vitamin D,203.61,ng/mL,True
+724556,399548,Blood Sugar,107.76,mg/dL,True
+122372,138449,Blood Sugar,107.82,mg/dL,True
+723726,552185,Hemoglobin,218.55,g/dL,False
+962114,803377,Hemoglobin,126.34,g/dL,False
+711663,397507,Cholesterol,170.91,mmol/L,False
+605780,826424,Blood Sugar,198.2,mg/dL,False
+702161,758904,Blood Sugar,109.77,mmol/L,True
+328749,239911,Blood Sugar,122.9,mmol/L,True
+501453,401381,Cholesterol,Error,mmol/L,False
+909342,161316,Cholesterol,106.66,mg/dL,True
+318077,557686,Blood Sugar,203.21,mg/dL,True
+302858,568046,Cholesterol,199.78,mg/dL,True
+821817,809639,Hemoglobin,14.04,g/dL,False
+713285,210136,Cholesterol,247.82,mmol/L,False
+966762,809798,Hemoglobin,6.67,g/dL,False
+500408,814136,Cholesterol,75.29,mmol/L,True
+770991,609788,Cholesterol,Pending,mmol/L,True
+372997,231055,Cholesterol,226.45,mmol/L,False
+939306,278539,Cholesterol,128.77,mg/dL,True
+154789,670950,Blood Sugar,34.12,mmol/L,False
+573727,337211,Hemoglobin,157.12,g/dL,False
+790263,380316,Blood Sugar,160.72,mg/dL,False
+869124,343458,Vitamin D,3.32,nmol/L,True
+859625,317288,Blood Sugar,126.39,mmol/L,False
+852361,562841,Cholesterol,9.8,mg/dL,False
+554826,761779,Cholesterol,37.99,mg/dL,True
+632092,790419,Blood Sugar,68.51,mmol/L,False
+807107,918035,Cholesterol,136.23,mmol/L,False
+335567,600121,Blood Sugar,204.65,mmol/L,True
+977380,162881,Blood Sugar,240.07,mmol/L,True
+121931,808390,Cholesterol,37.43,mg/dL,False
+677391,498730,Hemoglobin,151.76,g/dL,True
+889859,510210,Cholesterol,100.94,mg/dL,False
+591170,606446,Cholesterol,77.59,mmol/L,True
+589786,239202,Blood Sugar,73.42,mmol/L,False
+517784,777300,Hemoglobin,25.07,g/dL,True
+289346,924369,Blood Sugar,244.43,mg/dL,True
+949309,695485,Vitamin D,237.97,ng/mL,True
+456175,233346,Hemoglobin,36.25,g/dL,False
+828259,634778,Blood Sugar,168.22,mg/dL,True
+812537,308635,Cholesterol,211.72,mg/dL,False
+592950,525827,Blood Sugar,129.11,mg/dL,True
+191784,869851,Blood Sugar,34.89,mmol/L,True
+182006,159214,Hemoglobin,42.54,g/dL,False
+294790,711120,Blood Sugar,104.55,mg/dL,True
+833449,316764,Cholesterol,231.19,mmol/L,True
+944187,571233,Blood Sugar,235.0,mg/dL,True
+384528,803248,Blood Sugar,147.58,mmol/L,True
+189892,830134,Hemoglobin,101.79,g/dL,True
+503652,817607,Blood Sugar,219.3,mmol/L,True
+465400,429010,Cholesterol,187.93,mg/dL,False
+842761,499798,Blood Sugar,201.86,mg/dL,False
+180815,270220,Blood Sugar,184.79,mg/dL,True
+947055,220035,Cholesterol,12.45,mg/dL,False
+643444,781620,Vitamin D,52.33,nmol/L,True
+824517,241087,Blood Sugar,68.49,mmol/L,True
+492213,283927,Hemoglobin,109.41,g/dL,False
+602769,861290,Cholesterol,124.65,mg/dL,True
+881307,610017,Cholesterol,177.97,mg/dL,True
+338976,752598,Hemoglobin,38.42,g/dL,True
+196837,657322,Hemoglobin,181.82,g/dL,True
+406677,449740,Hemoglobin,16.21,g/dL,True
+113907,288261,Cholesterol,27.09,mg/dL,True
+190865,845627,Blood Sugar,196.87,mg/dL,True
+367600,365222,Hemoglobin,61.73,g/dL,True
+641210,268877,Vitamin D,170.3,ng/mL,True
+716691,114967,Blood Sugar,206.04,mg/dL,False
+176384,134891,Hemoglobin,133.7,g/dL,False
+518505,423362,Blood Sugar,60.4,mg/dL,True
+874206,607410,Blood Sugar,234.81,mmol/L,False
+136118,341053,Blood Sugar,116.76,mmol/L,False
+715490,991817,Blood Sugar,63.73,mg/dL,False
+849775,842604,Hemoglobin,237.29,g/dL,False
+227346,905567,Cholesterol,162.1,mmol/L,False
+372837,837453,Blood Sugar,45.1,mg/dL,True
+480177,308011,Blood Sugar,140.43,mg/dL,True
+208452,799891,Cholesterol,152.76,mg/dL,True
+440895,532745,Hemoglobin,167.11,g/dL,False
+885272,146238,Cholesterol,158.86,mmol/L,False
+813512,511366,Cholesterol,Pending,mmol/L,False
+347652,281277,Cholesterol,125.49,mg/dL,False
+235664,262837,Hemoglobin,135.62,g/dL,True
+931625,911595,Hemoglobin,Error,g/dL,True
+603670,708571,Vitamin D,131.49,nmol/L,False
+686989,595408,Cholesterol,246.61,mmol/L,True
+119809,614208,Blood Sugar,155.12,mg/dL,False
+495029,426523,Vitamin D,87.27,ng/mL,True
+168368,486144,Hemoglobin,96.96,g/dL,False
+407639,925451,Cholesterol,196.1,mmol/L,True
+586580,718114,Blood Sugar,104.05,mg/dL,True
+410838,935151,Blood Sugar,228.64,mg/dL,True
+659385,675603,Hemoglobin,121.39,g/dL,True
+731732,709294,Hemoglobin,241.03,g/dL,True
+528313,976380,Blood Sugar,20.09,mmol/L,False
+694499,858639,Blood Sugar,63.44,mmol/L,False
+930526,899987,Blood Sugar,155.43,mmol/L,False
+341158,425804,Cholesterol,42.0,mmol/L,True
+587983,757668,Cholesterol,138.55,mmol/L,False
+869443,250765,Blood Sugar,72.62,mg/dL,False
+553606,406940,Blood Sugar,53.18,mmol/L,False
+421094,900734,Hemoglobin,174.35,g/dL,False
+256755,444152,Cholesterol,149.73,mg/dL,True
+756227,987986,Cholesterol,101.03,mg/dL,True
+283350,114463,Blood Sugar,168.13,mg/dL,True
+949662,233860,Hemoglobin,Error,g/dL,False
+662998,331227,Cholesterol,207.05,mg/dL,False
+173260,847061,Hemoglobin,21.83,g/dL,True
+892453,510757,Vitamin D,192.79,nmol/L,True
+133632,709294,Cholesterol,149.38,mg/dL,False
+353034,290169,Blood Sugar,162.09,mg/dL,True
+715712,580380,Hemoglobin,129.61,g/dL,True
+427948,319299,Blood Sugar,48.09,mmol/L,True
+989583,121695,Hemoglobin,59.85,g/dL,True
+197253,544212,Blood Sugar,218.25,mg/dL,True
+701806,930823,Blood Sugar,140.86,mg/dL,True
+190049,453024,Hemoglobin,Pending,g/dL,False
+755550,597774,Vitamin D,131.67,nmol/L,True
+327468,259057,Hemoglobin,96.12,g/dL,False
+523599,365819,Cholesterol,228.51,mmol/L,False
+968726,131729,Blood Sugar,198.4,mmol/L,True
+988937,937820,Cholesterol,66.9,mg/dL,True
+107231,201604,Blood Sugar,5.44,mmol/L,True
+347011,537332,Blood Sugar,103.04,mg/dL,False
+231851,753035,Blood Sugar,Error,mg/dL,False
+716222,788468,Blood Sugar,3.96,mg/dL,True
+619089,844686,Cholesterol,181.46,mg/dL,False
+347889,169113,Blood Sugar,105.78,mg/dL,False
+771343,209967,Blood Sugar,67.4,mg/dL,False
+351024,577870,Hemoglobin,23.03,g/dL,False
+661434,797065,Cholesterol,43.84,mmol/L,False
+920280,333444,Blood Sugar,16.93,mg/dL,True
+491666,847546,Cholesterol,97.01,mg/dL,False
+488848,247129,Blood Sugar,26.85,mg/dL,True
+521122,435607,Blood Sugar,128.87,mmol/L,True
+802888,268657,Cholesterol,98.5,mmol/L,False
+584844,886293,Hemoglobin,226.54,g/dL,False
+405901,942306,Vitamin D,191.47,ng/mL,True
+127574,176541,Hemoglobin,83.98,g/dL,True
+853114,134569,Blood Sugar,122.23,mg/dL,True
+914762,676411,Blood Sugar,187.13,mg/dL,False
+411549,837770,Blood Sugar,Error,mmol/L,False
+215746,341593,Cholesterol,129.48,mmol/L,True
+430702,548679,Blood Sugar,180.22,mg/dL,True
+366398,803377,Blood Sugar,19.97,mmol/L,False
+270978,806499,Blood Sugar,217.14,mmol/L,True
+698255,190167,Hemoglobin,82.93,g/dL,False
+156663,949335,Blood Sugar,242.45,mg/dL,False
+685525,788314,Blood Sugar,Pending,mg/dL,False
+412906,993300,Hemoglobin,163.63,g/dL,False
+707116,605529,Hemoglobin,Pending,g/dL,False
+205814,913463,Blood Sugar,122.99,mmol/L,True
+700636,597867,Cholesterol,3.25,mmol/L,False
+840818,901074,Blood Sugar,4.67,mmol/L,False
+366586,162158,Blood Sugar,14.34,mmol/L,True
+675017,552588,Cholesterol,90.46,mmol/L,True
+422934,339980,Blood Sugar,206.56,mg/dL,False
+155456,609487,Blood Sugar,67.67,mmol/L,True
+548596,337749,Hemoglobin,Error,g/dL,False
+207602,742085,Cholesterol,76.89,mg/dL,False
+758566,588153,Blood Sugar,188.83,mmol/L,True
+707766,180084,Blood Sugar,49.33,mg/dL,False
+424952,688240,Cholesterol,110.94,mg/dL,False
+616922,287828,Blood Sugar,16.3,mg/dL,True
+536492,784861,Blood Sugar,86.1,mg/dL,True
+321891,859375,Blood Sugar,246.91,mg/dL,True
+142668,123745,Hemoglobin,140.16,g/dL,False
+674751,251070,Blood Sugar,182.51,mg/dL,False
+922397,739828,Hemoglobin,196.28,g/dL,False
+827274,378871,Cholesterol,231.15,mmol/L,False
+962807,524974,Cholesterol,128.24,mg/dL,False
+658278,144648,Blood Sugar,150.56,mg/dL,False
+213332,496123,Blood Sugar,75.47,mg/dL,False
+494896,322577,Blood Sugar,248.96,mmol/L,False
+721324,462866,Cholesterol,130.27,mg/dL,False
+194752,855704,Blood Sugar,93.78,mg/dL,False
+118573,259057,Cholesterol,144.05,mg/dL,True
+498066,261987,Hemoglobin,Error,g/dL,True
+438988,361464,Hemoglobin,124.33,g/dL,False
+965542,272975,Blood Sugar,26.5,mmol/L,True
+410220,965594,Blood Sugar,98.39,mg/dL,False
+760000,804348,Cholesterol,Pending,mg/dL,True
+775529,508821,Cholesterol,16.18,mmol/L,True
+371217,498870,Blood Sugar,82.44,mmol/L,False
+880771,237698,Blood Sugar,94.85,mg/dL,False
+480362,469591,Cholesterol,147.29,mmol/L,True
+318493,995020,Vitamin D,104.29,ng/mL,False
+177787,211816,Blood Sugar,78.93,mg/dL,True
+928517,412017,Vitamin D,44.62,ng/mL,False
+517194,621899,Cholesterol,198.61,mmol/L,False
+412821,757668,Vitamin D,119.3,ng/mL,True
+198005,759928,Hemoglobin,79.73,g/dL,False
+181567,997469,Blood Sugar,225.37,mg/dL,False
+990518,210136,Vitamin D,119.79,ng/mL,False
+650454,260724,Cholesterol,110.86,mg/dL,True
+951174,264263,Blood Sugar,61.17,mmol/L,False
+460877,864810,Blood Sugar,89.55,mmol/L,True
+732743,345648,Hemoglobin,55.12,g/dL,True
+387250,536931,Blood Sugar,230.51,mmol/L,True
+797564,313934,Cholesterol,75.17,mmol/L,False
+319716,712862,Vitamin D,236.17,nmol/L,False
+695231,663655,Cholesterol,143.61,mg/dL,True
+233283,493139,Blood Sugar,20.37,mg/dL,True
+666799,273193,Blood Sugar,189.62,mg/dL,True
+652368,172839,Blood Sugar,200.06,mmol/L,True
+255340,235766,Cholesterol,139.51,mmol/L,True
+273064,105251,Blood Sugar,165.18,mmol/L,False
+120207,281756,Cholesterol,199.53,mg/dL,False
+973624,856818,Cholesterol,165.79,mg/dL,True
+159401,691289,Blood Sugar,16.3,mg/dL,False
+475490,738092,Blood Sugar,47.58,mmol/L,False
+781722,240957,Cholesterol,247.95,mmol/L,True
+455146,391928,Hemoglobin,50.86,g/dL,False
+489613,261599,Blood Sugar,134.08,mg/dL,False
+470310,356768,Blood Sugar,243.21,mg/dL,False
+180258,592638,Blood Sugar,140.76,mmol/L,True
+607206,920443,Hemoglobin,121.6,g/dL,True
+397822,752510,Cholesterol,246.27,mg/dL,True
+503107,956080,Cholesterol,177.43,mmol/L,True
+997281,122399,Cholesterol,6.85,mg/dL,False
+114213,846217,Hemoglobin,130.88,g/dL,True
+745780,284678,Blood Sugar,245.8,mg/dL,True
+932145,840192,Hemoglobin,155.05,g/dL,False
+210413,169270,Hemoglobin,174.77,g/dL,True
+644548,753736,Vitamin D,166.89,nmol/L,False
+226235,958007,Vitamin D,174.44,nmol/L,True
+808326,861290,Cholesterol,82.18,mmol/L,False
+223991,117830,Cholesterol,208.05,mg/dL,True
+485531,602201,Blood Sugar,140.5,mmol/L,False
+453545,173491,Cholesterol,202.65,mg/dL,False
+684643,433920,Vitamin D,101.54,ng/mL,True
+811362,197804,Cholesterol,161.33,mmol/L,True
+435945,453141,Blood Sugar,247.11,mmol/L,False
+204993,885844,Hemoglobin,114.84,g/dL,False
+310556,764940,Blood Sugar,50.43,mg/dL,False
+501213,513023,Cholesterol,154.42,mmol/L,False
+765063,912939,Blood Sugar,57.31,mmol/L,False
+406475,215334,Blood Sugar,29.26,mg/dL,True
+165030,561347,Blood Sugar,69.91,mg/dL,False
+298285,105302,Hemoglobin,135.4,g/dL,True
+964459,885461,Vitamin D,183.43,nmol/L,True
+873306,307433,Cholesterol,218.98,mg/dL,True
+845554,917669,Blood Sugar,195.82,mg/dL,False
+308960,221960,Cholesterol,Pending,mmol/L,True
+553499,257614,Cholesterol,36.54,mmol/L,False
+481488,400646,Vitamin D,220.5,nmol/L,True
+353493,483191,Vitamin D,62.4,nmol/L,False
+631221,739828,Vitamin D,207.03,ng/mL,True
+373002,107753,Hemoglobin,141.5,g/dL,False
+822575,715534,Vitamin D,15.74,nmol/L,True
+902006,348090,Cholesterol,36.5,mg/dL,False
+827482,897683,Vitamin D,218.1,ng/mL,True
+274693,451113,Blood Sugar,227.85,mg/dL,True
+611924,797312,Cholesterol,141.94,mmol/L,False
+880360,539677,Blood Sugar,20.07,mg/dL,False
+232468,623798,Blood Sugar,24.56,mg/dL,True
+594666,721437,Blood Sugar,224.15,mg/dL,True
+913587,454370,Cholesterol,249.75,mg/dL,False
+825429,560269,Blood Sugar,148.54,mg/dL,True
+209720,577017,Blood Sugar,Pending,mg/dL,True
+126120,416690,Vitamin D,187.44,ng/mL,False
+948600,288802,Cholesterol,172.33,mmol/L,True
+812839,592022,Cholesterol,124.83,mmol/L,False
+279293,150165,Blood Sugar,220.38,mmol/L,False
+392196,407586,Blood Sugar,85.67,mg/dL,False
+670664,703832,Blood Sugar,98.55,mmol/L,True
+257422,335745,Vitamin D,103.59,nmol/L,True
+264594,807025,Blood Sugar,Error,mg/dL,True
+287275,727902,Blood Sugar,104.13,mg/dL,False
+869451,336766,Cholesterol,228.46,mg/dL,False
+264074,798799,Cholesterol,118.84,mmol/L,True
+720215,726220,Blood Sugar,80.07,mmol/L,False
+411530,597567,Blood Sugar,147.52,mmol/L,False
+701078,419826,Hemoglobin,176.39,g/dL,False
+580190,942875,Blood Sugar,71.44,mmol/L,True
+138882,929898,Blood Sugar,215.78,mg/dL,False
+395335,260900,Blood Sugar,38.1,mmol/L,False
+812771,937820,Blood Sugar,157.28,mg/dL,False
+251613,108245,Cholesterol,213.69,mg/dL,False
+342199,188465,Blood Sugar,165.06,mmol/L,False
+300968,306386,Cholesterol,Error,mg/dL,False
+862536,522200,Blood Sugar,31.29,mg/dL,False
+797805,144331,Cholesterol,105.77,mg/dL,True
+953588,597026,Hemoglobin,80.7,g/dL,False
+840105,217074,Blood Sugar,9.99,mmol/L,True
+924915,563935,Blood Sugar,68.72,mmol/L,False
+183360,216423,Cholesterol,100.46,mg/dL,True
+352712,233860,Blood Sugar,230.33,mmol/L,False
+386455,976380,Cholesterol,154.27,mmol/L,False
+497081,156361,Hemoglobin,116.76,g/dL,False
+702950,491784,Blood Sugar,111.97,mg/dL,False
+901539,969107,Hemoglobin,28.49,g/dL,True
+543785,180541,Blood Sugar,195.35,mmol/L,True
+400836,420928,Hemoglobin,218.44,g/dL,False
+638645,858348,Blood Sugar,6.26,mmol/L,True
+901520,266701,Hemoglobin,85.58,g/dL,False
+160096,215866,Blood Sugar,191.61,mg/dL,True
+704668,683576,Cholesterol,90.3,mg/dL,False
+195670,872442,Cholesterol,136.11,mg/dL,False
+161777,482179,Blood Sugar,242.23,mmol/L,False
+550685,411581,Vitamin D,94.98,ng/mL,True
+863420,694694,Hemoglobin,153.08,g/dL,False
+929503,338963,Cholesterol,3.64,mg/dL,True
+744051,458866,Blood Sugar,227.88,mg/dL,False
+510435,819446,Blood Sugar,174.54,mmol/L,True
+214478,376357,Blood Sugar,14.38,mg/dL,True
+827574,473373,Blood Sugar,13.92,mg/dL,True
+966662,337648,Blood Sugar,219.47,mmol/L,True
+426683,617861,Hemoglobin,164.62,g/dL,True
+528259,251701,Blood Sugar,237.22,mmol/L,True
+115186,763740,Blood Sugar,32.2,mg/dL,False
+467101,674348,Blood Sugar,208.67,mg/dL,False
+583778,283972,Blood Sugar,147.26,mg/dL,True
+947800,706205,Cholesterol,40.5,mg/dL,False
+831002,786520,Blood Sugar,177.98,mg/dL,True
+286997,981001,Vitamin D,230.75,nmol/L,True
+900127,656824,Cholesterol,238.73,mg/dL,True
+829337,577820,Hemoglobin,74.99,g/dL,False
+395051,344619,Hemoglobin,139.64,g/dL,False
+129197,562388,Blood Sugar,52.42,mmol/L,True
+347008,707105,Vitamin D,213.03,ng/mL,False
+467151,325242,Vitamin D,71.0,ng/mL,True
+248852,495993,Cholesterol,89.41,mmol/L,False
+882280,543763,Cholesterol,61.97,mg/dL,True
+646497,167480,Blood Sugar,249.62,mg/dL,False
+604613,806541,Blood Sugar,Error,mmol/L,False
+523444,163635,Blood Sugar,199.38,mg/dL,True
+524038,111972,Vitamin D,55.79,nmol/L,True
+613159,486589,Blood Sugar,145.61,mg/dL,True
+476005,926296,Blood Sugar,73.97,mg/dL,True
+278448,270220,Cholesterol,42.81,mg/dL,True
+755277,798103,Hemoglobin,221.42,g/dL,False
+419846,931490,Blood Sugar,140.15,mmol/L,True
+453598,974312,Blood Sugar,137.11,mg/dL,True
+343048,900372,Blood Sugar,187.28,mg/dL,False
+359816,571250,Cholesterol,80.13,mg/dL,False
+305871,248138,Blood Sugar,175.87,mg/dL,True
+593100,233346,Cholesterol,151.09,mmol/L,False
+851434,670821,Blood Sugar,66.34,mg/dL,True
+628891,458913,Cholesterol,210.2,mmol/L,True
+641306,881505,Cholesterol,207.09,mg/dL,False
+974733,432517,Blood Sugar,242.85,mmol/L,False
+184576,453024,Blood Sugar,184.09,mmol/L,True
+812237,858234,Hemoglobin,59.15,g/dL,True
+397120,214515,Cholesterol,32.48,mg/dL,True
+683628,337723,Hemoglobin,113.45,g/dL,True
+780741,310020,Cholesterol,197.1,mmol/L,True
+868946,197492,Cholesterol,130.49,mmol/L,True
+441803,971150,Cholesterol,Pending,mg/dL,True
+490670,546484,Vitamin D,217.16,ng/mL,True
+420656,668676,Cholesterol,169.55,mmol/L,False
+510555,999605,Vitamin D,188.37,ng/mL,True
+144275,925451,Hemoglobin,118.92,g/dL,False
+123720,491660,Hemoglobin,165.01,g/dL,True
+329633,649325,Hemoglobin,36.91,g/dL,True
+566117,212910,Vitamin D,232.03,ng/mL,False
+377489,935986,Cholesterol,176.43,mmol/L,False
+902572,816999,Cholesterol,118.08,mg/dL,False
+729429,707135,Hemoglobin,91.45,g/dL,False
+931757,103055,Hemoglobin,47.96,g/dL,False
+398723,744810,Cholesterol,81.96,mg/dL,True
+574141,495881,Blood Sugar,182.99,mg/dL,True
+690588,317032,Cholesterol,165.24,mmol/L,True
+347151,518509,Blood Sugar,93.42,mg/dL,False
+756842,933413,Hemoglobin,39.09,g/dL,True
+473358,531738,Cholesterol,215.3,mmol/L,True
+225200,508821,Blood Sugar,221.32,mmol/L,True
+988537,374049,Blood Sugar,88.94,mmol/L,False
+348267,827382,Blood Sugar,72.82,mg/dL,False
+800265,711866,Blood Sugar,239.08,mg/dL,False
+578548,432296,Cholesterol,115.38,mmol/L,True
+757253,305205,Blood Sugar,241.92,mmol/L,False
+769733,986025,Cholesterol,48.08,mmol/L,True
+160765,122399,Cholesterol,117.15,mg/dL,False
+934650,429731,Blood Sugar,191.35,mg/dL,False
+190611,476474,Blood Sugar,61.19,mmol/L,False
+121283,377942,Blood Sugar,6.73,mmol/L,True
+152803,374049,Cholesterol,237.3,mg/dL,True
+538321,789344,Cholesterol,59.5,mg/dL,False
+975029,623371,Hemoglobin,84.17,g/dL,True
+293467,224427,Vitamin D,141.35,ng/mL,False
+638917,161181,Cholesterol,31.29,mmol/L,True
+438988,951331,Blood Sugar,192.8,mmol/L,True
+375665,954320,Blood Sugar,189.64,mg/dL,False
+178600,123745,Blood Sugar,200.01,mmol/L,False
+687908,416772,Blood Sugar,118.48,mmol/L,True
+162823,715534,Cholesterol,232.6,mmol/L,True
+678467,534256,Blood Sugar,24.76,mg/dL,True
+386698,133933,Cholesterol,Error,mg/dL,False
+404898,752866,Blood Sugar,115.27,mg/dL,False
+782691,431146,Vitamin D,91.5,ng/mL,True
+963648,711746,Vitamin D,22.49,ng/mL,False
+503359,232632,Hemoglobin,142.88,g/dL,False
+314592,633162,Vitamin D,46.1,nmol/L,False
+740463,919430,Blood Sugar,231.7,mmol/L,False
+736600,463558,Cholesterol,212.42,mg/dL,False
+692650,490943,Cholesterol,167.47,mg/dL,True
+943257,926296,Cholesterol,65.47,mmol/L,True
+444855,516243,Blood Sugar,164.09,mmol/L,False
+276828,325294,Cholesterol,180.72,mg/dL,False
+922439,549582,Hemoglobin,120.15,g/dL,False
+256794,863043,Vitamin D,10.81,nmol/L,True
+566172,748478,Hemoglobin,249.64,g/dL,True
+846423,513284,Cholesterol,196.92,mg/dL,True
+398724,288166,Cholesterol,16.59,mg/dL,False
+998854,810640,Blood Sugar,197.49,mg/dL,False
+828147,416713,Cholesterol,36.07,mmol/L,True
+479862,442613,Vitamin D,24.37,nmol/L,False
+174297,941860,Hemoglobin,132.76,g/dL,False
+111480,880494,Blood Sugar,201.97,mg/dL,False
+423277,515374,Cholesterol,76.7,mmol/L,False
+550484,265275,Blood Sugar,47.15,mg/dL,True
+401298,896961,Hemoglobin,71.9,g/dL,True
+536406,370874,Hemoglobin,124.59,g/dL,True
+202140,363368,Cholesterol,119.49,mg/dL,False
+791333,310144,Cholesterol,50.72,mg/dL,True
+463804,965622,Blood Sugar,137.32,mmol/L,False
+959933,403209,Blood Sugar,7.94,mmol/L,True
+973551,818425,Blood Sugar,116.15,mg/dL,True
+884813,372241,Cholesterol,127.7,mmol/L,False
+433579,196636,Hemoglobin,Pending,g/dL,True
+591240,880373,Blood Sugar,94.03,mmol/L,False
+384395,916469,Hemoglobin,35.35,g/dL,False
+107947,120232,Blood Sugar,205.22,mmol/L,True
+319459,159214,Vitamin D,199.53,ng/mL,False
+993784,775937,Cholesterol,244.03,mg/dL,False
+821717,860596,Cholesterol,98.36,mmol/L,True
+785479,417072,Blood Sugar,132.32,mg/dL,False
+513275,138585,Cholesterol,185.36,mmol/L,False
+350839,138100,Vitamin D,243.0,ng/mL,True
+869407,951796,Cholesterol,203.74,mmol/L,False
+320430,996118,Blood Sugar,121.16,mmol/L,False
+534837,197814,Blood Sugar,Pending,mmol/L,True
+780516,703240,Hemoglobin,79.38,g/dL,False
+850988,222881,Vitamin D,25.66,nmol/L,True
+562036,735008,Cholesterol,16.13,mg/dL,False
+231093,453141,Vitamin D,221.03,ng/mL,True
+493117,595507,Cholesterol,218.79,mg/dL,False
+859606,246583,Cholesterol,231.45,mg/dL,False
+560259,981637,Blood Sugar,220.42,mmol/L,True
+891743,909809,Vitamin D,120.91,nmol/L,False
+912494,844758,Blood Sugar,96.67,mmol/L,True
+830249,899594,Blood Sugar,80.83,mg/dL,True
+926935,145303,Hemoglobin,Pending,g/dL,False
+467157,285632,Cholesterol,178.84,mmol/L,False
+249927,114550,Hemoglobin,147.38,g/dL,False
+539301,982796,Blood Sugar,25.91,mg/dL,False
+939014,110336,Cholesterol,214.95,mg/dL,True
+783945,512018,Vitamin D,193.63,nmol/L,False
+680844,200301,Blood Sugar,57.04,mmol/L,True
+984060,378835,Blood Sugar,220.69,mmol/L,True
+773028,894545,Hemoglobin,220.01,g/dL,False
+808662,515980,Blood Sugar,187.63,mg/dL,False
+623904,834389,Cholesterol,238.4,mg/dL,False
+129065,144002,Blood Sugar,230.86,mg/dL,False
+700505,215334,Vitamin D,228.11,ng/mL,False
+701806,937725,Blood Sugar,154.26,mmol/L,False
+218283,592022,Blood Sugar,108.68,mmol/L,True
+686242,353043,Cholesterol,139.7,mg/dL,True
+503472,545881,Hemoglobin,77.3,g/dL,False
+967315,540734,Blood Sugar,44.02,mg/dL,True
+267700,216280,Blood Sugar,18.65,mg/dL,True
+928803,727794,Hemoglobin,198.17,g/dL,True
+781450,501951,Blood Sugar,Error,mmol/L,False
+584045,464761,Vitamin D,59.11,nmol/L,False
+422984,232632,Cholesterol,8.34,mg/dL,True
+385719,680476,Cholesterol,242.2,mg/dL,False
+302716,370418,Blood Sugar,147.35,mg/dL,False
+241699,310015,Hemoglobin,92.17,g/dL,False
+231353,251779,Vitamin D,156.55,nmol/L,True
+872184,594136,Blood Sugar,223.5,mg/dL,False
+213818,518829,Hemoglobin,133.39,g/dL,True
+204374,777995,Vitamin D,55.75,ng/mL,True
+246464,306958,Blood Sugar,165.09,mmol/L,False
+878530,788438,Hemoglobin,156.25,g/dL,False
+180118,638428,Hemoglobin,46.45,g/dL,True
+326535,395268,Cholesterol,10.4,mmol/L,True
+963038,142051,Hemoglobin,54.03,g/dL,True
+951192,582622,Cholesterol,153.02,mg/dL,True
+260695,832041,Blood Sugar,190.26,mmol/L,True
+433235,769444,Cholesterol,68.69,mmol/L,True
+630043,784309,Vitamin D,64.29,ng/mL,False
+609584,447654,Vitamin D,132.59,nmol/L,True
+287055,673132,Cholesterol,140.45,mmol/L,False
+461106,597774,Blood Sugar,42.15,mmol/L,False
+918522,298656,Cholesterol,9.98,mg/dL,False
+490743,961542,Blood Sugar,Pending,mg/dL,True
+679288,230145,Vitamin D,161.2,ng/mL,False
+991246,357600,Cholesterol,136.6,mmol/L,True
+753085,496221,Cholesterol,152.88,mmol/L,False
+386422,574800,Cholesterol,132.63,mg/dL,False
+390680,753152,Cholesterol,65.28,mg/dL,False
+783585,280933,Cholesterol,204.76,mmol/L,True
+631415,627070,Blood Sugar,88.11,mg/dL,False
+527800,123733,Blood Sugar,208.57,mmol/L,False
+381147,858781,Cholesterol,99.08,mg/dL,False
+200571,312451,Cholesterol,Error,mg/dL,True
+979618,255834,Blood Sugar,55.88,mmol/L,True
+469007,402589,Blood Sugar,89.64,mg/dL,False
+556034,760972,Blood Sugar,168.91,mmol/L,False
+854873,947944,Cholesterol,176.62,mg/dL,False
+522215,509145,Blood Sugar,111.59,mg/dL,False
+812252,873577,Cholesterol,199.58,mg/dL,False
+149572,862377,Vitamin D,238.15,nmol/L,False
+587750,575930,Vitamin D,175.87,nmol/L,False
+411892,526635,Cholesterol,237.68,mmol/L,True
+316635,307622,Blood Sugar,Error,mmol/L,True
+240598,512693,Hemoglobin,245.48,g/dL,False
+473482,226682,Cholesterol,26.86,mmol/L,True
+811474,979682,Hemoglobin,99.63,g/dL,False
+259562,727134,Hemoglobin,211.6,g/dL,True
+929150,766856,Blood Sugar,23.68,mmol/L,False
+247885,465883,Cholesterol,172.83,mmol/L,False
+643661,628641,Blood Sugar,188.18,mmol/L,True
+148448,595571,Cholesterol,101.62,mg/dL,False
+368569,937519,Cholesterol,203.2,mg/dL,True
+929754,832326,Cholesterol,162.74,mg/dL,True
+687574,649372,Cholesterol,132.85,mmol/L,False
+375927,666108,Cholesterol,69.71,mg/dL,False
+945467,260072,Cholesterol,28.79,mmol/L,True
+978508,670453,Blood Sugar,72.18,mmol/L,False
+930717,754804,Cholesterol,79.87,mg/dL,False
+311910,963921,Blood Sugar,169.53,mg/dL,False
+637673,100806,Blood Sugar,64.2,mg/dL,True
+267435,858639,Blood Sugar,69.78,mmol/L,True
+835511,586806,Cholesterol,149.13,mmol/L,True
+666769,256506,Blood Sugar,176.08,mmol/L,True
+485750,642532,Blood Sugar,69.69,mg/dL,False
+436233,335294,Blood Sugar,222.78,mmol/L,False
+944460,391359,Blood Sugar,6.84,mmol/L,False
+699072,825208,Cholesterol,178.37,mmol/L,False
+693711,589434,Cholesterol,144.36,mmol/L,True
+838292,576207,Blood Sugar,179.53,mg/dL,False
+759459,299994,Hemoglobin,234.13,g/dL,False
+345918,532745,Cholesterol,183.04,mg/dL,True
+236635,379935,Blood Sugar,190.01,mg/dL,True
+850213,544251,Blood Sugar,85.57,mmol/L,False
+531140,573545,Cholesterol,219.08,mg/dL,True
+483219,685150,Vitamin D,229.07,nmol/L,False
+401931,792605,Hemoglobin,216.53,g/dL,False
+107737,799764,Cholesterol,67.73,mg/dL,True
+574755,307710,Blood Sugar,200.11,mmol/L,True
+791463,553780,Hemoglobin,73.22,g/dL,True
+286770,357667,Blood Sugar,180.96,mg/dL,False
+522615,776081,Hemoglobin,196.27,g/dL,False
+345052,285057,Cholesterol,133.64,mmol/L,True
+190044,369369,Blood Sugar,40.3,mg/dL,False
+382145,963089,Blood Sugar,46.8,mg/dL,True
+348312,681815,Blood Sugar,230.62,mmol/L,True
+391251,308275,Blood Sugar,Pending,mg/dL,False
+298031,974501,Blood Sugar,12.71,mg/dL,True
+234152,452705,Cholesterol,183.37,mmol/L,True
+100152,270220,Blood Sugar,158.13,mmol/L,False
+706876,870396,Cholesterol,123.01,mmol/L,False
+203383,383220,Blood Sugar,189.04,mg/dL,True
+335247,547097,Cholesterol,47.87,mmol/L,True
+875391,508537,Blood Sugar,34.41,mg/dL,True
+851543,269517,Cholesterol,160.47,mmol/L,True
+137982,349123,Blood Sugar,49.1,mg/dL,True
+188938,336085,Hemoglobin,196.05,g/dL,True
+708940,208448,Cholesterol,23.84,mg/dL,True
+626810,952247,Vitamin D,3.02,ng/mL,True
+766828,955152,Hemoglobin,233.26,g/dL,False
+591072,368634,Cholesterol,33.17,mg/dL,False
+954616,541743,Cholesterol,8.32,mg/dL,False
+953396,328708,Blood Sugar,230.61,mmol/L,True
+101291,132941,Blood Sugar,75.22,mg/dL,True
+252717,901489,Cholesterol,167.14,mg/dL,True
+903934,649325,Cholesterol,177.27,mg/dL,True
+865037,690055,Cholesterol,35.31,mg/dL,False
+748917,835281,Blood Sugar,104.77,mmol/L,False
+586452,414815,Vitamin D,20.72,nmol/L,True
+572425,365573,Blood Sugar,8.37,mmol/L,True
+760735,466804,Blood Sugar,187.56,mmol/L,True
+545991,613693,Cholesterol,51.82,mmol/L,False
+965490,945324,Hemoglobin,144.87,g/dL,True
+248399,673293,Cholesterol,Error,mg/dL,False
+368096,977325,Hemoglobin,197.05,g/dL,True
+274025,911604,Blood Sugar,109.65,mmol/L,True
+968895,936268,Cholesterol,Pending,mg/dL,False
+137322,897551,Cholesterol,72.95,mmol/L,False
+607235,138100,Cholesterol,116.88,mg/dL,True
+355670,117819,Cholesterol,129.77,mmol/L,False
+121933,205205,Blood Sugar,137.47,mg/dL,False
+319529,409226,Cholesterol,127.75,mg/dL,True
+820990,768940,Vitamin D,235.8,ng/mL,False
+298302,350588,Cholesterol,86.49,mmol/L,True
+869894,564435,Blood Sugar,202.49,mg/dL,False
+907968,830134,Hemoglobin,175.63,g/dL,False
+800953,268846,Vitamin D,76.27,ng/mL,True
+731862,123733,Cholesterol,72.16,mg/dL,True
+830711,317869,Blood Sugar,27.18,mmol/L,False
+638611,370418,Vitamin D,227.59,ng/mL,False
+410281,507160,Cholesterol,222.87,mmol/L,False
+999684,571076,Hemoglobin,3.87,g/dL,True
+562916,641010,Cholesterol,198.39,mmol/L,False
+972275,661561,Blood Sugar,110.26,mg/dL,True
+691075,946159,Vitamin D,247.3,nmol/L,True
+719783,614862,Blood Sugar,32.7,mmol/L,True
+494267,742286,Blood Sugar,29.01,mmol/L,False
+100480,663335,Blood Sugar,158.34,mmol/L,True
+182669,594762,Blood Sugar,146.5,mmol/L,False
+977666,338314,Blood Sugar,167.58,mmol/L,False
+863252,196471,Hemoglobin,68.37,g/dL,False
+304653,272926,Cholesterol,244.86,mg/dL,False
+206388,508821,Hemoglobin,217.92,g/dL,False
+887746,507045,Vitamin D,92.9,nmol/L,False
+474934,122313,Blood Sugar,101.17,mmol/L,True
+963610,804244,Cholesterol,23.81,mmol/L,False
+394335,582552,Cholesterol,155.1,mmol/L,True
+280505,686817,Blood Sugar,73.0,mmol/L,True
+620760,340330,Blood Sugar,48.85,mmol/L,False
+326295,560757,Cholesterol,74.56,mg/dL,False
+592596,875792,Hemoglobin,16.78,g/dL,False
+396491,530480,Blood Sugar,171.82,mg/dL,True
+204667,263787,Blood Sugar,138.27,mmol/L,False
+768487,730123,Cholesterol,221.97,mmol/L,True
+926727,576207,Cholesterol,80.0,mmol/L,True
+573756,619392,Vitamin D,168.12,nmol/L,False
+312547,986345,Hemoglobin,9.33,g/dL,True
+623580,538327,Cholesterol,109.47,mg/dL,True
+452981,373939,Cholesterol,104.3,mmol/L,False
+813303,105302,Blood Sugar,153.03,mmol/L,True
+925859,728771,Cholesterol,125.22,mmol/L,False
+581859,441433,Hemoglobin,104.8,g/dL,False
+759266,137656,Cholesterol,186.6,mmol/L,False
+848030,866224,Blood Sugar,41.64,mg/dL,False
+455837,227042,Hemoglobin,146.79,g/dL,False
+551393,651166,Cholesterol,149.88,mg/dL,False
+127047,978001,Blood Sugar,200.57,mmol/L,False
+313533,769444,Cholesterol,20.54,mg/dL,False
+221498,948244,Vitamin D,57.61,nmol/L,False
+360514,561941,Vitamin D,5.34,nmol/L,True
+160301,328437,Cholesterol,52.22,mmol/L,True
+481753,759536,Blood Sugar,155.61,mg/dL,True
+971760,649300,Blood Sugar,50.99,mmol/L,False
+901077,864624,Cholesterol,55.59,mmol/L,True
+507560,861391,Hemoglobin,193.14,g/dL,False
+938465,362773,Cholesterol,246.58,mmol/L,True
+539730,705958,Blood Sugar,132.96,mg/dL,False
+106386,952832,Hemoglobin,197.25,g/dL,False
+846135,443561,Vitamin D,170.95,nmol/L,False
+900264,356703,Hemoglobin,212.85,g/dL,False
+895103,226741,Blood Sugar,56.23,mmol/L,True
+375921,165725,Blood Sugar,72.48,mmol/L,True
+312069,558793,Blood Sugar,184.45,mg/dL,False
+469691,918943,Blood Sugar,21.51,mg/dL,False
+555667,495184,Blood Sugar,161.11,mg/dL,False
+304893,209773,Blood Sugar,130.67,mmol/L,True
+890822,908783,Hemoglobin,243.44,g/dL,False
+765184,821238,Cholesterol,64.72,mmol/L,True
+220051,600058,Hemoglobin,159.28,g/dL,True
+261022,892660,Blood Sugar,32.51,mg/dL,True
+350208,306652,Hemoglobin,103.06,g/dL,True
+281429,505048,Blood Sugar,113.37,mmol/L,False
+771018,462274,Blood Sugar,34.81,mmol/L,True
+903753,703674,Blood Sugar,49.18,mmol/L,True
+937139,612960,Blood Sugar,65.32,mg/dL,True
+712943,101493,Cholesterol,15.38,mmol/L,True
+142657,382143,Blood Sugar,240.15,mmol/L,False
+947900,293747,Blood Sugar,59.27,mg/dL,False
+174458,521947,Blood Sugar,164.84,mg/dL,False
+357828,324665,Hemoglobin,161.85,g/dL,False
+805289,137167,Cholesterol,23.03,mg/dL,True
+621144,301872,Blood Sugar,Pending,mmol/L,False
+531041,783791,Cholesterol,Error,mg/dL,True
+234149,985589,Blood Sugar,54.19,mmol/L,True
+882055,215159,Cholesterol,153.72,mmol/L,True
+204541,241944,Blood Sugar,236.2,mmol/L,True
+427623,606397,Cholesterol,21.02,mmol/L,False
+941566,969110,Cholesterol,133.44,mmol/L,False
+871343,361169,Vitamin D,242.9,ng/mL,True
+594767,319086,Blood Sugar,9.5,mg/dL,False
+381808,538794,Hemoglobin,74.79,g/dL,True
+572864,391431,Cholesterol,213.53,mmol/L,False
+366043,734864,Hemoglobin,189.86,g/dL,False
+366341,925366,Cholesterol,136.22,mg/dL,True
+465262,321901,Cholesterol,60.65,mmol/L,False
+225783,343944,Hemoglobin,148.75,g/dL,True
+485470,730012,Vitamin D,10.08,ng/mL,False
+544256,694706,Hemoglobin,114.5,g/dL,False
+731536,740075,Blood Sugar,12.84,mmol/L,False
+713189,814923,Hemoglobin,214.31,g/dL,True
+866694,550021,Hemoglobin,129.94,g/dL,False
+183398,406819,Blood Sugar,112.6,mmol/L,True
+565628,234229,Blood Sugar,204.23,mg/dL,False
+464932,577820,Cholesterol,201.24,mg/dL,False
+400945,341894,Cholesterol,236.25,mg/dL,False
+631308,814029,Blood Sugar,144.24,mg/dL,True
+603847,177844,Hemoglobin,12.81,g/dL,False
+986683,161404,Hemoglobin,19.18,g/dL,False
+623208,305205,Hemoglobin,18.45,g/dL,False
+131362,895882,Vitamin D,193.46,nmol/L,False
+984871,959747,Blood Sugar,35.04,mmol/L,True
+456640,521791,Vitamin D,10.87,nmol/L,False
+539443,178812,Hemoglobin,85.8,g/dL,True
+252260,734896,Cholesterol,195.39,mg/dL,True
+388067,593510,Blood Sugar,141.75,mmol/L,False
+169547,221805,Cholesterol,28.02,mmol/L,True
+247980,674600,Cholesterol,121.77,mg/dL,True
+111807,752204,Vitamin D,Pending,ng/mL,True
+842501,856668,Cholesterol,128.87,mg/dL,False
+832722,333027,Hemoglobin,48.32,g/dL,True
+880694,114252,Blood Sugar,36.09,mg/dL,False
+563204,999285,Blood Sugar,69.3,mmol/L,True
+307998,701980,Blood Sugar,31.73,mg/dL,False
+887475,672511,Blood Sugar,184.72,mg/dL,True
+685681,524449,Cholesterol,144.71,mmol/L,False
+960931,591018,Blood Sugar,35.26,mg/dL,False
+694092,478251,Cholesterol,224.7,mmol/L,True
+910670,602695,Blood Sugar,78.43,mmol/L,False
+480002,493849,Blood Sugar,3.35,mg/dL,False
+573157,883765,Blood Sugar,118.5,mg/dL,False
+459159,565786,Cholesterol,130.69,mg/dL,False
+309611,167399,Hemoglobin,246.3,g/dL,True
+417756,552445,Blood Sugar,45.78,mg/dL,False
+905235,735860,Blood Sugar,141.82,mg/dL,False
+709807,161553,Blood Sugar,118.49,mg/dL,True
+956816,338238,Blood Sugar,247.37,mmol/L,True
+113214,995599,Cholesterol,110.0,mg/dL,False
+399861,986184,Blood Sugar,Error,mmol/L,True
+232173,812530,Vitamin D,19.22,nmol/L,False
+938852,493527,Blood Sugar,74.74,mg/dL,True
+534693,125680,Cholesterol,231.1,mmol/L,True
+170371,473145,Vitamin D,Error,nmol/L,False
+632297,880438,Cholesterol,242.87,mg/dL,False
+315869,607410,Hemoglobin,114.92,g/dL,True
+822109,814111,Cholesterol,193.3,mmol/L,False
+595383,309664,Cholesterol,172.97,mg/dL,False
+192712,877467,Hemoglobin,229.26,g/dL,False
+380308,520785,Blood Sugar,151.7,mmol/L,True
+521834,337723,Cholesterol,120.77,mg/dL,True
+610843,926595,Vitamin D,207.64,nmol/L,True
+455683,707986,Cholesterol,84.14,mg/dL,True
+166325,852144,Blood Sugar,Pending,mmol/L,True
+582225,437568,Cholesterol,16.36,mg/dL,True
+780372,871809,Cholesterol,241.31,mg/dL,True
+104328,491784,Blood Sugar,217.29,mg/dL,False
+839478,774236,Cholesterol,187.65,mg/dL,False
+240536,192756,Blood Sugar,43.11,mg/dL,True
+634186,647360,Blood Sugar,217.55,mmol/L,True
+237368,233346,Blood Sugar,177.1,mg/dL,True
+820994,350659,Cholesterol,52.93,mmol/L,True
+629081,149152,Blood Sugar,20.04,mmol/L,True
+650473,509145,Cholesterol,222.01,mg/dL,False
+646013,250273,Blood Sugar,156.06,mg/dL,True
+307290,486402,Blood Sugar,32.75,mg/dL,True
+435165,591544,Cholesterol,176.79,mg/dL,True
+434387,336183,Hemoglobin,119.65,g/dL,True
+438649,935734,Hemoglobin,85.86,g/dL,True
+974592,254228,Blood Sugar,30.86,mmol/L,True
+712232,638428,Hemoglobin,42.06,g/dL,True
+958077,148952,Blood Sugar,119.02,mmol/L,False
+501285,391158,Cholesterol,91.0,mg/dL,False
+418575,999605,Hemoglobin,238.1,g/dL,False
+325038,939261,Blood Sugar,215.8,mg/dL,True
+462057,546375,Vitamin D,212.7,nmol/L,True
+858778,663847,Blood Sugar,70.67,mg/dL,True
+404195,202842,Blood Sugar,149.12,mmol/L,True
+914239,331375,Vitamin D,14.49,nmol/L,False
+240948,836023,Blood Sugar,80.06,mmol/L,True
+922595,505786,Cholesterol,145.24,mmol/L,True
+618074,496123,Vitamin D,Error,nmol/L,False
+614087,853103,Cholesterol,35.17,mg/dL,False
+699227,300260,Blood Sugar,4.55,mg/dL,True
+914530,164782,Cholesterol,8.68,mmol/L,True
+444041,573714,Blood Sugar,199.94,mmol/L,False
+446130,443666,Cholesterol,104.06,mg/dL,False
+788698,177550,Vitamin D,223.08,ng/mL,True
+209992,469623,Vitamin D,151.0,ng/mL,False
+882347,924022,Blood Sugar,221.94,mg/dL,False
+178544,550219,Cholesterol,112.03,mmol/L,False
+413487,477635,Blood Sugar,246.79,mg/dL,True
+975600,310038,Cholesterol,61.02,mg/dL,True
+956021,226529,Cholesterol,65.28,mmol/L,True
+615053,512879,Hemoglobin,172.76,g/dL,True
+962951,500496,Cholesterol,249.67,mg/dL,True
+970375,982564,Cholesterol,87.22,mmol/L,True
+879385,972569,Blood Sugar,215.36,mg/dL,True
+272069,569009,Hemoglobin,156.14,g/dL,False
+611823,925366,Cholesterol,8.31,mg/dL,False
+186378,302219,Hemoglobin,149.27,g/dL,True
+820537,661258,Cholesterol,52.71,mg/dL,False
+261134,246583,Blood Sugar,150.29,mg/dL,True
+278005,559305,Blood Sugar,29.5,mmol/L,True
+776689,158252,Hemoglobin,112.09,g/dL,False
+657019,512778,Cholesterol,107.78,mg/dL,True
+443220,743709,Blood Sugar,173.58,mmol/L,True
+212180,260986,Blood Sugar,159.87,mg/dL,True
+688736,848898,Cholesterol,132.66,mg/dL,True
+882637,191319,Blood Sugar,36.64,mmol/L,True
+564448,229469,Vitamin D,26.5,nmol/L,True
+153717,807097,Vitamin D,14.63,ng/mL,True
+628952,244992,Cholesterol,181.77,mmol/L,True
+993622,530372,Blood Sugar,174.35,mg/dL,False
+460266,741714,Blood Sugar,207.09,mg/dL,True
+902261,288787,Vitamin D,226.63,ng/mL,True
+157655,384017,Blood Sugar,201.12,mmol/L,True
+398057,914116,Cholesterol,111.39,mg/dL,False
+133045,124818,Vitamin D,243.13,nmol/L,True
+626057,730634,Blood Sugar,66.19,mmol/L,False
+682527,969383,Hemoglobin,18.86,g/dL,True
+590282,278539,Blood Sugar,150.25,mg/dL,False
+743940,140448,Hemoglobin,77.39,g/dL,True
+792591,632827,Hemoglobin,171.65,g/dL,False
+991922,926595,Blood Sugar,194.07,mmol/L,True
+495459,789250,Blood Sugar,107.16,mg/dL,False
+205231,281601,Cholesterol,84.65,mmol/L,False
+564003,564406,Cholesterol,23.96,mmol/L,False
+584322,401433,Cholesterol,224.56,mg/dL,False
+898293,616763,Blood Sugar,11.33,mg/dL,True
+345392,832041,Cholesterol,230.49,mmol/L,True
+589587,896961,Hemoglobin,19.18,g/dL,True
+688560,697562,Hemoglobin,232.97,g/dL,False
+357292,217373,Cholesterol,18.34,mmol/L,False
+650390,704886,Blood Sugar,187.38,mmol/L,False
+394343,149278,Vitamin D,61.53,ng/mL,False
+460517,870955,Blood Sugar,105.27,mg/dL,True
+834612,852413,Cholesterol,231.08,mg/dL,False
+985296,223748,Vitamin D,225.74,nmol/L,False
+487459,256506,Cholesterol,170.47,mmol/L,True
+314988,653522,Vitamin D,99.89,ng/mL,True
+756015,501995,Hemoglobin,246.77,g/dL,True
+923544,758734,Hemoglobin,136.62,g/dL,True
+594880,524461,Blood Sugar,17.21,mmol/L,False
+105605,711258,Blood Sugar,198.46,mg/dL,False
+839024,221279,Blood Sugar,249.29,mmol/L,True
+943065,401381,Blood Sugar,Error,mmol/L,False
+886990,837454,Hemoglobin,215.83,g/dL,True
+375868,261654,Cholesterol,Error,mg/dL,True
+812111,639773,Vitamin D,206.06,nmol/L,False
+763860,421466,Vitamin D,50.14,ng/mL,True
+949214,307622,Cholesterol,6.68,mg/dL,True
+985975,276412,Cholesterol,42.57,mmol/L,False
+914278,483123,Cholesterol,66.82,mg/dL,True
+890983,176541,Blood Sugar,64.37,mmol/L,False
+154292,441916,Blood Sugar,88.09,mmol/L,True
+111187,520080,Blood Sugar,184.97,mmol/L,True
+966673,308099,Hemoglobin,39.79,g/dL,True
+212756,512885,Blood Sugar,180.22,mg/dL,False
+812599,615705,Vitamin D,45.86,nmol/L,False
+209030,766585,Hemoglobin,124.62,g/dL,False
+356577,899557,Blood Sugar,Pending,mmol/L,False
+718072,618854,Hemoglobin,161.91,g/dL,True
+945659,614208,Cholesterol,Error,mg/dL,True
+748840,193351,Vitamin D,84.5,ng/mL,False
+478010,830037,Cholesterol,30.28,mg/dL,True
+541402,262584,Hemoglobin,209.01,g/dL,True
+572640,452052,Blood Sugar,90.77,mmol/L,True
+661623,817621,Cholesterol,201.29,mmol/L,False
+382819,225744,Vitamin D,196.68,nmol/L,True
+451154,138878,Blood Sugar,48.22,mg/dL,True
+969580,188465,Cholesterol,114.78,mmol/L,True
+968367,444774,Blood Sugar,146.71,mg/dL,False
+590407,349518,Hemoglobin,52.87,g/dL,False
+238611,559107,Hemoglobin,Error,g/dL,False
+566677,512864,Cholesterol,35.95,mg/dL,True
+814033,302181,Blood Sugar,135.13,mg/dL,True
+548512,242161,Blood Sugar,8.5,mmol/L,False
+891095,197336,Blood Sugar,229.79,mg/dL,True
+578137,383393,Hemoglobin,85.89,g/dL,False
+557457,175030,Cholesterol,104.07,mmol/L,False
+848561,820474,Cholesterol,11.03,mg/dL,True
+573154,552310,Blood Sugar,112.3,mmol/L,False
+963408,294534,Blood Sugar,125.44,mg/dL,False
+771019,268846,Cholesterol,183.0,mg/dL,False
+958418,548694,Blood Sugar,207.79,mg/dL,True
+751297,625123,Vitamin D,244.15,ng/mL,False
+835329,775414,Cholesterol,62.71,mg/dL,True
+287389,827382,Cholesterol,109.96,mmol/L,True
+483723,448781,Hemoglobin,161.85,g/dL,True
+401334,562578,Cholesterol,131.28,mmol/L,True
+392703,254453,Cholesterol,53.78,mmol/L,True
+700089,441382,Blood Sugar,74.6,mmol/L,False
+598721,730589,Cholesterol,234.9,mmol/L,False
+669854,575652,Blood Sugar,20.05,mmol/L,False
+718659,947630,Blood Sugar,25.27,mmol/L,False
+496905,377555,Blood Sugar,236.55,mg/dL,False
+713337,661200,Cholesterol,226.04,mmol/L,False
+152060,520169,Vitamin D,118.94,nmol/L,True
+662848,973924,Vitamin D,24.78,nmol/L,True
+597013,209773,Blood Sugar,63.57,mmol/L,False
+695454,606446,Vitamin D,51.91,ng/mL,True
+701520,194014,Cholesterol,176.21,mmol/L,False
+850056,819764,Vitamin D,147.19,ng/mL,False
+908058,446600,Cholesterol,76.0,mg/dL,True
+147877,685009,Hemoglobin,182.17,g/dL,True
+378189,920577,Hemoglobin,151.68,g/dL,True
+990868,340355,Blood Sugar,173.69,mmol/L,True
+243524,972021,Blood Sugar,94.91,mg/dL,False
+399549,912939,Blood Sugar,14.37,mmol/L,True
+960403,311001,Hemoglobin,120.58,g/dL,True
+441379,678614,Blood Sugar,Error,mg/dL,False
+125060,838527,Blood Sugar,239.39,mmol/L,True
+241725,500605,Blood Sugar,219.96,mg/dL,True
+626611,169315,Cholesterol,227.36,mg/dL,False
+364268,499726,Blood Sugar,Pending,mg/dL,False
+322268,658754,Blood Sugar,225.81,mg/dL,False
+323297,352003,Blood Sugar,239.41,mmol/L,False
+252588,548780,Vitamin D,149.43,nmol/L,True
+602121,694694,Hemoglobin,41.84,g/dL,True
+497171,838330,Blood Sugar,187.42,mg/dL,True
+205174,311219,Blood Sugar,165.65,mmol/L,True
+959703,998945,Blood Sugar,70.21,mg/dL,True
+829184,377350,Cholesterol,201.86,mg/dL,True
+393569,780806,Blood Sugar,227.79,mg/dL,False
+488499,360821,Vitamin D,90.98,ng/mL,True
+613882,499019,Blood Sugar,190.91,mg/dL,True
+527303,544803,Hemoglobin,152.72,g/dL,False
+382732,268877,Hemoglobin,71.07,g/dL,False
+729625,268258,Blood Sugar,78.56,mg/dL,False
+342362,825757,Blood Sugar,141.85,mmol/L,True
+823158,931417,Blood Sugar,169.33,mg/dL,False
+305413,496058,Cholesterol,25.82,mg/dL,False
+540519,819294,Blood Sugar,31.12,mmol/L,False
+469092,301621,Cholesterol,155.0,mg/dL,False
+479263,123733,Cholesterol,205.81,mg/dL,True
+275002,835303,Hemoglobin,58.95,g/dL,True
+218744,168904,Blood Sugar,85.8,mg/dL,False
+961702,655430,Blood Sugar,224.15,mg/dL,True
+339613,717368,Blood Sugar,23.51,mg/dL,True
+665125,419826,Cholesterol,Pending,mmol/L,False
+945861,541351,Blood Sugar,Pending,mmol/L,True
+575011,138878,Vitamin D,188.02,nmol/L,True
+702043,651046,Cholesterol,157.37,mg/dL,True
+781289,983675,Blood Sugar,234.15,mg/dL,False
+564801,286425,Blood Sugar,143.44,mg/dL,True
+624956,424435,Cholesterol,98.97,mg/dL,True
+860987,582369,Blood Sugar,231.7,mmol/L,False
+824681,454384,Hemoglobin,52.79,g/dL,True
+815751,229088,Cholesterol,96.18,mg/dL,False
+835758,487369,Blood Sugar,187.95,mmol/L,False
+914720,653519,Cholesterol,39.37,mmol/L,True
+103735,107409,Cholesterol,7.64,mmol/L,True
+967343,862387,Blood Sugar,Error,mmol/L,True
+380379,871171,Vitamin D,22.97,ng/mL,True
+322997,786262,Hemoglobin,207.15,g/dL,True
+269128,126077,Hemoglobin,Pending,g/dL,True
+121874,237539,Hemoglobin,Error,g/dL,True
+883205,835281,Hemoglobin,45.34,g/dL,True
+149397,410576,Vitamin D,Pending,nmol/L,False
+806840,624787,Cholesterol,170.05,mg/dL,False
+525064,986184,Cholesterol,237.95,mg/dL,True
+450302,546375,Vitamin D,15.46,ng/mL,False
+879634,832272,Blood Sugar,228.96,mg/dL,False
+827888,867887,Blood Sugar,222.51,mmol/L,True
+339270,356736,Cholesterol,96.37,mmol/L,False
+957612,831550,Blood Sugar,166.55,mg/dL,True
+798288,285886,Cholesterol,230.88,mg/dL,False
+557450,840570,Blood Sugar,247.42,mmol/L,False
+587743,642430,Blood Sugar,10.64,mg/dL,False
+522422,124911,Cholesterol,137.68,mg/dL,False
+638273,323852,Hemoglobin,28.26,g/dL,True
+644833,361319,Blood Sugar,82.36,mg/dL,True
+997333,333056,Vitamin D,60.32,nmol/L,True
+237625,262058,Blood Sugar,245.46,mmol/L,True
+766791,365584,Blood Sugar,Pending,mg/dL,True
+922184,429010,Hemoglobin,92.73,g/dL,False
+763000,789512,Cholesterol,182.81,mmol/L,True
+129398,649955,Cholesterol,61.81,mmol/L,True
+690276,428226,Vitamin D,135.52,ng/mL,True
+508717,778934,Hemoglobin,110.51,g/dL,True
+681746,241170,Hemoglobin,99.93,g/dL,False
+544786,911595,Blood Sugar,157.77,mg/dL,True
+493912,305205,Blood Sugar,239.31,mmol/L,False
+265258,910122,Blood Sugar,77.62,mmol/L,True
+577041,957703,Blood Sugar,238.62,mmol/L,False
+405083,768957,Vitamin D,137.56,nmol/L,False
+685622,392072,Blood Sugar,75.84,mg/dL,True
+359167,177550,Blood Sugar,124.12,mg/dL,True
+889453,617351,Blood Sugar,34.88,mmol/L,False
+266079,365222,Hemoglobin,59.14,g/dL,True
+241034,841729,Vitamin D,203.02,nmol/L,False
+252067,191988,Cholesterol,Error,mg/dL,True
+609412,255220,Blood Sugar,52.59,mg/dL,True
+477885,899987,Cholesterol,35.15,mg/dL,True
+741640,901965,Cholesterol,79.29,mmol/L,False
+609116,876333,Blood Sugar,200.98,mg/dL,True
+398742,814136,Blood Sugar,20.5,mg/dL,False
+840333,710606,Blood Sugar,223.43,mg/dL,True
+438246,971707,Cholesterol,244.12,mmol/L,False
+362219,656770,Blood Sugar,248.94,mg/dL,False
+924163,131637,Blood Sugar,43.58,mg/dL,False
+940393,260072,Blood Sugar,140.07,mmol/L,True
+384257,620533,Hemoglobin,4.54,g/dL,False
+597878,579735,Cholesterol,53.67,mg/dL,True
+439702,935649,Cholesterol,164.76,mg/dL,True
+316578,614208,Cholesterol,241.05,mmol/L,True
+133617,224261,Blood Sugar,201.33,mg/dL,False
+145457,134038,Blood Sugar,100.71,mg/dL,False
+570642,341053,Hemoglobin,161.75,g/dL,False
+451522,707986,Hemoglobin,Pending,g/dL,True
+387020,116933,Cholesterol,71.8,mg/dL,False
+686596,731948,Blood Sugar,155.54,mg/dL,False
+449334,106429,Cholesterol,37.43,mmol/L,True
+764047,270623,Cholesterol,67.44,mg/dL,False
+113845,653392,Blood Sugar,60.34,mg/dL,False
+328826,951331,Hemoglobin,22.31,g/dL,True
+934906,186835,Blood Sugar,52.58,mg/dL,False
+505006,344619,Cholesterol,49.65,mmol/L,False
+416648,341230,Hemoglobin,196.56,g/dL,False
+766387,423362,Vitamin D,198.29,nmol/L,True
+532728,972380,Blood Sugar,233.61,mmol/L,True
+698895,718206,Cholesterol,173.68,mmol/L,True
+203982,547048,Cholesterol,168.3,mmol/L,False
+746628,624798,Hemoglobin,100.05,g/dL,True
+559151,515267,Blood Sugar,138.85,mmol/L,False
+511624,600058,Blood Sugar,104.21,mg/dL,True
+218656,283936,Hemoglobin,165.68,g/dL,False
+934987,773496,Vitamin D,189.42,ng/mL,False
+457861,652451,Cholesterol,Pending,mg/dL,True
+710290,217580,Blood Sugar,104.7,mg/dL,True
+242064,810401,Hemoglobin,19.42,g/dL,True
+388131,333172,Blood Sugar,29.98,mg/dL,False
+460520,101568,Cholesterol,97.98,mg/dL,False
+913184,190205,Vitamin D,21.2,ng/mL,False
+819074,675371,Blood Sugar,95.91,mg/dL,True
+572045,697476,Hemoglobin,163.3,g/dL,False
+289327,246698,Blood Sugar,33.72,mg/dL,False
+170767,199740,Cholesterol,234.22,mg/dL,False
+760779,134891,Cholesterol,181.18,mg/dL,True
+128818,354894,Vitamin D,77.45,ng/mL,True
+213744,987208,Cholesterol,236.2,mg/dL,False
+227537,145727,Blood Sugar,44.03,mmol/L,True
+425896,920928,Hemoglobin,22.59,g/dL,True
+699256,256506,Blood Sugar,157.09,mg/dL,True
+497160,602816,Hemoglobin,178.6,g/dL,True
+894213,980282,Cholesterol,218.39,mmol/L,False
+726431,387846,Hemoglobin,21.91,g/dL,False
+180420,151288,Cholesterol,230.42,mmol/L,False
+653123,181638,Cholesterol,22.8,mmol/L,False
+713370,840170,Blood Sugar,56.57,mg/dL,True
+915871,232904,Cholesterol,219.84,mg/dL,True
+183493,261654,Hemoglobin,39.5,g/dL,True
+535652,890500,Hemoglobin,232.95,g/dL,False
+954716,610584,Blood Sugar,45.43,mmol/L,False
+257611,185930,Cholesterol,Pending,mg/dL,False
+796160,595893,Cholesterol,224.69,mmol/L,False
+124109,270407,Hemoglobin,60.63,g/dL,False
+576682,127727,Cholesterol,124.8,mmol/L,False
+447130,926222,Blood Sugar,169.78,mg/dL,True
+976885,657099,Cholesterol,158.56,mmol/L,True
+783682,947623,Hemoglobin,194.91,g/dL,True
+409394,620973,Cholesterol,62.64,mg/dL,True
+678302,884558,Vitamin D,68.83,nmol/L,True
+661500,650663,Cholesterol,104.54,mmol/L,True
+162784,402875,Hemoglobin,Error,g/dL,False
+476462,982564,Cholesterol,175.49,mg/dL,False
+144909,540888,Vitamin D,84.85,nmol/L,True
+175297,725967,Cholesterol,137.96,mmol/L,False
+773343,307847,Vitamin D,227.6,nmol/L,True
+937319,736045,Hemoglobin,45.07,g/dL,True
+909312,638428,Blood Sugar,174.43,mmol/L,True
+733027,385880,Cholesterol,14.49,mg/dL,True
+553545,887854,Vitamin D,204.22,ng/mL,True
+645113,651370,Blood Sugar,49.94,mmol/L,False
+196717,417137,Hemoglobin,24.12,g/dL,False
+636225,202674,Hemoglobin,210.82,g/dL,False
+441548,868654,Blood Sugar,165.38,mmol/L,True
+955371,910403,Cholesterol,97.91,mg/dL,True
+917699,359478,Hemoglobin,60.57,g/dL,True
+969099,428040,Cholesterol,84.81,mmol/L,False
+547503,823682,Hemoglobin,136.59,g/dL,False
+515786,827048,Blood Sugar,174.11,mmol/L,False
+146048,398701,Cholesterol,223.41,mmol/L,False
+989472,746743,Vitamin D,153.44,nmol/L,False
+165816,120232,Cholesterol,20.49,mmol/L,False
+312591,757094,Blood Sugar,27.13,mmol/L,False
+855575,441477,Blood Sugar,65.12,mmol/L,False
+955914,389862,Cholesterol,214.59,mmol/L,True
+655477,156768,Blood Sugar,84.75,mg/dL,False
+646778,298656,Blood Sugar,213.87,mg/dL,True
+304013,772414,Blood Sugar,242.32,mg/dL,False
+804464,593219,Vitamin D,29.44,nmol/L,True
+158831,739109,Blood Sugar,35.22,mmol/L,True
+372863,414227,Blood Sugar,207.23,mg/dL,True
+217250,430479,Blood Sugar,142.87,mmol/L,False
+753167,249007,Blood Sugar,201.29,mg/dL,False
+856551,899811,Cholesterol,153.43,mmol/L,False
+882049,782980,Cholesterol,153.19,mmol/L,True
+223653,328970,Vitamin D,174.64,ng/mL,True
+607259,953915,Cholesterol,176.08,mg/dL,True
+989348,888613,Cholesterol,129.71,mmol/L,True
+793490,845794,Cholesterol,237.55,mmol/L,True
+581282,211522,Cholesterol,93.22,mg/dL,True
+741792,485501,Blood Sugar,56.13,mmol/L,False
+404943,371333,Cholesterol,81.97,mg/dL,True
+881756,860092,Blood Sugar,227.52,mmol/L,True
+347011,247147,Blood Sugar,126.52,mg/dL,False
+407118,343694,Vitamin D,3.94,nmol/L,False
+654300,433362,Blood Sugar,35.92,mg/dL,False
+611847,876794,Cholesterol,152.42,mg/dL,False
+267481,197804,Cholesterol,81.71,mmol/L,True
+437160,801145,Blood Sugar,184.51,mmol/L,True
+967025,501464,Vitamin D,108.14,ng/mL,True
+982099,242847,Blood Sugar,200.68,mg/dL,True
+200183,998041,Blood Sugar,45.46,mmol/L,True
+597918,342092,Hemoglobin,197.96,g/dL,False
+524591,795093,Blood Sugar,189.09,mg/dL,False
+722833,567433,Cholesterol,240.47,mg/dL,False
+383997,777431,Blood Sugar,96.78,mmol/L,True
+143039,630040,Cholesterol,173.32,mmol/L,True
+948947,401967,Vitamin D,247.41,nmol/L,True
+471528,951331,Cholesterol,230.77,mmol/L,True
+329597,822007,Cholesterol,102.57,mmol/L,False
+257024,234229,Blood Sugar,65.41,mmol/L,True
+964628,931417,Cholesterol,131.34,mmol/L,True
+781912,754211,Blood Sugar,136.85,mg/dL,True
+956511,172183,Cholesterol,34.28,mg/dL,False
+992881,233346,Blood Sugar,69.81,mmol/L,False
+779580,926296,Blood Sugar,176.18,mg/dL,False
+820791,506426,Cholesterol,27.23,mg/dL,True
+719539,656964,Hemoglobin,142.15,g/dL,False
+223295,427432,Cholesterol,226.79,mg/dL,True
+169785,523257,Vitamin D,36.01,ng/mL,True
+495893,704611,Cholesterol,40.27,mg/dL,True
+589838,161181,Vitamin D,108.68,ng/mL,False
+269846,571773,Hemoglobin,204.24,g/dL,False
+239420,133933,Cholesterol,9.85,mmol/L,True
+396363,787932,Cholesterol,154.52,mmol/L,True
+904659,549152,Hemoglobin,225.25,g/dL,False
+422525,818425,Blood Sugar,133.54,mmol/L,True
+223425,307108,Cholesterol,97.82,mg/dL,True
+859372,648375,Cholesterol,100.16,mmol/L,True
+862789,319299,Cholesterol,85.39,mmol/L,True
+934448,182979,Cholesterol,15.87,mg/dL,False
+455174,690357,Cholesterol,17.46,mmol/L,True
+815313,292555,Vitamin D,161.47,nmol/L,True
+319736,382060,Vitamin D,Pending,ng/mL,False
+507976,591190,Blood Sugar,42.11,mmol/L,True
+573877,764162,Blood Sugar,173.0,mmol/L,False
+251240,580259,Cholesterol,212.4,mg/dL,False
+495259,965594,Cholesterol,19.1,mg/dL,True
+650242,374432,Cholesterol,235.62,mmol/L,False
+835930,225744,Cholesterol,Pending,mg/dL,False
+487744,221455,Hemoglobin,165.05,g/dL,False
+494487,642684,Cholesterol,105.45,mg/dL,True
+425664,857079,Blood Sugar,200.05,mmol/L,True
+404971,637261,Hemoglobin,192.29,g/dL,True
+771692,806262,Hemoglobin,211.53,g/dL,True
+846490,600121,Cholesterol,244.72,mmol/L,True
+391533,597026,Cholesterol,36.2,mmol/L,True
+663286,415707,Hemoglobin,132.15,g/dL,False
+208363,836443,Vitamin D,163.5,nmol/L,True
+825623,122657,Cholesterol,241.84,mg/dL,False
+194576,372226,Cholesterol,188.39,mg/dL,False
+423285,998283,Cholesterol,5.92,mg/dL,False
+732059,479637,Cholesterol,165.88,mmol/L,True
+847695,350659,Cholesterol,128.35,mg/dL,False
+395375,511358,Hemoglobin,83.91,g/dL,True
+862264,746743,Cholesterol,231.22,mg/dL,True
+340298,603508,Blood Sugar,165.01,mg/dL,True
+544651,300729,Hemoglobin,74.18,g/dL,True
+442380,454384,Vitamin D,14.19,nmol/L,True
+640042,613693,Hemoglobin,Error,g/dL,False
+767259,242161,Blood Sugar,208.98,mg/dL,True
+194312,365959,Blood Sugar,41.21,mmol/L,False
+567697,605566,Hemoglobin,117.54,g/dL,True
+646773,552219,Hemoglobin,79.96,g/dL,False
+122429,563681,Blood Sugar,109.65,mmol/L,False
+214587,810401,Blood Sugar,9.84,mmol/L,False
+311751,475588,Hemoglobin,97.97,g/dL,True
+374865,510210,Blood Sugar,44.37,mmol/L,True
+433054,397741,Cholesterol,127.54,mmol/L,False
+879405,940510,Hemoglobin,240.74,g/dL,False
+463514,908734,Hemoglobin,233.85,g/dL,True
+397536,405187,Blood Sugar,37.46,mg/dL,True
+197698,706082,Hemoglobin,225.08,g/dL,False
+442389,692997,Blood Sugar,172.34,mg/dL,True
+905780,329027,Blood Sugar,83.09,mg/dL,False
+255526,355705,Blood Sugar,159.8,mg/dL,True
+916406,657322,Cholesterol,232.35,mg/dL,True
+443837,754804,Cholesterol,125.54,mg/dL,False
+823796,870396,Blood Sugar,223.49,mmol/L,False
+838141,211013,Cholesterol,223.77,mmol/L,False
+833156,523257,Cholesterol,199.44,mmol/L,True
+714922,870947,Cholesterol,139.04,mg/dL,False
+508683,703685,Blood Sugar,213.68,mg/dL,False
+994170,677582,Hemoglobin,16.52,g/dL,False
+389773,973021,Hemoglobin,Error,g/dL,False
+784309,452549,Cholesterol,157.21,mmol/L,True
+156050,947944,Cholesterol,75.55,mg/dL,False
+554963,395942,Cholesterol,224.53,mg/dL,True
+221060,347162,Blood Sugar,247.39,mmol/L,True
+931494,751711,Vitamin D,66.78,ng/mL,False
+344574,551034,Hemoglobin,21.95,g/dL,True
+779176,788441,Blood Sugar,134.88,mmol/L,True
+550490,932134,Cholesterol,73.24,mmol/L,False
+293016,304793,Blood Sugar,157.01,mmol/L,True
+343747,813548,Blood Sugar,146.84,mg/dL,True
+929273,343269,Hemoglobin,36.82,g/dL,False
+321760,611094,Vitamin D,109.58,ng/mL,False
+546414,398454,Blood Sugar,188.55,mg/dL,False
+285016,440663,Cholesterol,98.14,mg/dL,False
+754963,405192,Cholesterol,245.48,mg/dL,True
+262662,286627,Cholesterol,159.62,mg/dL,True
+301339,317288,Cholesterol,32.2,mmol/L,True
+264369,144648,Blood Sugar,122.43,mg/dL,False
+708448,381495,Blood Sugar,192.21,mmol/L,True
+592899,916949,Cholesterol,145.71,mmol/L,False
+760723,970825,Blood Sugar,26.15,mmol/L,False
+336174,617105,Blood Sugar,149.98,mmol/L,False
+588113,333027,Blood Sugar,113.97,mg/dL,False
+318517,311400,Blood Sugar,41.44,mmol/L,True
+166717,341656,Cholesterol,238.52,mmol/L,False
+426795,288787,Blood Sugar,50.38,mmol/L,True
+459255,803248,Blood Sugar,120.78,mmol/L,False
+243052,647360,Blood Sugar,92.9,mg/dL,True
+182002,433434,Vitamin D,5.33,nmol/L,False
+632936,961404,Blood Sugar,206.7,mg/dL,False
+901137,847621,Blood Sugar,131.63,mg/dL,False
+112539,789173,Cholesterol,17.13,mg/dL,False
+251884,979041,Cholesterol,113.92,mmol/L,True
+588764,801061,Cholesterol,68.27,mmol/L,True
+362006,454688,Blood Sugar,81.48,mg/dL,True
+294795,863456,Blood Sugar,207.06,mg/dL,False
+763982,633188,Blood Sugar,159.67,mg/dL,True
+545030,580074,Cholesterol,224.83,mmol/L,True
+308913,640924,Hemoglobin,49.33,g/dL,False
+563573,142051,Hemoglobin,41.94,g/dL,False
+400596,792636,Cholesterol,62.6,mmol/L,False
+627682,816999,Blood Sugar,12.87,mmol/L,False
+202952,442084,Cholesterol,86.52,mg/dL,True
+364292,661318,Vitamin D,119.52,nmol/L,False
+210012,169315,Blood Sugar,153.09,mg/dL,True
+251927,311331,Hemoglobin,201.84,g/dL,True
+898063,654295,Hemoglobin,193.08,g/dL,True
+577720,948153,Blood Sugar,25.6,mg/dL,True
+766884,729562,Blood Sugar,160.55,mg/dL,True
+784735,216423,Blood Sugar,83.49,mg/dL,True
+994782,743415,Vitamin D,226.01,nmol/L,True
+138903,947558,Hemoglobin,91.0,g/dL,True
+446816,953494,Blood Sugar,233.31,mg/dL,False
+496385,160451,Hemoglobin,156.67,g/dL,True
+503674,452695,Hemoglobin,234.06,g/dL,False
+477167,382968,Blood Sugar,170.94,mg/dL,True
+153915,125751,Blood Sugar,132.18,mg/dL,True
+793311,419700,Blood Sugar,151.49,mmol/L,False
+320213,417051,Blood Sugar,152.69,mg/dL,False
+239809,444152,Cholesterol,114.67,mg/dL,False
+147964,362146,Blood Sugar,Pending,mmol/L,True
+637500,680100,Blood Sugar,121.31,mg/dL,True
+629653,761779,Cholesterol,219.79,mg/dL,False
+602656,398653,Blood Sugar,89.76,mmol/L,False
+760073,215422,Vitamin D,169.92,nmol/L,False
+141055,401354,Vitamin D,206.11,nmol/L,False
+704739,618186,Hemoglobin,178.18,g/dL,False
+302548,365463,Hemoglobin,207.01,g/dL,True
+741474,191830,Vitamin D,51.65,ng/mL,True
+754776,852545,Blood Sugar,110.37,mg/dL,False
+596686,875635,Blood Sugar,21.09,mmol/L,False
+625586,391559,Blood Sugar,183.9,mg/dL,False
+962236,249967,Cholesterol,181.42,mg/dL,True
+406581,701862,Blood Sugar,111.4,mg/dL,False
+235874,278539,Hemoglobin,237.87,g/dL,True
+437155,676825,Cholesterol,191.73,mmol/L,True
+670524,268460,Vitamin D,190.51,nmol/L,True
+794307,378534,Vitamin D,120.47,nmol/L,False
+239717,319011,Blood Sugar,52.13,mmol/L,True
+754297,703849,Cholesterol,54.43,mmol/L,False
+503265,580127,Cholesterol,70.03,mmol/L,True
+780356,833796,Blood Sugar,36.95,mmol/L,False
+848954,152420,Blood Sugar,Pending,mg/dL,True
+822765,347128,Cholesterol,99.28,mg/dL,True
+271297,595544,Blood Sugar,33.08,mmol/L,False
+510051,321958,Vitamin D,195.32,nmol/L,True
+180278,515811,Cholesterol,96.24,mmol/L,True
+749804,101568,Blood Sugar,115.85,mmol/L,False
+740238,455057,Blood Sugar,217.27,mg/dL,True
+606018,983025,Hemoglobin,19.08,g/dL,True
+898374,353043,Blood Sugar,161.31,mmol/L,True
+806693,370418,Blood Sugar,225.98,mg/dL,False
+247350,768517,Cholesterol,Pending,mmol/L,True
+860695,703832,Hemoglobin,147.4,g/dL,True
+254303,371800,Blood Sugar,123.65,mg/dL,True
+121125,882866,Blood Sugar,154.67,mmol/L,True
+966487,218168,Hemoglobin,51.51,g/dL,True
+156644,995020,Hemoglobin,3.54,g/dL,False
+254733,427596,Blood Sugar,161.58,mmol/L,False
+944617,265798,Blood Sugar,158.79,mg/dL,True
+542202,302219,Blood Sugar,196.09,mg/dL,True
+890901,490943,Cholesterol,154.2,mmol/L,True
+122559,683021,Hemoglobin,22.72,g/dL,False
+115463,270107,Blood Sugar,15.32,mg/dL,True
+612566,471247,Cholesterol,104.96,mg/dL,True
+357306,140908,Hemoglobin,234.47,g/dL,False
+894902,108968,Vitamin D,66.37,ng/mL,False
+286323,494329,Cholesterol,130.67,mmol/L,True
+559254,901674,Cholesterol,92.68,mmol/L,False
+528511,439958,Blood Sugar,173.2,mmol/L,True
+123930,163829,Cholesterol,18.85,mg/dL,True
+883914,319592,Hemoglobin,219.27,g/dL,False
+893267,416713,Blood Sugar,Pending,mg/dL,False
+725417,822115,Blood Sugar,33.73,mmol/L,False
+328374,924473,Blood Sugar,117.79,mmol/L,True
+889462,147243,Hemoglobin,48.21,g/dL,False
+959614,679713,Cholesterol,9.06,mg/dL,False
+620356,108363,Vitamin D,90.46,ng/mL,True
+195689,220501,Hemoglobin,81.25,g/dL,False
+241263,383466,Blood Sugar,190.72,mg/dL,True
+113768,676997,Hemoglobin,127.76,g/dL,True
+208626,860596,Hemoglobin,Error,g/dL,True
+769799,661258,Blood Sugar,15.33,mmol/L,True
+915277,619865,Blood Sugar,197.48,mmol/L,False
+560245,258010,Vitamin D,215.45,ng/mL,True
+937766,160563,Blood Sugar,196.27,mg/dL,False
+704192,568179,Cholesterol,93.51,mmol/L,False
+564007,792135,Blood Sugar,222.3,mmol/L,False
+364992,906340,Cholesterol,131.85,mg/dL,True
+344022,716386,Hemoglobin,195.48,g/dL,False
+714919,795826,Vitamin D,150.04,ng/mL,False
+551598,437805,Blood Sugar,51.48,mg/dL,False
+464194,247147,Cholesterol,65.16,mg/dL,False
+790691,818425,Hemoglobin,136.3,g/dL,True
+927479,807767,Hemoglobin,174.51,g/dL,False
+713883,219691,Cholesterol,87.38,mmol/L,False
+208158,188454,Hemoglobin,60.79,g/dL,True
+913471,835265,Hemoglobin,28.25,g/dL,False
+339985,784319,Blood Sugar,62.72,mg/dL,False
+748734,269237,Cholesterol,176.0,mmol/L,False
+163721,723925,Blood Sugar,138.84,mmol/L,False
+793577,791560,Vitamin D,222.7,ng/mL,False
+951055,738375,Blood Sugar,115.45,mg/dL,True
+675520,905336,Hemoglobin,174.62,g/dL,False
+358004,889432,Blood Sugar,80.43,mg/dL,True
+829860,132691,Blood Sugar,118.83,mg/dL,False
+172721,671913,Vitamin D,245.03,ng/mL,True
+860278,824410,Vitamin D,29.6,nmol/L,True
+529313,789512,Hemoglobin,101.83,g/dL,True
+112319,139084,Blood Sugar,222.71,mmol/L,False
+252192,160563,Blood Sugar,6.34,mg/dL,False
+482219,597600,Blood Sugar,170.0,mmol/L,False
+228611,229088,Vitamin D,103.72,ng/mL,True
+819734,462866,Blood Sugar,91.36,mmol/L,True
+308886,231524,Blood Sugar,Pending,mg/dL,False
+598502,963834,Blood Sugar,166.46,mg/dL,True
+275346,575251,Blood Sugar,164.4,mmol/L,False
+257702,889432,Cholesterol,246.86,mg/dL,True
+610433,296642,Hemoglobin,18.44,g/dL,True
+354529,481906,Cholesterol,131.97,mg/dL,False
+909907,357709,Hemoglobin,50.16,g/dL,True
+894729,304793,Hemoglobin,73.35,g/dL,True
+921110,526635,Hemoglobin,139.51,g/dL,True
+583772,142320,Cholesterol,203.34,mg/dL,True
+444581,479637,Hemoglobin,83.69,g/dL,True
+807842,118886,Blood Sugar,63.86,mg/dL,True
+646570,245900,Blood Sugar,51.55,mg/dL,True
+676151,712622,Blood Sugar,132.52,mmol/L,True
+170137,475029,Blood Sugar,Pending,mmol/L,False
+291823,678765,Cholesterol,102.63,mg/dL,True
+140008,130991,Blood Sugar,62.2,mmol/L,True
+147031,577659,Blood Sugar,37.71,mg/dL,True
+542500,477635,Cholesterol,226.18,mg/dL,False
+635099,601656,Cholesterol,151.8,mmol/L,False
+308892,370881,Hemoglobin,31.03,g/dL,True
+202857,791560,Vitamin D,149.25,nmol/L,True
+807173,677992,Hemoglobin,115.44,g/dL,True
+879656,383702,Blood Sugar,15.89,mg/dL,False
+485336,767637,Blood Sugar,216.75,mmol/L,True
+240332,185930,Vitamin D,5.29,ng/mL,True
+771797,965622,Hemoglobin,128.19,g/dL,False
+183688,768517,Hemoglobin,Pending,g/dL,False
+684510,561845,Blood Sugar,65.43,mmol/L,False
+633272,250427,Cholesterol,54.53,mg/dL,False
+408178,867599,Blood Sugar,Error,mmol/L,True
+322460,674348,Hemoglobin,161.15,g/dL,True
+987896,665771,Cholesterol,156.68,mmol/L,False
+798666,982027,Cholesterol,20.67,mmol/L,True
+979862,581915,Blood Sugar,208.06,mg/dL,True
+722126,762204,Cholesterol,35.56,mg/dL,False
+291128,323342,Hemoglobin,211.1,g/dL,False
+996958,875497,Blood Sugar,37.34,mg/dL,False
+542681,403138,Blood Sugar,191.2,mmol/L,True
+675106,939683,Blood Sugar,18.63,mmol/L,True
+260829,273075,Hemoglobin,Pending,g/dL,True
+321892,122084,Blood Sugar,115.05,mmol/L,True
+309823,819446,Blood Sugar,31.77,mmol/L,False
+163401,545173,Blood Sugar,240.57,mmol/L,False
+457513,598014,Cholesterol,77.81,mg/dL,False
+811585,313794,Hemoglobin,156.61,g/dL,False
+900388,370418,Blood Sugar,234.56,mg/dL,True
+929126,630432,Cholesterol,Pending,mg/dL,True
+772958,820411,Blood Sugar,77.9,mg/dL,True
+374317,725347,Hemoglobin,117.84,g/dL,False
+244498,361020,Blood Sugar,21.6,mmol/L,True
+987130,684608,Cholesterol,61.55,mmol/L,False
+267806,703456,Blood Sugar,19.03,mmol/L,False
+232039,288151,Cholesterol,78.68,mg/dL,True
+644875,347044,Blood Sugar,123.88,mmol/L,False
+593025,343944,Blood Sugar,176.38,mmol/L,True
+706928,242918,Blood Sugar,185.9,mmol/L,True
+644884,505048,Blood Sugar,55.63,mmol/L,False
+469305,292484,Blood Sugar,Pending,mg/dL,False
+133953,626910,Cholesterol,71.6,mg/dL,False
+640150,240957,Hemoglobin,201.86,g/dL,False
+801961,945202,Blood Sugar,108.81,mmol/L,True
+121715,999213,Blood Sugar,9.41,mg/dL,False
+455144,581782,Hemoglobin,168.74,g/dL,False
+451572,492729,Hemoglobin,140.98,g/dL,False
+128383,740795,Blood Sugar,229.44,mg/dL,True
+907560,357660,Cholesterol,76.71,mg/dL,False
+623587,195803,Cholesterol,16.77,mmol/L,True
+341828,496954,Blood Sugar,27.63,mg/dL,False
+234611,633638,Cholesterol,127.44,mg/dL,False
+838145,795782,Hemoglobin,119.9,g/dL,False
+983175,988627,Hemoglobin,90.39,g/dL,False
+364733,570419,Blood Sugar,227.82,mg/dL,True
+363492,316764,Vitamin D,119.45,ng/mL,False
+294576,459949,Cholesterol,Error,mg/dL,True
+789237,205935,Cholesterol,114.85,mg/dL,True
+596930,333559,Cholesterol,243.51,mg/dL,False
+544039,503093,Blood Sugar,159.85,mg/dL,False
+897993,466804,Blood Sugar,8.97,mmol/L,False
+246273,815348,Cholesterol,117.11,mmol/L,True
+522689,399890,Cholesterol,122.63,mg/dL,True
+996121,748493,Cholesterol,85.65,mg/dL,True
+838395,499726,Cholesterol,Pending,mmol/L,True
+296291,562221,Cholesterol,186.12,mg/dL,False
+647882,294369,Cholesterol,24.94,mg/dL,False
+571299,482304,Blood Sugar,84.29,mg/dL,False
+216250,566046,Hemoglobin,222.61,g/dL,True
+496585,285886,Blood Sugar,98.49,mg/dL,True
+783616,860801,Blood Sugar,152.17,mg/dL,True
+830476,530801,Cholesterol,20.55,mmol/L,True
+179044,665881,Hemoglobin,109.66,g/dL,True
+179046,458770,Cholesterol,57.72,mg/dL,False
+608442,831550,Vitamin D,70.07,nmol/L,False
+190006,715285,Hemoglobin,220.56,g/dL,False
+123365,464300,Hemoglobin,122.44,g/dL,True
+606992,729562,Blood Sugar,94.4,mmol/L,True
+520786,748509,Blood Sugar,174.13,mg/dL,False
+732660,945666,Blood Sugar,228.98,mg/dL,False
+837441,727902,Hemoglobin,194.15,g/dL,True
+324109,571233,Blood Sugar,151.58,mmol/L,False
+406264,231358,Blood Sugar,36.04,mg/dL,True
+713277,928928,Hemoglobin,38.21,g/dL,True
+320511,260470,Hemoglobin,78.85,g/dL,True
+453672,865907,Vitamin D,212.2,nmol/L,True
+922862,251779,Blood Sugar,58.69,mmol/L,False
+663410,987874,Blood Sugar,189.53,mmol/L,True
+581567,196573,Blood Sugar,175.09,mg/dL,False
+468705,955152,Blood Sugar,129.67,mg/dL,True
+180517,826372,Cholesterol,120.65,mmol/L,False
+513698,423250,Hemoglobin,Pending,g/dL,False
+184548,306958,Vitamin D,189.71,nmol/L,True
+998746,749986,Hemoglobin,174.21,g/dL,True
+527698,405192,Blood Sugar,177.41,mmol/L,False
+470655,880419,Blood Sugar,Pending,mmol/L,False
+364855,520785,Cholesterol,181.2,mmol/L,False
+773816,323634,Vitamin D,10.53,ng/mL,False
+798519,196573,Hemoglobin,188.09,g/dL,False
+940914,192757,Cholesterol,108.92,mg/dL,False
+250760,736040,Cholesterol,33.74,mg/dL,False
+308723,814732,Cholesterol,118.99,mg/dL,False
+586323,493193,Hemoglobin,16.28,g/dL,True
+213445,827048,Cholesterol,98.17,mg/dL,True
+980475,219178,Blood Sugar,242.31,mmol/L,False
+983521,840536,Blood Sugar,205.06,mg/dL,True
+538070,497009,Blood Sugar,237.43,mmol/L,True
+425130,736212,Cholesterol,115.33,mmol/L,True
+712498,716616,Blood Sugar,87.54,mg/dL,False
+165146,163564,Blood Sugar,131.28,mg/dL,True
+543666,854968,Blood Sugar,8.15,mmol/L,False
+897410,912340,Hemoglobin,28.05,g/dL,False
+313978,226141,Blood Sugar,130.67,mg/dL,False
+126350,826859,Hemoglobin,207.31,g/dL,True
+358497,729180,Cholesterol,116.08,mmol/L,False
+604199,309809,Blood Sugar,226.23,mmol/L,True
+738950,875630,Blood Sugar,189.14,mmol/L,True
+971352,423250,Vitamin D,Pending,nmol/L,False
+159040,122399,Vitamin D,101.85,nmol/L,False
+239223,501118,Blood Sugar,Error,mg/dL,False
+226252,975461,Blood Sugar,70.75,mg/dL,False
+156253,812685,Blood Sugar,25.49,mmol/L,True
+925100,192318,Blood Sugar,233.21,mg/dL,True
+633524,897059,Hemoglobin,83.73,g/dL,True
+189717,305913,Hemoglobin,238.28,g/dL,True
+727926,416470,Hemoglobin,80.02,g/dL,False
+619649,820474,Blood Sugar,156.24,mg/dL,True
+307368,217074,Blood Sugar,183.76,mmol/L,False
+305939,222428,Cholesterol,136.15,mg/dL,True
+737819,217580,Blood Sugar,34.13,mg/dL,False
+670322,905567,Vitamin D,140.07,ng/mL,False
+483687,854968,Cholesterol,155.83,mmol/L,False
+821593,991066,Hemoglobin,115.21,g/dL,False
+642956,581915,Cholesterol,202.61,mmol/L,False
+328927,504059,Blood Sugar,32.26,mmol/L,False
+646674,507976,Hemoglobin,249.85,g/dL,True
+398366,491727,Blood Sugar,31.73,mmol/L,False
+152949,952177,Blood Sugar,4.19,mg/dL,False
+909294,366617,Cholesterol,246.16,mg/dL,True
+569300,315589,Blood Sugar,95.97,mg/dL,False
+828217,934307,Blood Sugar,207.16,mg/dL,False
+184427,318037,Blood Sugar,249.48,mg/dL,False
+664878,425087,Vitamin D,26.26,nmol/L,False
+739053,882249,Hemoglobin,197.42,g/dL,True
+351877,565808,Blood Sugar,50.93,mmol/L,False
+690136,923496,Hemoglobin,240.88,g/dL,True
+586731,251779,Blood Sugar,Error,mg/dL,True
+801408,718206,Blood Sugar,238.76,mg/dL,True
+962007,174357,Cholesterol,62.91,mmol/L,False
+361722,855018,Blood Sugar,74.79,mmol/L,False
+878494,506711,Blood Sugar,40.6,mmol/L,True
+237988,725502,Cholesterol,217.51,mmol/L,True
+282868,368133,Blood Sugar,231.89,mg/dL,True
+763069,605724,Blood Sugar,57.96,mg/dL,True
+823899,642301,Blood Sugar,19.39,mmol/L,True
+195352,613693,Blood Sugar,148.42,mmol/L,False
+711431,906680,Vitamin D,72.08,nmol/L,True
+352924,523037,Cholesterol,171.36,mmol/L,False
+501132,608788,Blood Sugar,8.2,mg/dL,True
+572336,829197,Blood Sugar,217.16,mg/dL,True
+405765,611094,Blood Sugar,79.33,mg/dL,True
+451730,261617,Blood Sugar,213.04,mg/dL,True
+141038,679383,Cholesterol,203.86,mg/dL,True
+924483,539946,Vitamin D,20.43,ng/mL,False
+358864,192756,Blood Sugar,151.38,mg/dL,False
+721360,525785,Cholesterol,228.58,mg/dL,False
+938050,785055,Cholesterol,185.14,mmol/L,False
+616898,705278,Blood Sugar,38.75,mmol/L,True
+990297,234062,Vitamin D,122.8,nmol/L,False
+771555,508347,Cholesterol,121.91,mmol/L,False
+566273,375621,Cholesterol,173.35,mmol/L,True
+213933,850515,Blood Sugar,Error,mg/dL,True
+878792,490943,Hemoglobin,145.39,g/dL,False
+525904,678428,Blood Sugar,Pending,mg/dL,False
+515232,163498,Blood Sugar,91.53,mmol/L,False
+990289,914845,Blood Sugar,46.59,mg/dL,False
+516556,312362,Blood Sugar,Error,mg/dL,True
+121212,920651,Hemoglobin,157.85,g/dL,True
+752386,494767,Vitamin D,27.01,ng/mL,True
+277833,708303,Cholesterol,199.75,mmol/L,False
+468058,432517,Blood Sugar,28.14,mg/dL,False
+978611,415055,Cholesterol,230.81,mmol/L,True
+707257,856293,Blood Sugar,125.84,mmol/L,True
+781645,824553,Blood Sugar,117.45,mg/dL,False
+549404,455575,Cholesterol,220.82,mg/dL,False
+880204,424635,Cholesterol,206.48,mmol/L,True
+680781,281277,Hemoglobin,48.63,g/dL,False
+827689,541446,Cholesterol,239.44,mg/dL,False
+644305,485021,Hemoglobin,173.86,g/dL,True
+202138,612547,Cholesterol,133.74,mg/dL,True
+112146,312386,Cholesterol,40.56,mg/dL,False
+147585,921771,Blood Sugar,105.37,mmol/L,True
+788784,900734,Hemoglobin,61.41,g/dL,False
+170645,729148,Cholesterol,189.32,mg/dL,True
+794474,462274,Vitamin D,116.45,ng/mL,False
+741092,958781,Cholesterol,99.9,mmol/L,False
+997357,335715,Hemoglobin,37.57,g/dL,False
+695501,286408,Vitamin D,101.74,nmol/L,False
+963279,108830,Vitamin D,116.21,nmol/L,True
+424462,623138,Blood Sugar,237.0,mmol/L,True
+175446,568458,Blood Sugar,33.05,mg/dL,True
+818319,184250,Vitamin D,59.62,ng/mL,False
+711552,711746,Hemoglobin,202.57,g/dL,False
+610219,971731,Hemoglobin,5.76,g/dL,True
+468756,542435,Cholesterol,97.04,mmol/L,False
+979700,796222,Vitamin D,221.86,nmol/L,True
+880091,708085,Vitamin D,15.72,nmol/L,False
+279660,598911,Blood Sugar,201.17,mg/dL,False
+179046,424635,Hemoglobin,223.72,g/dL,False
+598805,286591,Hemoglobin,73.08,g/dL,True
+619358,539677,Hemoglobin,80.95,g/dL,True
+623528,601025,Hemoglobin,243.69,g/dL,True
+317230,321958,Blood Sugar,197.51,mg/dL,False
+560453,104799,Blood Sugar,148.99,mmol/L,True
+778036,802900,Hemoglobin,158.19,g/dL,True
+564005,163564,Cholesterol,84.46,mg/dL,True
+543757,343704,Blood Sugar,187.22,mmol/L,True
+554365,890873,Blood Sugar,172.37,mmol/L,False
+926312,825839,Vitamin D,117.88,ng/mL,False
+715834,366794,Blood Sugar,167.73,mmol/L,False
+361716,342130,Blood Sugar,157.21,mg/dL,False
+956333,403209,Hemoglobin,217.43,g/dL,True
+818397,803377,Blood Sugar,70.1,mmol/L,False
+759884,225744,Cholesterol,21.58,mmol/L,False
+140522,560451,Vitamin D,155.42,nmol/L,False
+249314,203660,Blood Sugar,128.54,mmol/L,True
+241787,249714,Blood Sugar,223.49,mg/dL,True
+609292,902465,Blood Sugar,117.25,mg/dL,False
+392573,912412,Hemoglobin,47.6,g/dL,True
+180128,266053,Cholesterol,25.79,mmol/L,True
+270817,417137,Cholesterol,153.65,mmol/L,True
+376859,152516,Cholesterol,5.66,mg/dL,True
+892478,424808,Hemoglobin,105.75,g/dL,True
+689949,213124,Hemoglobin,4.12,g/dL,True
+343855,178812,Hemoglobin,184.88,g/dL,True
+670081,360821,Hemoglobin,114.76,g/dL,True
+676420,517195,Vitamin D,42.33,nmol/L,True
+672557,317975,Blood Sugar,183.81,mg/dL,False
+907290,102557,Vitamin D,77.05,ng/mL,False
+271257,501118,Hemoglobin,Error,g/dL,True
+577413,621482,Vitamin D,122.88,nmol/L,True
+903699,854264,Cholesterol,135.41,mg/dL,False
+245298,758734,Cholesterol,140.94,mmol/L,True
+160144,288787,Blood Sugar,174.31,mg/dL,False
+149764,871992,Blood Sugar,108.62,mmol/L,False
+288797,387955,Blood Sugar,Error,mmol/L,False
+346606,699597,Blood Sugar,137.12,mg/dL,True
+137115,667651,Cholesterol,121.51,mg/dL,True
+380932,333057,Vitamin D,209.03,ng/mL,True
+768938,680996,Blood Sugar,175.48,mg/dL,False
+677685,956080,Cholesterol,137.03,mmol/L,False
+764338,291282,Cholesterol,169.14,mg/dL,True
+343653,411941,Cholesterol,201.26,mg/dL,False
+804132,612788,Hemoglobin,126.42,g/dL,False
+355385,609236,Cholesterol,185.96,mmol/L,False
+902232,533711,Blood Sugar,130.37,mg/dL,True
+761618,283927,Cholesterol,248.52,mmol/L,False
+427427,485501,Cholesterol,61.34,mmol/L,True
+322567,441433,Cholesterol,111.13,mg/dL,True
+342665,540734,Hemoglobin,67.03,g/dL,True
+953260,656520,Hemoglobin,24.68,g/dL,True
+195376,404974,Blood Sugar,66.22,mg/dL,False
+372794,412646,Cholesterol,49.75,mmol/L,True
+812234,233350,Cholesterol,230.48,mg/dL,False
+285672,407706,Cholesterol,239.39,mg/dL,True
+206439,931912,Blood Sugar,158.82,mg/dL,False
+164758,447497,Blood Sugar,79.69,mmol/L,True
+335515,917939,Blood Sugar,180.81,mg/dL,False
+644937,775414,Blood Sugar,39.01,mg/dL,False
+538811,501850,Cholesterol,139.51,mg/dL,False
+337248,468239,Hemoglobin,Pending,g/dL,False
+373497,554341,Blood Sugar,128.13,mmol/L,True
+988012,273329,Blood Sugar,176.71,mmol/L,True
+809760,239911,Vitamin D,145.84,nmol/L,False
+789620,653117,Blood Sugar,77.31,mg/dL,True
+513520,656824,Cholesterol,63.07,mmol/L,False
+644305,814923,Cholesterol,235.27,mmol/L,False
+483432,264199,Vitamin D,147.7,nmol/L,False
+986679,487909,Blood Sugar,240.31,mmol/L,False
+904115,282137,Blood Sugar,176.06,mmol/L,True
+658406,269357,Blood Sugar,76.57,mg/dL,True
+350894,802900,Hemoglobin,210.54,g/dL,True
+648467,500496,Vitamin D,180.07,nmol/L,True
+127428,161316,Cholesterol,186.87,mmol/L,True
+915194,281917,Cholesterol,194.36,mg/dL,True
+565452,852413,Cholesterol,5.2,mg/dL,True
+823190,559305,Blood Sugar,157.7,mmol/L,True
+353128,900642,Hemoglobin,229.79,g/dL,True
+432084,561845,Cholesterol,147.83,mmol/L,False
+968454,226529,Cholesterol,117.95,mg/dL,False
+498500,311459,Cholesterol,181.77,mg/dL,True
+921263,876519,Blood Sugar,203.93,mmol/L,False
+191942,277636,Blood Sugar,108.18,mmol/L,True
+367996,819099,Cholesterol,67.91,mg/dL,True
+309799,192820,Cholesterol,227.44,mg/dL,True
+730124,805893,Hemoglobin,166.4,g/dL,True
+966964,843397,Blood Sugar,76.44,mmol/L,False
+506141,277496,Vitamin D,135.94,nmol/L,True
+506765,509219,Cholesterol,95.47,mg/dL,True
+604336,132941,Hemoglobin,217.2,g/dL,False
+563909,172873,Blood Sugar,137.5,mg/dL,False
+301338,565786,Hemoglobin,6.43,g/dL,True
+974311,191384,Vitamin D,75.37,ng/mL,False
+688209,307945,Blood Sugar,239.48,mg/dL,False
+411073,937922,Blood Sugar,42.32,mg/dL,True
+380729,771261,Blood Sugar,78.51,mmol/L,False
+860525,567554,Cholesterol,110.77,mmol/L,True
+447650,337672,Cholesterol,144.05,mmol/L,True
+969787,177993,Cholesterol,94.12,mg/dL,True
+719611,511309,Cholesterol,221.39,mmol/L,False
+745881,222976,Cholesterol,154.23,mg/dL,True
+174847,369821,Cholesterol,244.63,mg/dL,False
+577912,867476,Blood Sugar,117.56,mmol/L,False
+151917,838327,Blood Sugar,202.18,mmol/L,False
+677828,412744,Blood Sugar,83.81,mmol/L,False
+371474,254936,Blood Sugar,201.35,mmol/L,False
+240013,969107,Blood Sugar,159.36,mmol/L,False
+758396,257989,Blood Sugar,53.09,mmol/L,True
+643123,368133,Cholesterol,25.18,mg/dL,True
+288744,550021,Vitamin D,153.76,nmol/L,False
+126797,412646,Vitamin D,82.46,ng/mL,False
+471038,266030,Blood Sugar,132.94,mg/dL,False
+487940,164066,Vitamin D,10.19,ng/mL,True
+536208,262804,Cholesterol,172.3,mg/dL,False
+603371,661539,Cholesterol,171.93,mg/dL,True
+386660,544410,Vitamin D,7.38,ng/mL,True
+738483,506810,Vitamin D,107.99,ng/mL,False
+542386,341230,Cholesterol,195.3,mg/dL,True
+794689,338272,Cholesterol,156.19,mmol/L,True
+502028,512301,Hemoglobin,19.01,g/dL,True
+132719,335745,Cholesterol,25.56,mmol/L,True
+798295,414820,Blood Sugar,52.17,mg/dL,True
+161489,784861,Blood Sugar,114.14,mg/dL,True
+792485,940863,Cholesterol,89.78,mg/dL,True
+112394,419700,Hemoglobin,114.42,g/dL,True
+237447,916898,Cholesterol,192.19,mmol/L,False
+738747,328939,Hemoglobin,52.89,g/dL,True
+417023,735341,Cholesterol,23.69,mg/dL,True
+358106,505048,Blood Sugar,165.43,mg/dL,False
+615192,307433,Cholesterol,62.0,mg/dL,False
+786789,654467,Hemoglobin,169.41,g/dL,False
+226892,123467,Vitamin D,Error,nmol/L,True
+964990,924071,Hemoglobin,209.44,g/dL,False
+768922,396451,Blood Sugar,246.83,mg/dL,False
+577715,399061,Cholesterol,116.62,mg/dL,True
+877553,103444,Cholesterol,Error,mg/dL,True
+125214,599890,Blood Sugar,121.76,mg/dL,False
+492203,806002,Blood Sugar,63.1,mg/dL,False
+601829,814111,Blood Sugar,247.41,mmol/L,False
+532542,441349,Cholesterol,114.4,mmol/L,True
+946148,710606,Blood Sugar,69.05,mg/dL,True
+520956,762584,Cholesterol,61.36,mg/dL,False
+733604,587074,Blood Sugar,Error,mg/dL,True
+173131,391359,Cholesterol,123.84,mg/dL,True
+111845,209982,Cholesterol,212.59,mmol/L,False
+475696,874594,Cholesterol,213.9,mmol/L,False
+195878,906680,Cholesterol,169.56,mg/dL,True
+722015,892721,Hemoglobin,12.31,g/dL,False
+406597,349518,Blood Sugar,44.17,mg/dL,True
+902350,639668,Blood Sugar,62.99,mg/dL,True
+493615,153777,Blood Sugar,229.99,mg/dL,True
+709577,864761,Hemoglobin,150.27,g/dL,True
+260637,270407,Blood Sugar,8.91,mg/dL,True
+636285,987168,Blood Sugar,100.03,mg/dL,False
+222757,932036,Hemoglobin,58.03,g/dL,False
+107334,557701,Blood Sugar,60.06,mg/dL,False
+347715,287123,Cholesterol,35.63,mg/dL,False
+295533,951871,Blood Sugar,59.65,mg/dL,False
+609378,486579,Cholesterol,152.98,mg/dL,True
+108239,338920,Vitamin D,26.37,nmol/L,False
+933850,614204,Hemoglobin,155.14,g/dL,True
+653744,883080,Hemoglobin,10.17,g/dL,False
+918906,133933,Blood Sugar,154.24,mmol/L,True
+889458,615209,Cholesterol,147.79,mmol/L,True
+914398,777616,Hemoglobin,175.4,g/dL,False
+671564,278539,Cholesterol,126.92,mg/dL,True
+772820,725141,Blood Sugar,15.62,mmol/L,False
+843546,481039,Vitamin D,222.7,nmol/L,False
+600197,951796,Cholesterol,103.11,mg/dL,True
+862972,604617,Vitamin D,Pending,nmol/L,True
+377941,559411,Hemoglobin,167.87,g/dL,True
+678600,930823,Cholesterol,Pending,mg/dL,False
+502706,111736,Cholesterol,53.4,mg/dL,False
+549648,432296,Cholesterol,109.88,mmol/L,False
+234540,342092,Blood Sugar,167.38,mmol/L,False
+394179,343458,Hemoglobin,244.05,g/dL,False
+470458,248603,Vitamin D,171.48,nmol/L,False
+520948,333057,Blood Sugar,114.1,mmol/L,False
+542749,248058,Vitamin D,126.12,nmol/L,True
+131353,648375,Cholesterol,18.67,mmol/L,True
+168102,611057,Blood Sugar,243.94,mg/dL,False
+251845,971177,Vitamin D,128.64,ng/mL,False
+945589,786529,Cholesterol,128.56,mg/dL,True
+203499,730850,Hemoglobin,135.27,g/dL,False
+177283,965622,Blood Sugar,234.87,mg/dL,False
+531143,333559,Vitamin D,46.1,nmol/L,True
+225654,162158,Blood Sugar,140.4,mg/dL,False
+551497,168667,Hemoglobin,172.83,g/dL,True
+438808,785080,Hemoglobin,165.93,g/dL,False
+683656,328437,Hemoglobin,147.44,g/dL,False
+466588,555667,Cholesterol,206.46,mmol/L,True
+750521,174477,Hemoglobin,227.4,g/dL,False
+565201,424536,Hemoglobin,224.74,g/dL,True
+374428,408834,Blood Sugar,158.5,mg/dL,False
+974814,818102,Hemoglobin,112.38,g/dL,True
+745383,454046,Cholesterol,86.17,mmol/L,False
+832871,582357,Blood Sugar,173.93,mg/dL,True
+437546,748478,Cholesterol,158.4,mg/dL,False
+393286,461420,Blood Sugar,63.75,mg/dL,True
+816316,130791,Blood Sugar,205.23,mmol/L,True
+991451,314386,Blood Sugar,89.82,mmol/L,True
+255427,432944,Blood Sugar,78.57,mg/dL,True
+733498,167724,Cholesterol,182.55,mg/dL,True
+913592,880679,Blood Sugar,17.81,mmol/L,False
+898760,735724,Hemoglobin,156.39,g/dL,False
+972044,164795,Cholesterol,40.63,mmol/L,True
+780526,933413,Cholesterol,113.18,mmol/L,False
+742992,716386,Blood Sugar,38.27,mmol/L,True
+291038,856665,Blood Sugar,218.06,mmol/L,True
+848934,816512,Vitamin D,238.07,ng/mL,True
+429489,609788,Cholesterol,11.9,mg/dL,True
+604780,536931,Blood Sugar,188.93,mg/dL,False
+774234,124482,Vitamin D,41.64,nmol/L,True
+894187,926296,Vitamin D,89.78,nmol/L,True
+291951,361652,Cholesterol,132.16,mmol/L,True
+517966,410397,Blood Sugar,62.47,mmol/L,False
+702791,540734,Cholesterol,73.25,mg/dL,False
+504926,258731,Vitamin D,42.52,nmol/L,True
+592930,496058,Cholesterol,201.44,mg/dL,True
+402952,264199,Vitamin D,104.48,ng/mL,True
+820156,908734,Blood Sugar,32.05,mg/dL,False
+654183,914588,Hemoglobin,73.62,g/dL,False
+118983,233689,Hemoglobin,120.05,g/dL,True
+524281,996646,Blood Sugar,120.25,mmol/L,True
+918357,718935,Blood Sugar,117.32,mmol/L,False
+836062,201262,Hemoglobin,150.59,g/dL,False
+112922,703456,Cholesterol,179.73,mg/dL,False
+534310,947696,Blood Sugar,88.03,mmol/L,False
+793148,912412,Blood Sugar,204.74,mg/dL,False
+355330,672342,Blood Sugar,76.34,mg/dL,False
+793216,704611,Cholesterol,47.71,mmol/L,True
+902975,385631,Blood Sugar,116.58,mmol/L,True
+146982,876366,Cholesterol,155.57,mg/dL,True
+102797,265357,Vitamin D,5.55,nmol/L,True
+803742,970872,Cholesterol,102.51,mmol/L,False
+604588,495968,Blood Sugar,166.03,mg/dL,True
+148380,611057,Hemoglobin,17.05,g/dL,False
+819593,798103,Cholesterol,132.83,mmol/L,True
+980831,331736,Cholesterol,226.2,mmol/L,False
+330432,374432,Cholesterol,154.64,mmol/L,False
+218463,295652,Cholesterol,158.32,mmol/L,True
+911115,734103,Blood Sugar,60.79,mg/dL,True
+441688,619057,Blood Sugar,95.38,mg/dL,False
+768791,286408,Cholesterol,85.3,mg/dL,True
+661276,143109,Vitamin D,213.79,ng/mL,True
+967650,618914,Cholesterol,102.15,mmol/L,False
+673329,186663,Cholesterol,182.73,mmol/L,True
+956893,726772,Blood Sugar,5.45,mg/dL,False
+545807,902006,Blood Sugar,229.3,mg/dL,False
+470968,580097,Cholesterol,142.15,mmol/L,True
+552498,991817,Cholesterol,214.17,mmol/L,False
+855046,836443,Blood Sugar,56.77,mg/dL,False
+991786,192026,Blood Sugar,Pending,mg/dL,False
+827304,542721,Vitamin D,4.56,ng/mL,False
+784362,303535,Cholesterol,77.71,mmol/L,True
+166306,171368,Blood Sugar,101.22,mmol/L,True
+129560,280811,Hemoglobin,216.32,g/dL,True
+223284,888884,Hemoglobin,121.02,g/dL,True
+861382,277636,Cholesterol,93.43,mg/dL,False
+700551,768517,Blood Sugar,190.68,mg/dL,False
+172307,413906,Hemoglobin,171.14,g/dL,True
+849942,752881,Hemoglobin,128.71,g/dL,False
+966956,211073,Hemoglobin,92.43,g/dL,True
+263560,429731,Blood Sugar,90.66,mmol/L,False
+874078,933460,Blood Sugar,191.71,mg/dL,True
+679392,156535,Vitamin D,110.5,ng/mL,True
+452517,944254,Cholesterol,12.8,mg/dL,True
+989958,517395,Blood Sugar,183.98,mg/dL,False
+634523,837589,Blood Sugar,214.26,mg/dL,False
+744318,224930,Hemoglobin,Pending,g/dL,False
+734976,770667,Vitamin D,54.61,nmol/L,True
+472179,195909,Cholesterol,101.47,mg/dL,False
+715414,912939,Blood Sugar,208.54,mg/dL,False
+983490,367877,Hemoglobin,240.39,g/dL,False
+981276,453024,Vitamin D,201.29,nmol/L,True
+836385,100759,Vitamin D,119.4,ng/mL,False
+200869,361652,Blood Sugar,57.36,mg/dL,False
+852448,921771,Vitamin D,244.29,ng/mL,True
+707991,221455,Cholesterol,70.93,mmol/L,True
+152627,283936,Cholesterol,137.04,mg/dL,True
+640964,608788,Hemoglobin,44.48,g/dL,False
+322079,854124,Hemoglobin,52.17,g/dL,True
+896581,658852,Hemoglobin,10.7,g/dL,False
+310758,556093,Blood Sugar,196.08,mg/dL,True
+818222,713733,Cholesterol,243.17,mmol/L,True
+307606,664681,Hemoglobin,Error,g/dL,False
+236965,383702,Blood Sugar,230.46,mmol/L,False
+947781,817216,Blood Sugar,135.8,mg/dL,True
+170325,833273,Hemoglobin,8.46,g/dL,False
+558915,614157,Hemoglobin,22.66,g/dL,False
+835050,838516,Blood Sugar,241.13,mg/dL,False
+146332,294969,Blood Sugar,82.65,mmol/L,False
+942125,309664,Blood Sugar,22.19,mg/dL,True
+528626,207452,Blood Sugar,142.04,mmol/L,False
+760570,601656,Cholesterol,117.62,mmol/L,False
+436808,582354,Blood Sugar,91.63,mmol/L,True
+684513,397457,Cholesterol,197.88,mg/dL,True
+266527,547048,Blood Sugar,211.95,mg/dL,False
+816661,291818,Hemoglobin,30.15,g/dL,False
+186372,670981,Blood Sugar,100.76,mmol/L,True
+395266,219178,Blood Sugar,10.31,mmol/L,False
+755813,726472,Blood Sugar,Error,mmol/L,True
+221467,784780,Cholesterol,234.66,mg/dL,False
+666211,183473,Blood Sugar,80.81,mmol/L,True
+873265,587842,Blood Sugar,168.86,mmol/L,False
+723984,986440,Blood Sugar,41.78,mg/dL,True
+537794,707153,Hemoglobin,8.32,g/dL,True
+634999,278433,Blood Sugar,56.02,mmol/L,True
+639469,367877,Cholesterol,54.03,mmol/L,False
+251845,163829,Hemoglobin,210.51,g/dL,True
+224674,972102,Vitamin D,54.82,nmol/L,True
+804610,804889,Blood Sugar,81.93,mmol/L,False
+760052,326666,Blood Sugar,14.59,mmol/L,True
+527178,901512,Cholesterol,47.48,mmol/L,False
+496215,378534,Blood Sugar,8.04,mg/dL,False
+260655,619088,Blood Sugar,36.76,mmol/L,True
+957310,769055,Cholesterol,91.11,mmol/L,True
+377044,442468,Cholesterol,183.2,mg/dL,False
+878941,211329,Blood Sugar,180.55,mg/dL,False
+938090,890225,Blood Sugar,154.86,mmol/L,True
+993677,443414,Vitamin D,165.96,ng/mL,True
+736703,151226,Cholesterol,154.38,mg/dL,False
+298836,753820,Blood Sugar,12.74,mmol/L,False
+432375,971723,Cholesterol,117.77,mg/dL,False
+756234,179707,Blood Sugar,155.99,mmol/L,False
+572475,755134,Vitamin D,90.77,nmol/L,False
+202176,462866,Cholesterol,249.01,mmol/L,True
+480191,550219,Cholesterol,147.47,mmol/L,True
+252083,840936,Blood Sugar,Pending,mg/dL,True
+591807,593334,Blood Sugar,50.42,mmol/L,True
+353721,337723,Blood Sugar,77.59,mg/dL,True
+768636,566046,Hemoglobin,29.96,g/dL,True
+330280,872898,Cholesterol,55.41,mmol/L,True
+418553,103716,Blood Sugar,122.41,mmol/L,True
+780684,817889,Cholesterol,63.2,mg/dL,True
+696837,899987,Blood Sugar,60.46,mmol/L,True
+866723,583323,Vitamin D,90.86,nmol/L,True
+852501,905528,Blood Sugar,92.22,mmol/L,False
+548204,633188,Cholesterol,233.52,mg/dL,False
+494898,592718,Blood Sugar,9.46,mg/dL,True
+559115,742895,Blood Sugar,198.17,mmol/L,True
+867598,162111,Blood Sugar,169.65,mmol/L,False
+794359,649463,Blood Sugar,20.97,mg/dL,True
+948607,742390,Blood Sugar,206.05,mg/dL,True
+171428,642532,Cholesterol,158.19,mg/dL,False
+821300,498870,Cholesterol,10.1,mg/dL,False
+719418,547812,Cholesterol,240.46,mmol/L,False
+956389,378459,Cholesterol,238.78,mmol/L,True
+871949,960630,Blood Sugar,178.68,mmol/L,False
+399857,495184,Blood Sugar,210.02,mmol/L,False
+407226,542721,Vitamin D,218.18,ng/mL,True
+630306,801145,Blood Sugar,136.06,mg/dL,True
+799940,365584,Cholesterol,93.42,mmol/L,False
+136600,754804,Vitamin D,83.21,ng/mL,False
+212847,674348,Hemoglobin,232.25,g/dL,False
+158071,391928,Vitamin D,94.79,nmol/L,False
+764367,495881,Blood Sugar,72.12,mg/dL,True
+260527,839196,Cholesterol,46.59,mmol/L,False
+334981,899987,Blood Sugar,146.82,mmol/L,True
+227126,930823,Vitamin D,Pending,ng/mL,True
+561457,242309,Cholesterol,48.57,mg/dL,False
+188481,216463,Cholesterol,195.36,mmol/L,False
+444305,304793,Vitamin D,41.87,ng/mL,True
+606017,232430,Vitamin D,189.85,nmol/L,True
+995686,638428,Blood Sugar,Pending,mg/dL,False
+521436,192820,Hemoglobin,94.25,g/dL,False
+587165,939683,Cholesterol,239.09,mg/dL,False
+721251,343767,Hemoglobin,219.0,g/dL,False
+887473,392839,Blood Sugar,231.35,mmol/L,True
+797734,859441,Cholesterol,102.49,mmol/L,True
+741775,999762,Cholesterol,178.76,mg/dL,True
+244685,725278,Cholesterol,32.54,mg/dL,True
+414603,569226,Vitamin D,236.57,nmol/L,False
+341352,369888,Cholesterol,165.54,mmol/L,True
+863585,391359,Blood Sugar,32.15,mg/dL,True
+905326,370816,Cholesterol,62.77,mg/dL,False
+706985,507045,Cholesterol,241.59,mg/dL,True
+514789,219049,Hemoglobin,114.51,g/dL,False
+521954,189960,Hemoglobin,237.27,g/dL,False
+812800,701980,Blood Sugar,86.56,mmol/L,False
+385806,830037,Blood Sugar,36.63,mmol/L,False
+883934,181373,Hemoglobin,57.87,g/dL,True
+535714,599890,Blood Sugar,84.48,mmol/L,True
+978667,335745,Vitamin D,87.74,ng/mL,False
+192926,294534,Hemoglobin,248.13,g/dL,False
+642547,671913,Vitamin D,238.26,ng/mL,False
+808338,814888,Blood Sugar,83.48,mmol/L,False
+784466,943468,Vitamin D,18.66,ng/mL,False
+418665,975056,Vitamin D,61.36,ng/mL,False
+597575,633112,Cholesterol,134.04,mg/dL,False
+290831,401960,Blood Sugar,23.28,mg/dL,False
+292824,166290,Cholesterol,218.36,mg/dL,False
+862620,865944,Blood Sugar,138.51,mmol/L,False
+426729,745644,Blood Sugar,31.07,mg/dL,True
+595142,840335,Blood Sugar,183.14,mmol/L,True
+125720,667709,Blood Sugar,178.15,mg/dL,True
+555849,541984,Hemoglobin,169.92,g/dL,True
+397443,190205,Cholesterol,167.93,mg/dL,True
+476139,697528,Hemoglobin,50.96,g/dL,False
+726499,242309,Hemoglobin,158.61,g/dL,True
+165364,640744,Vitamin D,164.82,nmol/L,True
+229906,367877,Blood Sugar,242.49,mmol/L,False
+889252,885461,Cholesterol,50.8,mmol/L,False
+764503,342765,Cholesterol,228.08,mmol/L,True
+372399,609788,Blood Sugar,36.87,mmol/L,True
+196928,677992,Blood Sugar,198.65,mmol/L,False
+718968,134569,Blood Sugar,206.52,mg/dL,False
+744385,875764,Hemoglobin,117.76,g/dL,True
+881299,657099,Cholesterol,37.3,mmol/L,True
+932543,887488,Vitamin D,237.23,nmol/L,True
+597442,674171,Cholesterol,151.57,mmol/L,True
+884118,461420,Cholesterol,243.7,mg/dL,False
+406629,954518,Hemoglobin,42.85,g/dL,True
+911153,715717,Blood Sugar,130.78,mmol/L,False
+187873,575463,Cholesterol,235.11,mg/dL,True
+426280,702791,Vitamin D,174.36,ng/mL,True
+595990,265918,Blood Sugar,29.5,mmol/L,True
+147215,727902,Cholesterol,106.77,mmol/L,False
+823982,284912,Blood Sugar,95.73,mg/dL,True
+347687,263626,Cholesterol,172.31,mg/dL,False
+771563,623979,Hemoglobin,230.06,g/dL,False
+699708,101493,Cholesterol,143.4,mmol/L,False
+920359,281522,Hemoglobin,47.5,g/dL,False
+921640,365584,Cholesterol,49.12,mg/dL,False
+789231,653344,Hemoglobin,105.44,g/dL,False
+116134,258731,Blood Sugar,226.01,mmol/L,False
+956437,277600,Blood Sugar,215.28,mmol/L,False
+259361,633877,Blood Sugar,209.66,mmol/L,True
+695379,687872,Blood Sugar,134.51,mmol/L,False
+115511,863923,Cholesterol,4.24,mmol/L,False
+862171,305472,Blood Sugar,92.68,mmol/L,False
+596579,827048,Cholesterol,35.87,mg/dL,True
+984345,349288,Blood Sugar,235.62,mg/dL,False
+124573,819073,Hemoglobin,61.85,g/dL,False
+637566,310015,Blood Sugar,217.26,mmol/L,False
+738375,490943,Blood Sugar,150.49,mg/dL,False
+233742,393679,Blood Sugar,196.19,mmol/L,False
+752829,810401,Vitamin D,24.78,nmol/L,True
+255993,864761,Hemoglobin,116.26,g/dL,True
+466285,678009,Hemoglobin,121.79,g/dL,False
+337902,846217,Cholesterol,15.81,mg/dL,True
+911559,844758,Cholesterol,89.68,mg/dL,True
+157806,681045,Cholesterol,157.44,mmol/L,True
+610779,929570,Blood Sugar,242.46,mg/dL,True
+175889,863284,Hemoglobin,36.06,g/dL,False
+719813,110570,Cholesterol,109.32,mg/dL,True
+103149,515424,Blood Sugar,17.97,mmol/L,True
+821391,296622,Cholesterol,141.11,mmol/L,True
+612246,635591,Vitamin D,38.24,ng/mL,True
+355939,227042,Hemoglobin,74.29,g/dL,False
+852690,938715,Blood Sugar,147.21,mmol/L,True
+343406,969110,Hemoglobin,104.81,g/dL,False
+311776,520169,Vitamin D,225.58,ng/mL,False
+296238,856350,Cholesterol,60.55,mg/dL,True
+224476,578218,Blood Sugar,205.34,mg/dL,False
+168667,128540,Vitamin D,184.48,nmol/L,False
+235594,609285,Cholesterol,26.09,mg/dL,False
+430466,433033,Hemoglobin,227.08,g/dL,True
+948080,219049,Blood Sugar,159.55,mmol/L,False
+695271,449088,Vitamin D,133.15,nmol/L,True
+589793,196865,Cholesterol,90.52,mg/dL,False
+987950,371800,Hemoglobin,184.91,g/dL,True
+204986,608074,Cholesterol,128.04,mmol/L,False
+326086,739652,Cholesterol,196.3,mg/dL,False
+445283,448622,Hemoglobin,220.95,g/dL,True
+227229,308635,Blood Sugar,53.87,mmol/L,True
+654583,203245,Blood Sugar,205.21,mg/dL,True
+818732,820411,Blood Sugar,55.28,mg/dL,True
+240873,520862,Hemoglobin,174.74,g/dL,False
+204288,152420,Hemoglobin,30.6,g/dL,True
+836004,750579,Hemoglobin,140.3,g/dL,True
+174102,172839,Cholesterol,234.47,mmol/L,True
+832949,884558,Hemoglobin,9.28,g/dL,True
+557952,828515,Blood Sugar,133.49,mmol/L,True
+418811,840570,Hemoglobin,127.43,g/dL,True
+100083,520944,Cholesterol,145.39,mg/dL,False
+121891,988122,Vitamin D,18.74,nmol/L,False
+961725,245251,Hemoglobin,244.32,g/dL,False
+966487,109883,Hemoglobin,227.67,g/dL,True
+292845,305913,Blood Sugar,22.0,mg/dL,True
+871007,430599,Blood Sugar,60.39,mg/dL,True
+353968,599472,Blood Sugar,176.91,mmol/L,True
+977720,570255,Hemoglobin,109.01,g/dL,True
+274472,680425,Cholesterol,106.89,mmol/L,True
+364202,982950,Blood Sugar,120.42,mg/dL,False
+796853,421072,Blood Sugar,Error,mmol/L,True
+759318,679719,Cholesterol,69.48,mmol/L,False
+879601,357709,Blood Sugar,18.96,mmol/L,True
+767050,382270,Blood Sugar,30.9,mmol/L,False
+305692,340355,Cholesterol,66.85,mg/dL,True
+366312,625772,Hemoglobin,Error,g/dL,True
+334783,311001,Cholesterol,37.12,mg/dL,False
+310115,916189,Blood Sugar,77.24,mg/dL,False
+885837,988331,Cholesterol,80.27,mmol/L,True
+416035,122384,Vitamin D,240.81,nmol/L,False
+705687,612933,Blood Sugar,117.38,mg/dL,True
+928992,950071,Blood Sugar,36.87,mg/dL,False
+143302,715304,Hemoglobin,84.93,g/dL,True
+671307,586806,Hemoglobin,170.5,g/dL,False
+154907,982950,Vitamin D,172.02,ng/mL,True
+705090,850783,Hemoglobin,84.26,g/dL,True
+369935,505786,Blood Sugar,239.81,mmol/L,False
+220585,497964,Blood Sugar,243.62,mmol/L,True
+949159,622261,Cholesterol,109.82,mg/dL,False
+296839,509339,Cholesterol,234.44,mmol/L,True
+189068,883765,Blood Sugar,223.07,mg/dL,False
+399612,707153,Blood Sugar,172.99,mg/dL,False
+137376,122306,Cholesterol,133.93,mmol/L,False
+489256,635999,Blood Sugar,91.86,mg/dL,False
+959187,370625,Cholesterol,175.22,mg/dL,True
+996441,468925,Hemoglobin,202.63,g/dL,True
+503069,866603,Cholesterol,132.04,mmol/L,True
+491193,238256,Hemoglobin,166.76,g/dL,False
+286371,906463,Hemoglobin,92.11,g/dL,True
+476341,145509,Hemoglobin,Pending,g/dL,False
+917208,550041,Cholesterol,182.69,mg/dL,True
+183903,744810,Vitamin D,154.66,nmol/L,True
+779721,269690,Blood Sugar,139.43,mmol/L,True
+829128,829091,Hemoglobin,69.86,g/dL,False
+793291,675475,Cholesterol,Error,mmol/L,False
+593658,769488,Cholesterol,112.15,mg/dL,True
+141613,926909,Cholesterol,33.16,mg/dL,True
+303041,383393,Cholesterol,5.75,mmol/L,False
+353509,663134,Cholesterol,185.05,mg/dL,True
+568434,331227,Vitamin D,188.95,nmol/L,True
+520740,901799,Blood Sugar,18.03,mmol/L,True
+598395,322319,Blood Sugar,77.8,mg/dL,False
+415733,342069,Blood Sugar,Pending,mg/dL,True
+438324,847307,Blood Sugar,244.27,mmol/L,True
+840700,460367,Cholesterol,47.72,mmol/L,True
+408097,691318,Blood Sugar,106.16,mg/dL,True
+948228,124040,Hemoglobin,212.43,g/dL,False
+190751,923039,Hemoglobin,113.1,g/dL,True
+343903,571095,Vitamin D,186.57,ng/mL,True
+472045,458230,Blood Sugar,247.67,mg/dL,True
+317855,580325,Cholesterol,181.03,mmol/L,False
+426997,775924,Blood Sugar,36.96,mg/dL,True
+363086,350647,Hemoglobin,57.46,g/dL,True
+767182,669586,Blood Sugar,240.08,mg/dL,False
+699939,103644,Cholesterol,135.75,mg/dL,False
+708712,449740,Cholesterol,199.48,mg/dL,False
+173121,337413,Vitamin D,Pending,ng/mL,False
+457985,124482,Hemoglobin,206.48,g/dL,True
+994126,820781,Hemoglobin,161.91,g/dL,True
+258143,230416,Cholesterol,164.57,mmol/L,True
+851392,182067,Hemoglobin,81.85,g/dL,True
+528877,951346,Hemoglobin,105.96,g/dL,False
+995840,660892,Cholesterol,199.14,mmol/L,False
+734482,372226,Hemoglobin,164.09,g/dL,True
+531629,496005,Hemoglobin,155.63,g/dL,True
+742725,937113,Blood Sugar,107.07,mg/dL,True
+929029,938473,Blood Sugar,113.18,mmol/L,False
+666362,512493,Blood Sugar,186.27,mg/dL,True
+514487,268877,Blood Sugar,23.35,mg/dL,False
+735065,812031,Cholesterol,47.95,mg/dL,True
+548848,407269,Blood Sugar,Pending,mg/dL,True
+986086,794379,Cholesterol,59.53,mg/dL,True
+110388,496282,Blood Sugar,17.72,mmol/L,True
+746888,672934,Hemoglobin,106.18,g/dL,True
+327080,710862,Vitamin D,120.9,nmol/L,False
+145423,535190,Blood Sugar,Error,mmol/L,False
+297726,118886,Hemoglobin,124.92,g/dL,True
+235738,538373,Blood Sugar,175.02,mmol/L,True
+307852,776887,Blood Sugar,165.53,mmol/L,True
+751065,288261,Cholesterol,162.99,mg/dL,True
+492977,162144,Blood Sugar,103.45,mg/dL,True
+645827,235199,Blood Sugar,177.49,mg/dL,False
+183851,277636,Blood Sugar,52.16,mg/dL,True
+239282,849747,Hemoglobin,38.94,g/dL,False
+217779,949507,Blood Sugar,222.64,mg/dL,True
+714757,870079,Blood Sugar,Error,mg/dL,True
+624822,130601,Vitamin D,231.69,nmol/L,False
+928239,657876,Vitamin D,226.78,ng/mL,True
+347496,926909,Cholesterol,128.24,mg/dL,False
+743688,199772,Cholesterol,63.45,mmol/L,True
+977243,768092,Hemoglobin,76.16,g/dL,False
+962862,896961,Cholesterol,239.68,mmol/L,True
+468414,994328,Hemoglobin,116.47,g/dL,True
+786139,633638,Cholesterol,235.98,mg/dL,True
+306687,954320,Cholesterol,170.8,mg/dL,False
+418741,334822,Cholesterol,132.97,mg/dL,True
+193768,582357,Blood Sugar,225.77,mmol/L,True
+424277,642334,Hemoglobin,100.23,g/dL,False
+495143,365819,Hemoglobin,198.61,g/dL,False
+215496,456406,Hemoglobin,126.57,g/dL,True
+541528,140448,Hemoglobin,28.48,g/dL,True
+112585,810336,Hemoglobin,217.95,g/dL,False
+386167,909188,Blood Sugar,178.56,mmol/L,True
+179678,537443,Vitamin D,175.49,nmol/L,True
+681968,683021,Cholesterol,33.86,mg/dL,False
+188867,905823,Hemoglobin,18.88,g/dL,True
+862556,632827,Cholesterol,88.04,mg/dL,True
+854088,936621,Cholesterol,238.5,mg/dL,True
+447618,163564,Cholesterol,101.04,mg/dL,False
+385994,150859,Hemoglobin,101.51,g/dL,False
+537964,179921,Blood Sugar,139.27,mg/dL,False
+623061,963929,Vitamin D,214.61,ng/mL,True
+122724,987237,Blood Sugar,32.9,mg/dL,False
+580556,136881,Cholesterol,169.62,mmol/L,True
+588593,901171,Cholesterol,14.77,mg/dL,False
+916380,626603,Cholesterol,88.75,mmol/L,True
+501545,263635,Blood Sugar,172.04,mmol/L,True
+451573,623226,Blood Sugar,43.57,mg/dL,True
+702314,701970,Vitamin D,141.02,nmol/L,True
+589614,444152,Hemoglobin,186.25,g/dL,False
+327183,302376,Cholesterol,121.12,mmol/L,False
+315512,945871,Blood Sugar,8.74,mmol/L,False
+413997,479637,Cholesterol,243.67,mmol/L,False
+188865,832326,Vitamin D,63.79,ng/mL,True
+289852,700067,Hemoglobin,77.04,g/dL,True
+854988,680476,Blood Sugar,101.57,mmol/L,False
+842478,915811,Cholesterol,4.33,mg/dL,False
+529220,988326,Blood Sugar,33.64,mmol/L,False
+633036,236370,Cholesterol,13.72,mg/dL,True
+591666,518400,Blood Sugar,183.25,mmol/L,False
+365522,563012,Cholesterol,217.66,mmol/L,False
+786575,567640,Blood Sugar,197.12,mg/dL,False
+940469,841345,Blood Sugar,23.16,mg/dL,False
+651008,208521,Cholesterol,123.53,mmol/L,True
+789188,987168,Cholesterol,233.32,mg/dL,True
+481389,227002,Cholesterol,65.91,mg/dL,False
+801758,156411,Hemoglobin,Pending,g/dL,False
+819243,562433,Cholesterol,9.05,mmol/L,True
+767594,156768,Blood Sugar,164.75,mmol/L,True
+261315,945442,Blood Sugar,121.53,mg/dL,True
+410311,275509,Blood Sugar,239.37,mg/dL,True
+615385,601025,Hemoglobin,216.87,g/dL,False
+860320,503886,Vitamin D,29.39,ng/mL,True
+869065,580097,Vitamin D,242.52,nmol/L,False
+647476,896450,Cholesterol,129.7,mmol/L,True
+408719,552219,Hemoglobin,97.61,g/dL,True
+886930,155515,Hemoglobin,231.97,g/dL,False
+933832,969781,Vitamin D,195.21,ng/mL,True
+987245,249091,Blood Sugar,49.79,mg/dL,True
+588695,947623,Blood Sugar,238.59,mmol/L,True
+258748,122357,Cholesterol,179.55,mg/dL,False
+139058,143109,Vitamin D,29.25,ng/mL,True
+802469,725866,Blood Sugar,243.08,mg/dL,False
+519126,397741,Cholesterol,92.13,mmol/L,False
+528942,978183,Hemoglobin,193.36,g/dL,False
+397553,313537,Vitamin D,206.98,nmol/L,False
+213861,493876,Blood Sugar,7.2,mmol/L,False
+245163,512243,Hemoglobin,121.19,g/dL,True
+480047,641671,Cholesterol,200.66,mmol/L,False
+230276,968982,Cholesterol,230.43,mg/dL,True
+278927,544251,Cholesterol,5.45,mg/dL,True
+710833,944483,Blood Sugar,230.9,mmol/L,True
+359143,757953,Cholesterol,70.22,mg/dL,True
+976435,991817,Cholesterol,Pending,mmol/L,True
+429680,168904,Hemoglobin,Pending,g/dL,True
+519209,987208,Cholesterol,45.35,mmol/L,True
+404624,177294,Cholesterol,190.71,mg/dL,False
+331961,617105,Cholesterol,149.6,mmol/L,True
+942001,913857,Blood Sugar,82.35,mg/dL,True
+675750,656824,Blood Sugar,Error,mg/dL,True
+540460,989360,Blood Sugar,241.45,mg/dL,False
+443499,108285,Blood Sugar,27.25,mg/dL,False
+319531,542435,Cholesterol,39.99,mmol/L,False
+144368,592022,Hemoglobin,177.45,g/dL,False
+953087,738264,Blood Sugar,237.27,mg/dL,True
+671538,778934,Hemoglobin,119.6,g/dL,False
+154267,138100,Blood Sugar,100.71,mg/dL,False
+899840,199696,Cholesterol,77.83,mmol/L,False
+844989,569320,Blood Sugar,65.3,mmol/L,False
+300560,496451,Blood Sugar,186.58,mg/dL,True
+759983,149548,Hemoglobin,223.15,g/dL,True
+144538,758904,Cholesterol,17.48,mmol/L,False
+439208,701708,Hemoglobin,128.28,g/dL,True
+918766,888886,Cholesterol,169.8,mmol/L,False
+657064,729180,Hemoglobin,234.52,g/dL,False
+387750,156361,Vitamin D,132.77,ng/mL,False
+658069,670119,Blood Sugar,164.0,mg/dL,False
+787607,311219,Blood Sugar,Error,mmol/L,True
+367437,443818,Vitamin D,26.83,nmol/L,False
+587402,247693,Cholesterol,60.16,mg/dL,True
+804971,723167,Blood Sugar,50.2,mmol/L,False
+772840,260856,Blood Sugar,166.72,mmol/L,False
+701988,124627,Cholesterol,26.13,mg/dL,False
+921309,486566,Cholesterol,6.34,mmol/L,True
+606851,383818,Cholesterol,148.73,mg/dL,True
+126262,375378,Cholesterol,65.4,mmol/L,True
+524279,845794,Cholesterol,115.69,mg/dL,True
+502839,458913,Hemoglobin,192.13,g/dL,True
+534660,327575,Cholesterol,25.65,mmol/L,False
+789832,122084,Blood Sugar,156.12,mmol/L,True
+686656,505383,Blood Sugar,148.7,mg/dL,True
+905967,665062,Blood Sugar,80.09,mg/dL,True
+197521,547084,Cholesterol,79.55,mmol/L,True
+914016,763728,Blood Sugar,184.74,mg/dL,True
+647608,334105,Blood Sugar,169.64,mmol/L,True
+667274,413038,Hemoglobin,217.46,g/dL,True
+373750,516505,Cholesterol,97.39,mg/dL,False
+742919,533489,Hemoglobin,160.21,g/dL,True
+952818,661561,Blood Sugar,171.11,mmol/L,True
+292903,628790,Cholesterol,200.35,mg/dL,True
+291864,875792,Blood Sugar,137.94,mg/dL,True
+145948,917674,Blood Sugar,79.73,mmol/L,True
+836500,762651,Blood Sugar,26.06,mmol/L,True
+325714,936268,Blood Sugar,174.94,mg/dL,True
+771947,226642,Blood Sugar,118.23,mg/dL,False
+684342,687870,Hemoglobin,10.34,g/dL,True
+758532,439368,Hemoglobin,172.92,g/dL,True
+356423,740241,Vitamin D,244.85,ng/mL,True
+948998,174320,Cholesterol,129.71,mmol/L,True
+399331,401433,Blood Sugar,120.91,mmol/L,False
+539253,718206,Hemoglobin,4.49,g/dL,False
+682607,162881,Blood Sugar,104.25,mg/dL,False
+950819,559411,Vitamin D,180.46,ng/mL,False
+201240,827957,Blood Sugar,11.75,mg/dL,False
+901009,406819,Hemoglobin,171.89,g/dL,True
+401198,246807,Blood Sugar,149.62,mg/dL,False
+772085,445781,Cholesterol,Error,mmol/L,False
+918871,532745,Blood Sugar,51.68,mg/dL,False
+275293,283936,Cholesterol,7.93,mg/dL,True
+945954,469394,Hemoglobin,189.15,g/dL,False
+258434,611954,Blood Sugar,240.37,mg/dL,True
+208540,856029,Hemoglobin,189.01,g/dL,False
+730361,208077,Vitamin D,98.81,nmol/L,False
+125570,151614,Hemoglobin,178.58,g/dL,False
+951086,103055,Cholesterol,34.84,mmol/L,True
+606997,781620,Cholesterol,149.39,mmol/L,False
+800774,512128,Hemoglobin,231.79,g/dL,True
+735506,931912,Blood Sugar,233.39,mmol/L,False
+149660,809639,Hemoglobin,143.56,g/dL,False
+587075,982027,Blood Sugar,106.27,mg/dL,False
+949130,759927,Blood Sugar,156.26,mg/dL,False
+965445,547084,Blood Sugar,159.78,mmol/L,False
+587929,725866,Blood Sugar,71.35,mg/dL,False
+854942,566062,Blood Sugar,36.58,mg/dL,False
+469748,804348,Blood Sugar,135.5,mg/dL,True
+782166,908554,Vitamin D,67.18,nmol/L,True
+281948,202108,Cholesterol,196.17,mmol/L,False
+691341,998410,Cholesterol,4.7,mg/dL,True
+904923,636511,Hemoglobin,162.02,g/dL,False
+255165,806518,Vitamin D,54.03,nmol/L,True
+196255,641469,Blood Sugar,132.89,mmol/L,True
+928145,480191,Blood Sugar,142.22,mg/dL,True
+134125,974501,Cholesterol,137.56,mg/dL,False
+167452,415707,Blood Sugar,Error,mg/dL,False
+432236,249091,Cholesterol,225.96,mmol/L,True
+472852,473514,Blood Sugar,129.56,mg/dL,False
+150636,247425,Cholesterol,209.32,mmol/L,False
+197280,804348,Hemoglobin,120.34,g/dL,True
+354823,925366,Cholesterol,111.14,mmol/L,False
+598760,693853,Hemoglobin,124.58,g/dL,True
+649465,660654,Cholesterol,43.72,mg/dL,True
+106797,115596,Cholesterol,103.92,mmol/L,False
+730653,899594,Cholesterol,42.32,mmol/L,True
+957631,191830,Cholesterol,205.4,mmol/L,True
+815134,829800,Blood Sugar,133.12,mg/dL,False
+824701,624787,Hemoglobin,132.66,g/dL,True
+755413,717803,Vitamin D,91.31,nmol/L,True
+585248,404974,Cholesterol,45.06,mg/dL,False
+996058,495993,Cholesterol,198.51,mg/dL,False
+340534,433180,Cholesterol,92.16,mmol/L,True
+462165,981393,Vitamin D,149.89,ng/mL,True
+778209,856034,Cholesterol,218.88,mg/dL,True
+903285,852545,Blood Sugar,129.32,mmol/L,True
+545880,664681,Hemoglobin,168.15,g/dL,True
+638316,116273,Cholesterol,45.84,mmol/L,False
+597294,727902,Cholesterol,96.38,mmol/L,False
+805729,541111,Hemoglobin,33.93,g/dL,False
+786444,387846,Cholesterol,29.69,mg/dL,False
+481715,550779,Vitamin D,67.2,ng/mL,False
+762985,140448,Blood Sugar,18.84,mg/dL,False
+916672,146238,Blood Sugar,4.95,mmol/L,True
+518864,171736,Hemoglobin,60.45,g/dL,False
+950698,826859,Blood Sugar,129.15,mmol/L,True
+873281,677582,Vitamin D,66.43,nmol/L,True
+130170,242609,Blood Sugar,Pending,mg/dL,True
+630946,217100,Hemoglobin,24.6,g/dL,True
+275257,651046,Cholesterol,13.7,mmol/L,False
+518699,318745,Hemoglobin,70.51,g/dL,False
+100164,452052,Hemoglobin,199.96,g/dL,True
+165701,434827,Cholesterol,220.82,mg/dL,False
+223621,453024,Vitamin D,173.2,ng/mL,False
+886391,135188,Hemoglobin,140.84,g/dL,True
+528667,920793,Hemoglobin,43.32,g/dL,False
+911915,151489,Blood Sugar,Pending,mmol/L,False
+248234,294689,Hemoglobin,162.13,g/dL,True
+442615,139331,Blood Sugar,59.25,mg/dL,False
+360448,455748,Hemoglobin,225.67,g/dL,True
+634418,113489,Blood Sugar,232.38,mmol/L,True
+603749,424416,Blood Sugar,87.66,mmol/L,True
+222714,430362,Cholesterol,229.03,mmol/L,False
+382286,888114,Cholesterol,130.75,mg/dL,False
+541729,928416,Cholesterol,162.77,mmol/L,False
+767464,424818,Blood Sugar,246.64,mg/dL,False
+130959,359139,Cholesterol,235.47,mmol/L,False
+117135,887854,Hemoglobin,6.43,g/dL,True
+195024,832326,Cholesterol,116.09,mg/dL,False
+646959,971385,Cholesterol,59.47,mg/dL,False
+202006,671026,Blood Sugar,11.85,mg/dL,False
+827013,482866,Hemoglobin,76.4,g/dL,True
+262866,436314,Hemoglobin,Pending,g/dL,False
+783011,961734,Cholesterol,147.6,mmol/L,True
+432390,611431,Cholesterol,5.97,mg/dL,True
+999054,766556,Hemoglobin,162.25,g/dL,True
+828839,940883,Vitamin D,127.65,nmol/L,True
+625168,981393,Cholesterol,86.71,mg/dL,False
+135538,354734,Blood Sugar,204.8,mmol/L,True
+329768,649325,Cholesterol,185.21,mmol/L,False
+434535,670911,Cholesterol,Pending,mmol/L,True
+778854,675263,Cholesterol,215.93,mg/dL,True
+693817,900270,Cholesterol,194.37,mmol/L,False
+621260,222428,Vitamin D,246.98,ng/mL,True
+574314,644134,Cholesterol,146.4,mg/dL,False
+227837,338920,Cholesterol,Pending,mg/dL,False
+755348,197026,Cholesterol,203.84,mg/dL,False
+609013,445221,Hemoglobin,56.55,g/dL,False
+447186,726772,Hemoglobin,164.49,g/dL,True
+610704,127666,Blood Sugar,161.02,mmol/L,True
+651490,901489,Hemoglobin,221.39,g/dL,True
+449533,820528,Cholesterol,77.48,mmol/L,False
+884052,589770,Hemoglobin,242.99,g/dL,True
+357313,875004,Blood Sugar,52.0,mg/dL,False
+655675,774059,Blood Sugar,27.2,mg/dL,True
+616247,621236,Blood Sugar,78.55,mg/dL,False
+143761,890873,Vitamin D,246.59,nmol/L,False
+628573,542435,Cholesterol,184.04,mmol/L,False
+275632,533647,Cholesterol,118.0,mg/dL,True
+618745,545031,Cholesterol,31.82,mg/dL,False
+102151,692997,Cholesterol,172.27,mmol/L,False
+386599,452730,Hemoglobin,246.55,g/dL,False
+240343,432517,Cholesterol,24.49,mg/dL,False
+132313,585744,Hemoglobin,71.85,g/dL,False
+481005,695485,Blood Sugar,85.96,mg/dL,True
+378505,329033,Cholesterol,123.84,mmol/L,True
+117630,730280,Hemoglobin,15.9,g/dL,True
+686393,188857,Hemoglobin,208.32,g/dL,False
+344432,653020,Blood Sugar,214.33,mg/dL,True
+695889,186835,Hemoglobin,164.07,g/dL,True
+989490,708571,Cholesterol,119.51,mg/dL,True
+573487,465883,Hemoglobin,46.91,g/dL,True
+192199,508104,Blood Sugar,56.77,mg/dL,True
+848974,143109,Blood Sugar,56.43,mmol/L,False
+253572,795795,Blood Sugar,232.67,mmol/L,True
+539313,462140,Vitamin D,209.93,ng/mL,False
+801932,530780,Vitamin D,102.63,ng/mL,False
+777095,679713,Blood Sugar,123.82,mg/dL,True
+711799,825772,Vitamin D,24.74,nmol/L,True
+102884,769542,Blood Sugar,185.7,mmol/L,True
+272736,357110,Blood Sugar,21.58,mg/dL,False
+724932,186453,Hemoglobin,69.84,g/dL,False
+458718,644142,Hemoglobin,78.45,g/dL,False
+366879,971731,Blood Sugar,18.56,mmol/L,False
+661746,319179,Cholesterol,159.55,mg/dL,True
+572217,701374,Blood Sugar,198.98,mg/dL,False
+368313,795782,Cholesterol,239.31,mmol/L,False
+688872,863036,Cholesterol,245.78,mg/dL,True
+876390,451682,Cholesterol,44.99,mg/dL,False
+767287,583124,Cholesterol,107.75,mmol/L,True
+204651,710862,Vitamin D,190.38,nmol/L,False
+728223,438379,Hemoglobin,24.03,g/dL,True
+543222,506711,Vitamin D,43.39,nmol/L,True
+676818,248603,Blood Sugar,176.61,mmol/L,False
+184396,417072,Cholesterol,29.38,mmol/L,True
+461608,412646,Cholesterol,140.47,mmol/L,True
+364634,465384,Blood Sugar,168.26,mmol/L,False
+106834,474262,Blood Sugar,128.04,mg/dL,True
+989558,533489,Blood Sugar,122.66,mmol/L,False
+483403,552020,Blood Sugar,22.78,mmol/L,True
+168294,651370,Vitamin D,32.76,nmol/L,False
+301723,343610,Blood Sugar,176.5,mg/dL,True
+399948,620568,Hemoglobin,64.76,g/dL,False
+552176,216463,Cholesterol,101.37,mmol/L,True
+701915,196471,Blood Sugar,77.01,mg/dL,False
+806290,538327,Cholesterol,185.56,mg/dL,True
+691476,662354,Cholesterol,112.98,mg/dL,True
+605279,524710,Hemoglobin,179.49,g/dL,False
+601624,807767,Cholesterol,155.78,mmol/L,True
+161950,672685,Hemoglobin,108.91,g/dL,True
+476995,496123,Blood Sugar,87.52,mmol/L,False
+626255,493876,Blood Sugar,225.94,mg/dL,False
+549889,798776,Blood Sugar,145.14,mmol/L,True
+680567,971306,Hemoglobin,Pending,g/dL,True
+390200,163871,Cholesterol,188.26,mmol/L,False
+477547,405946,Blood Sugar,186.17,mmol/L,True
+425587,609908,Blood Sugar,224.12,mmol/L,False
+224794,687872,Cholesterol,140.21,mg/dL,False
+503575,273329,Hemoglobin,5.71,g/dL,False
+854017,642334,Cholesterol,131.94,mmol/L,False
+523278,565808,Cholesterol,247.47,mmol/L,True
+287508,507369,Blood Sugar,Error,mg/dL,True
+864659,519595,Blood Sugar,128.97,mg/dL,False
+813068,638886,Hemoglobin,123.67,g/dL,False
+812265,449876,Hemoglobin,96.86,g/dL,False
+370669,882786,Vitamin D,116.32,nmol/L,True
+649276,201262,Cholesterol,68.9,mg/dL,False
+513718,905047,Cholesterol,Error,mg/dL,False
+633001,200053,Vitamin D,244.88,ng/mL,True
+291577,399548,Cholesterol,15.94,mg/dL,True
+981121,978183,Cholesterol,40.84,mmol/L,False
+810553,133567,Blood Sugar,38.13,mg/dL,True
+179008,825690,Cholesterol,90.08,mmol/L,False
+352343,825208,Blood Sugar,33.38,mg/dL,False
+331326,774059,Cholesterol,97.49,mg/dL,False
+267614,452999,Blood Sugar,181.63,mg/dL,True
+213198,369888,Cholesterol,21.25,mg/dL,True
+497333,261726,Blood Sugar,50.95,mmol/L,True
+819935,546955,Blood Sugar,149.84,mmol/L,True
+775194,391559,Cholesterol,137.91,mg/dL,True
+970424,633638,Vitamin D,27.02,ng/mL,True
+351250,624787,Vitamin D,24.41,ng/mL,True
+495828,340975,Hemoglobin,229.6,g/dL,False
+167269,751226,Cholesterol,119.7,mg/dL,True
+200003,144002,Hemoglobin,131.6,g/dL,True
+954609,309809,Cholesterol,45.63,mmol/L,True
+896180,512864,Blood Sugar,137.28,mmol/L,True
+784945,515374,Cholesterol,89.04,mg/dL,True
+744317,670564,Cholesterol,103.4,mg/dL,True
+319339,273571,Blood Sugar,169.84,mmol/L,False
+313226,436998,Blood Sugar,145.2,mmol/L,True
+715094,233930,Hemoglobin,137.65,g/dL,False
+455356,617351,Cholesterol,96.36,mg/dL,True
+617885,651176,Cholesterol,5.45,mg/dL,True
+989577,616844,Cholesterol,68.02,mmol/L,True
+771891,879490,Blood Sugar,217.56,mmol/L,False
+815639,261571,Cholesterol,10.67,mg/dL,True
+877658,993199,Blood Sugar,122.49,mmol/L,True
+950008,852545,Vitamin D,45.77,ng/mL,True
+586286,516721,Cholesterol,92.11,mmol/L,True
+540167,547908,Blood Sugar,248.75,mg/dL,False
+378727,716307,Vitamin D,61.95,nmol/L,True
+291934,739109,Blood Sugar,148.38,mg/dL,True
+486267,433434,Blood Sugar,100.36,mmol/L,True
+892444,301872,Cholesterol,124.53,mg/dL,False
+539017,876366,Blood Sugar,171.99,mmol/L,False
+108154,882371,Cholesterol,227.51,mg/dL,False
+149250,254460,Blood Sugar,97.57,mmol/L,True
+754688,508821,Cholesterol,240.52,mg/dL,True
+827973,130097,Blood Sugar,206.9,mmol/L,False
+887491,205748,Cholesterol,196.29,mg/dL,True
+228719,744650,Hemoglobin,45.79,g/dL,False
+367515,439958,Cholesterol,225.43,mg/dL,False
+139027,398272,Blood Sugar,63.44,mg/dL,True
+866082,827674,Vitamin D,112.88,ng/mL,False
+660805,745266,Blood Sugar,127.73,mg/dL,False
+786393,149529,Hemoglobin,19.33,g/dL,False
+457196,798103,Cholesterol,16.53,mmol/L,True
+238114,928868,Blood Sugar,242.89,mmol/L,False
+802431,933019,Blood Sugar,117.18,mg/dL,False
+420263,274263,Hemoglobin,220.54,g/dL,False
+532922,614188,Hemoglobin,30.77,g/dL,False
+726960,324549,Blood Sugar,116.87,mmol/L,True
+653531,871711,Blood Sugar,41.42,mg/dL,True
+441641,115616,Hemoglobin,100.45,g/dL,False
+219984,762201,Blood Sugar,213.12,mg/dL,True
+531203,830989,Blood Sugar,58.28,mg/dL,True
+298149,812031,Vitamin D,219.08,ng/mL,False
+255730,361228,Vitamin D,233.04,ng/mL,True
+260306,838327,Cholesterol,15.86,mg/dL,False
+980116,401967,Blood Sugar,Pending,mg/dL,False
+524793,973924,Blood Sugar,239.89,mg/dL,False
+628202,438345,Blood Sugar,214.14,mmol/L,False
+277836,675475,Cholesterol,153.46,mg/dL,True
+122783,116933,Cholesterol,147.71,mmol/L,True
+911337,779425,Cholesterol,Error,mg/dL,False
+269050,308011,Cholesterol,205.6,mg/dL,True
+565410,860707,Cholesterol,123.97,mg/dL,True
+742829,273616,Hemoglobin,98.0,g/dL,False
+752988,866985,Blood Sugar,Pending,mg/dL,True
+657617,337723,Vitamin D,131.06,nmol/L,True
+981626,852413,Blood Sugar,235.11,mmol/L,False
+385696,572184,Blood Sugar,168.85,mg/dL,True
+537089,426126,Blood Sugar,97.14,mmol/L,True
+805988,284377,Blood Sugar,235.44,mg/dL,False
+766983,499019,Blood Sugar,187.7,mmol/L,False
+254965,785101,Blood Sugar,6.72,mg/dL,True
+643532,752918,Blood Sugar,105.15,mg/dL,False
+763053,321958,Hemoglobin,181.87,g/dL,False
+454636,670911,Blood Sugar,198.39,mg/dL,True
+109201,840936,Hemoglobin,225.51,g/dL,False
+477277,541743,Cholesterol,140.58,mg/dL,False
+612799,436314,Hemoglobin,217.94,g/dL,False
+343745,306571,Blood Sugar,8.1,mg/dL,True
+112427,909188,Blood Sugar,168.55,mg/dL,True
+958389,246583,Cholesterol,15.49,mg/dL,True
+670274,865907,Hemoglobin,230.46,g/dL,True
+628212,283927,Blood Sugar,223.01,mg/dL,False
+947770,722333,Blood Sugar,244.11,mg/dL,False
+484386,458866,Hemoglobin,149.87,g/dL,False
+432737,852144,Blood Sugar,121.13,mg/dL,True
+675727,862561,Vitamin D,186.86,ng/mL,True
+605498,211831,Cholesterol,175.05,mmol/L,False
+985117,362332,Hemoglobin,103.08,g/dL,False
+368773,805893,Cholesterol,80.08,mmol/L,True
+115255,685466,Blood Sugar,8.85,mmol/L,True
+554965,654450,Hemoglobin,Error,g/dL,True
+111548,361189,Hemoglobin,Error,g/dL,True
+465280,935986,Vitamin D,226.67,ng/mL,False
+466932,318745,Blood Sugar,46.22,mmol/L,True
+228986,719699,Blood Sugar,239.48,mmol/L,True
+187915,702921,Cholesterol,160.82,mmol/L,True
+586865,137595,Cholesterol,Error,mg/dL,False
+679007,898353,Cholesterol,85.7,mmol/L,False
+544378,356736,Cholesterol,27.57,mg/dL,False
+249489,741344,Blood Sugar,177.03,mg/dL,False
+803163,735341,Cholesterol,145.08,mmol/L,True
+860487,864624,Blood Sugar,92.04,mmol/L,False
+246940,109883,Blood Sugar,159.07,mg/dL,False
+509709,776444,Blood Sugar,215.62,mmol/L,False
+913094,656520,Blood Sugar,13.6,mmol/L,False
+616808,240019,Cholesterol,12.39,mmol/L,True
+342827,661108,Cholesterol,126.09,mmol/L,True
+421744,806797,Blood Sugar,199.83,mmol/L,True
+683977,221565,Blood Sugar,90.57,mg/dL,True
+941738,463558,Hemoglobin,57.55,g/dL,True
+417362,941072,Blood Sugar,90.95,mmol/L,False
+907362,576488,Vitamin D,21.76,ng/mL,False
+911498,609285,Blood Sugar,226.33,mg/dL,False
+416253,280198,Blood Sugar,47.69,mmol/L,False
+819531,454370,Hemoglobin,3.76,g/dL,True
+119294,894446,Blood Sugar,3.12,mmol/L,False
+672208,398653,Vitamin D,90.57,ng/mL,False
+196868,191988,Blood Sugar,134.01,mg/dL,True
+601671,628790,Blood Sugar,172.6,mg/dL,False
+359845,463406,Cholesterol,117.92,mg/dL,True
+423925,413357,Hemoglobin,24.83,g/dL,True
+552009,997423,Blood Sugar,51.86,mmol/L,True
+649303,833633,Blood Sugar,176.62,mg/dL,False
+549506,778044,Cholesterol,178.91,mmol/L,False
+695804,611057,Vitamin D,163.46,nmol/L,True
+428847,124173,Hemoglobin,68.77,g/dL,True
+756286,619392,Blood Sugar,160.56,mmol/L,False
+331868,775312,Hemoglobin,191.64,g/dL,True
+780707,372226,Blood Sugar,79.07,mg/dL,True
+497137,865020,Blood Sugar,3.82,mg/dL,True
+633504,331951,Blood Sugar,149.31,mmol/L,False
+169109,182200,Cholesterol,228.13,mg/dL,True
+251157,325242,Cholesterol,15.65,mmol/L,False
+306098,856131,Blood Sugar,192.08,mg/dL,True
+122593,301872,Hemoglobin,223.18,g/dL,False
+259847,337672,Blood Sugar,89.89,mg/dL,True
+616778,510702,Blood Sugar,31.42,mg/dL,True
+836925,962645,Cholesterol,169.67,mmol/L,True
+287935,278781,Cholesterol,81.81,mg/dL,False
+727089,637261,Blood Sugar,64.64,mmol/L,False
+495199,752918,Blood Sugar,51.21,mmol/L,True
+490226,288802,Blood Sugar,Pending,mg/dL,True
+359646,311400,Hemoglobin,181.92,g/dL,False
+571134,888884,Cholesterol,105.55,mg/dL,True
+386855,634772,Blood Sugar,140.44,mg/dL,True
+608836,703674,Cholesterol,120.25,mg/dL,False
+473882,322673,Blood Sugar,205.52,mg/dL,False
+223053,570852,Cholesterol,30.38,mg/dL,True
+938395,828109,Cholesterol,39.36,mg/dL,False
+766180,851907,Hemoglobin,223.43,g/dL,True
+249622,993228,Blood Sugar,210.23,mmol/L,True
+792021,408491,Blood Sugar,Pending,mg/dL,True
+723779,462997,Blood Sugar,214.54,mg/dL,True
+626373,550304,Vitamin D,72.68,ng/mL,False
+252088,266053,Hemoglobin,162.54,g/dL,True
+692888,809082,Cholesterol,39.3,mg/dL,True
+419075,315770,Hemoglobin,106.67,g/dL,True
+139195,600121,Blood Sugar,224.54,mmol/L,False
+622766,162111,Hemoglobin,28.23,g/dL,True
+781993,225326,Vitamin D,219.61,ng/mL,True
+423497,235747,Blood Sugar,111.03,mmol/L,False
+235726,166994,Blood Sugar,196.77,mmol/L,True
+662202,704116,Blood Sugar,185.57,mmol/L,True
+580477,373752,Cholesterol,Pending,mg/dL,True
+833759,935649,Cholesterol,41.62,mmol/L,True
+548183,335248,Cholesterol,41.56,mmol/L,True
+333049,147801,Blood Sugar,14.29,mmol/L,False
+933164,964952,Hemoglobin,100.1,g/dL,False
+401052,739109,Vitamin D,219.87,nmol/L,True
+220327,312123,Blood Sugar,237.13,mg/dL,True
+826013,479885,Cholesterol,247.15,mg/dL,False
+748984,512908,Cholesterol,217.15,mmol/L,False
+170250,618101,Vitamin D,179.34,ng/mL,True
+345674,807312,Cholesterol,Pending,mg/dL,False
+613280,641290,Blood Sugar,161.73,mmol/L,False
+892005,253129,Blood Sugar,171.81,mmol/L,False
+864212,816999,Blood Sugar,196.72,mmol/L,False
+831622,988643,Cholesterol,75.81,mg/dL,True
+929246,674600,Blood Sugar,241.64,mmol/L,False
+997854,512493,Cholesterol,116.82,mg/dL,True
+441241,179392,Blood Sugar,243.18,mmol/L,False
+371084,464300,Blood Sugar,99.32,mmol/L,True
+379634,140874,Hemoglobin,146.47,g/dL,True
+718259,473373,Cholesterol,183.68,mmol/L,True
+446127,534984,Cholesterol,10.25,mg/dL,False
+858284,578511,Blood Sugar,29.89,mg/dL,False
+722463,293747,Hemoglobin,89.22,g/dL,True
+865496,939535,Blood Sugar,166.44,mg/dL,True
+611118,858493,Cholesterol,207.51,mg/dL,True
+803299,155857,Blood Sugar,Error,mmol/L,False
+488955,543115,Cholesterol,142.72,mmol/L,True
+832650,734128,Blood Sugar,133.7,mg/dL,True
+844839,524254,Cholesterol,192.44,mg/dL,False
+152687,839742,Cholesterol,33.98,mmol/L,True
+862792,444130,Blood Sugar,136.98,mmol/L,True
+766089,144331,Cholesterol,221.96,mmol/L,False
+890926,663847,Hemoglobin,158.48,g/dL,False
+935649,371255,Cholesterol,223.28,mg/dL,False
+485634,416180,Cholesterol,16.88,mg/dL,True
+458579,953154,Hemoglobin,217.34,g/dL,True
+883381,448182,Blood Sugar,223.87,mg/dL,False
+822887,399092,Blood Sugar,99.04,mmol/L,False
+862016,670710,Cholesterol,153.45,mg/dL,False
+494498,620286,Blood Sugar,147.74,mmol/L,False
+414146,462140,Cholesterol,66.6,mg/dL,True
+742110,781874,Blood Sugar,76.48,mg/dL,True
+418407,815327,Cholesterol,247.86,mmol/L,True
+159477,707707,Hemoglobin,224.19,g/dL,False
+429700,812772,Cholesterol,43.98,mg/dL,False
+760340,491412,Hemoglobin,152.35,g/dL,False
+505765,981487,Blood Sugar,11.78,mg/dL,True
+843183,338272,Hemoglobin,222.92,g/dL,False
+973310,516843,Cholesterol,116.56,mg/dL,False
+809474,407375,Cholesterol,155.27,mmol/L,True
+290812,510210,Blood Sugar,246.74,mg/dL,False
+913260,219178,Hemoglobin,26.66,g/dL,False
+985784,104743,Blood Sugar,Error,mmol/L,False
+405942,670141,Hemoglobin,69.45,g/dL,True
+629244,815348,Cholesterol,133.9,mg/dL,False
+437276,783475,Cholesterol,Pending,mg/dL,True
+194593,351547,Blood Sugar,135.05,mmol/L,True
+786555,109489,Hemoglobin,137.77,g/dL,True
+203323,704565,Blood Sugar,30.51,mg/dL,False
+455491,516721,Vitamin D,29.51,ng/mL,True
+980587,347425,Blood Sugar,87.03,mg/dL,True
+313490,756805,Hemoglobin,116.47,g/dL,True
+539764,341230,Hemoglobin,113.36,g/dL,True
+525369,914660,Blood Sugar,112.79,mmol/L,True
+488678,658852,Hemoglobin,227.97,g/dL,False
+676691,674158,Hemoglobin,102.15,g/dL,True
+909232,601656,Hemoglobin,152.13,g/dL,True
+805480,439958,Cholesterol,158.37,mg/dL,True
+565543,221279,Blood Sugar,15.62,mmol/L,True
+443605,500033,Blood Sugar,207.16,mg/dL,False
+540120,307945,Cholesterol,195.09,mmol/L,True
+569659,133212,Hemoglobin,235.39,g/dL,True
+753437,451682,Blood Sugar,169.26,mmol/L,False
+110538,732294,Blood Sugar,Error,mg/dL,True
+402961,792605,Hemoglobin,22.21,g/dL,True
+584985,658754,Blood Sugar,86.75,mmol/L,False
+554571,675617,Hemoglobin,115.82,g/dL,False
+270155,133567,Hemoglobin,226.32,g/dL,False
+404183,190097,Cholesterol,200.38,mmol/L,True
+569660,885844,Blood Sugar,Pending,mg/dL,True
+850798,603622,Blood Sugar,61.56,mg/dL,False
+794820,307048,Hemoglobin,38.27,g/dL,True
+825061,540191,Blood Sugar,99.56,mg/dL,False
+602815,769944,Cholesterol,54.02,mg/dL,True
+872212,349123,Hemoglobin,78.37,g/dL,True
+343197,431385,Blood Sugar,23.64,mmol/L,False
+163311,156051,Vitamin D,161.82,nmol/L,True
+135810,786496,Hemoglobin,21.83,g/dL,True
+472501,562057,Blood Sugar,217.67,mmol/L,False
+426566,175668,Hemoglobin,61.4,g/dL,True
+116258,135533,Hemoglobin,103.98,g/dL,False
+792914,795795,Vitamin D,141.95,ng/mL,True
+211173,454890,Cholesterol,69.03,mg/dL,False
+238814,240957,Hemoglobin,8.62,g/dL,False
+722129,237601,Cholesterol,4.18,mg/dL,False
+404609,100759,Blood Sugar,9.03,mmol/L,True
+309288,623083,Hemoglobin,73.66,g/dL,False
+535479,353349,Blood Sugar,60.05,mg/dL,False
+576538,254936,Hemoglobin,192.56,g/dL,False
+731170,827674,Blood Sugar,81.03,mg/dL,False
+254146,961734,Blood Sugar,89.56,mg/dL,True
+440151,867321,Blood Sugar,123.21,mg/dL,True
+403446,366522,Blood Sugar,233.24,mmol/L,True
+408887,541984,Cholesterol,42.42,mg/dL,False
+432119,560451,Blood Sugar,94.58,mg/dL,False
+967733,356768,Blood Sugar,131.28,mg/dL,True
+266254,994328,Blood Sugar,Pending,mmol/L,False
+497086,449740,Hemoglobin,219.5,g/dL,False
+155802,265918,Cholesterol,69.43,mmol/L,True
+967023,862340,Hemoglobin,31.44,g/dL,True
+935233,930823,Hemoglobin,51.41,g/dL,True
+679099,723167,Blood Sugar,62.76,mmol/L,False
+389230,312769,Cholesterol,134.05,mg/dL,False
+951717,210136,Cholesterol,225.87,mg/dL,True
+832837,941990,Hemoglobin,Error,g/dL,False
+533072,502750,Cholesterol,16.65,mmol/L,False
+889432,663134,Hemoglobin,223.29,g/dL,True
+114892,453024,Cholesterol,Pending,mg/dL,False
+529741,116720,Blood Sugar,216.4,mmol/L,True
+369756,804007,Cholesterol,140.18,mmol/L,False
+942443,941990,Vitamin D,67.62,ng/mL,True
+422811,312451,Blood Sugar,79.24,mmol/L,True
+617704,866143,Cholesterol,229.06,mmol/L,True
+552145,334822,Blood Sugar,241.65,mg/dL,True
+901146,185070,Vitamin D,112.55,nmol/L,True
+815714,670821,Blood Sugar,49.83,mmol/L,True
+842031,104099,Hemoglobin,241.3,g/dL,False
+157696,340677,Cholesterol,189.38,mg/dL,True
+475014,335404,Hemoglobin,220.81,g/dL,True
+194061,973719,Hemoglobin,173.48,g/dL,False
+665246,128382,Blood Sugar,82.82,mg/dL,False
+557013,638428,Blood Sugar,48.57,mmol/L,True
+449137,835192,Hemoglobin,137.22,g/dL,True
+515359,636858,Blood Sugar,126.34,mmol/L,False
+752205,226141,Vitamin D,48.73,ng/mL,False
+920756,912824,Hemoglobin,119.13,g/dL,False
+902778,222504,Hemoglobin,219.83,g/dL,False
+529218,666554,Hemoglobin,127.12,g/dL,True
+489552,312386,Blood Sugar,126.61,mmol/L,False
+739933,797312,Cholesterol,176.9,mmol/L,False
+798200,885844,Vitamin D,33.33,ng/mL,True
+251602,533696,Vitamin D,Pending,ng/mL,False
+531545,359658,Vitamin D,244.95,nmol/L,False
+955440,982950,Cholesterol,108.53,mg/dL,False
+519706,832719,Cholesterol,127.29,mmol/L,True
+773752,465484,Hemoglobin,125.53,g/dL,True
+604522,923039,Blood Sugar,142.71,mg/dL,True
+205737,951532,Blood Sugar,3.69,mmol/L,False
+172944,218367,Cholesterol,160.5,mg/dL,True
+742187,586806,Vitamin D,165.61,ng/mL,False
+839654,852709,Vitamin D,96.12,ng/mL,True
+258386,212654,Blood Sugar,235.46,mg/dL,True
+572842,937100,Cholesterol,70.02,mg/dL,True
+609855,807312,Hemoglobin,67.33,g/dL,True
+781119,768957,Blood Sugar,30.48,mmol/L,True
+401607,936313,Hemoglobin,228.79,g/dL,True
+555720,605724,Cholesterol,110.06,mmol/L,False
+873616,346988,Blood Sugar,70.29,mg/dL,False
+212411,799343,Cholesterol,76.12,mmol/L,True
+542783,771799,Blood Sugar,211.04,mmol/L,True
+877120,124173,Cholesterol,110.23,mg/dL,False
+958819,463701,Hemoglobin,152.96,g/dL,False
+851344,941357,Cholesterol,126.36,mg/dL,False
+340853,499019,Cholesterol,175.96,mmol/L,True
+158323,656824,Blood Sugar,211.76,mmol/L,True
+902058,795782,Blood Sugar,26.18,mg/dL,False
+455806,335404,Blood Sugar,193.39,mg/dL,False
+987197,147822,Hemoglobin,154.98,g/dL,True
+671385,914509,Vitamin D,181.41,nmol/L,True
+180022,405187,Blood Sugar,170.42,mmol/L,True
+139636,838858,Blood Sugar,102.09,mmol/L,True
+184715,424648,Cholesterol,200.58,mg/dL,False
+366517,506426,Hemoglobin,106.58,g/dL,False
+184373,947696,Blood Sugar,131.56,mmol/L,False
+312039,127666,Blood Sugar,48.61,mmol/L,False
+567449,229187,Cholesterol,62.21,mmol/L,False
+853494,389862,Blood Sugar,69.7,mg/dL,False
+207032,719593,Blood Sugar,82.36,mg/dL,True
+287343,768306,Blood Sugar,229.87,mmol/L,True
+943498,436551,Blood Sugar,224.3,mmol/L,True
+334892,617899,Blood Sugar,235.39,mg/dL,False
+278961,483456,Blood Sugar,25.09,mg/dL,False
+557422,841943,Cholesterol,75.57,mg/dL,False
+170755,444774,Blood Sugar,57.31,mmol/L,False
+633290,732534,Hemoglobin,174.53,g/dL,True
+259169,308778,Blood Sugar,30.57,mg/dL,False
+664423,546375,Blood Sugar,206.92,mg/dL,True
+788135,640744,Blood Sugar,107.59,mmol/L,True
+104771,369462,Blood Sugar,87.68,mg/dL,False
+798775,785055,Cholesterol,27.53,mg/dL,True
+916907,682350,Hemoglobin,134.87,g/dL,False
+846010,944254,Blood Sugar,148.9,mg/dL,True
+699772,779425,Hemoglobin,31.45,g/dL,False
+773660,892771,Blood Sugar,93.98,mmol/L,True
+515618,822115,Hemoglobin,98.41,g/dL,True
+740056,185336,Hemoglobin,5.67,g/dL,True
+441909,907788,Blood Sugar,171.93,mmol/L,True
+662804,837391,Vitamin D,105.01,ng/mL,False
+299817,994966,Blood Sugar,63.34,mg/dL,True
+261309,292484,Blood Sugar,68.64,mmol/L,True
+846404,725347,Cholesterol,75.99,mg/dL,False
+869624,974312,Hemoglobin,49.28,g/dL,True
+801547,548614,Cholesterol,192.68,mg/dL,True
+911581,501951,Cholesterol,11.29,mg/dL,True
+903183,877442,Cholesterol,55.96,mg/dL,True
+550704,595893,Blood Sugar,36.56,mg/dL,False
+577519,734199,Hemoglobin,108.46,g/dL,False
+929840,580097,Blood Sugar,14.97,mmol/L,False
+871293,341053,Hemoglobin,158.66,g/dL,True
+599684,602816,Blood Sugar,106.65,mmol/L,True
+243415,212910,Hemoglobin,174.06,g/dL,False
+329317,881304,Cholesterol,218.92,mg/dL,False
+393256,809082,Hemoglobin,Error,g/dL,True
+695181,369121,Blood Sugar,115.14,mmol/L,False
+677566,654965,Blood Sugar,190.15,mmol/L,True
+320245,752881,Hemoglobin,Pending,g/dL,True
+112639,930583,Blood Sugar,Error,mmol/L,True
+293976,941840,Blood Sugar,70.76,mmol/L,True
+389455,199454,Cholesterol,124.9,mg/dL,False
+400761,413763,Cholesterol,Pending,mmol/L,False
+257739,365463,Vitamin D,39.0,nmol/L,False
+927714,705005,Hemoglobin,74.2,g/dL,False
+911001,704705,Blood Sugar,150.06,mmol/L,True
+197800,623637,Vitamin D,Pending,nmol/L,True
+513417,963915,Blood Sugar,192.6,mg/dL,True
+994022,959747,Cholesterol,168.85,mmol/L,False
+834581,552807,Cholesterol,211.44,mmol/L,False
+618060,119024,Cholesterol,5.78,mg/dL,False
+349283,741714,Hemoglobin,80.22,g/dL,True
+406785,818425,Hemoglobin,37.77,g/dL,False
+755119,358674,Hemoglobin,192.67,g/dL,False
+390752,309821,Cholesterol,43.96,mmol/L,True
+951174,704611,Cholesterol,12.92,mmol/L,False
+725318,684927,Blood Sugar,129.52,mmol/L,True
+170510,251814,Blood Sugar,41.76,mmol/L,False
+836715,507045,Vitamin D,130.18,nmol/L,True
+425125,231524,Hemoglobin,175.08,g/dL,False
+587747,520862,Cholesterol,142.37,mg/dL,True
+909155,242918,Blood Sugar,127.6,mg/dL,True
+863822,143506,Hemoglobin,41.32,g/dL,True
+915200,882249,Blood Sugar,6.85,mmol/L,True
+571510,245257,Hemoglobin,126.45,g/dL,False
+488617,429010,Blood Sugar,43.57,mg/dL,False
+746128,211073,Cholesterol,209.23,mmol/L,True
+823439,102576,Cholesterol,80.96,mg/dL,False
+245992,176222,Blood Sugar,26.47,mg/dL,False
+603012,354216,Blood Sugar,151.15,mmol/L,False
+458314,981487,Cholesterol,227.34,mmol/L,True
+437691,903160,Blood Sugar,165.58,mmol/L,False
+271029,144331,Blood Sugar,51.61,mg/dL,True
+982275,452730,Cholesterol,13.08,mmol/L,False
+977326,496375,Vitamin D,146.37,ng/mL,False
+152905,356719,Cholesterol,93.23,mmol/L,True
+242360,579735,Cholesterol,3.36,mg/dL,True
+197632,952222,Hemoglobin,71.07,g/dL,False
+361406,740075,Cholesterol,41.04,mmol/L,False
+834400,587074,Blood Sugar,8.47,mg/dL,True
+389952,683835,Blood Sugar,182.25,mg/dL,False
+964416,821119,Cholesterol,178.02,mg/dL,True
+218796,450232,Cholesterol,162.22,mg/dL,False
+630540,964754,Blood Sugar,238.95,mg/dL,False
+269404,574030,Cholesterol,99.97,mg/dL,True
+668210,157318,Vitamin D,10.71,nmol/L,False
+914755,398701,Blood Sugar,24.01,mmol/L,True
+491883,825918,Blood Sugar,96.06,mg/dL,False
+363495,591018,Cholesterol,222.46,mg/dL,False
+916610,961968,Blood Sugar,216.81,mg/dL,True
+711516,316317,Blood Sugar,168.32,mg/dL,False
+482145,322736,Vitamin D,Error,ng/mL,False
+397577,675603,Hemoglobin,124.71,g/dL,False
+262526,222881,Cholesterol,148.96,mg/dL,True
+530489,496981,Cholesterol,195.0,mmol/L,False
+551238,372785,Blood Sugar,157.98,mg/dL,True
+912327,168888,Cholesterol,111.71,mmol/L,True
+984727,512885,Blood Sugar,131.36,mg/dL,False
+333760,827492,Cholesterol,48.02,mmol/L,False
+281396,405097,Blood Sugar,129.0,mg/dL,False
+661511,828479,Vitamin D,197.0,ng/mL,True
+906597,788441,Hemoglobin,46.91,g/dL,True
+264879,163498,Cholesterol,Error,mg/dL,False
+410186,994966,Blood Sugar,71.84,mg/dL,False
+875029,634778,Blood Sugar,248.51,mg/dL,True
+776752,492074,Hemoglobin,120.69,g/dL,False
+811481,620286,Vitamin D,213.54,nmol/L,False
+646930,177550,Cholesterol,50.85,mg/dL,False
+638476,212083,Cholesterol,39.16,mg/dL,True
+276567,499798,Vitamin D,9.34,nmol/L,False
+762039,220501,Blood Sugar,143.72,mg/dL,True
+979380,221455,Cholesterol,124.08,mg/dL,True
+690796,904625,Cholesterol,216.71,mg/dL,True
+494862,664681,Blood Sugar,80.02,mg/dL,True
+756821,392193,Hemoglobin,77.47,g/dL,True
+801979,703674,Blood Sugar,27.82,mmol/L,True
+454973,298656,Blood Sugar,202.83,mg/dL,True
+385655,913857,Cholesterol,172.96,mg/dL,True
+918884,201604,Blood Sugar,224.32,mg/dL,True
+590470,675263,Cholesterol,235.1,mg/dL,True
+954218,206768,Blood Sugar,23.42,mg/dL,False
+720872,924071,Vitamin D,214.29,nmol/L,False
+870115,877442,Vitamin D,226.79,ng/mL,False
+229896,910122,Vitamin D,124.98,ng/mL,False
+779048,105251,Blood Sugar,225.58,mg/dL,False
+854793,533555,Blood Sugar,56.7,mmol/L,False
+744918,342191,Vitamin D,71.95,nmol/L,True
+693113,244992,Hemoglobin,177.21,g/dL,False
+599292,247172,Blood Sugar,196.33,mg/dL,False
+967691,668427,Cholesterol,122.8,mmol/L,True
+904395,108285,Cholesterol,115.12,mmol/L,True
+279432,496282,Blood Sugar,157.62,mmol/L,False
+541712,725347,Cholesterol,187.56,mmol/L,True
+320633,779778,Cholesterol,124.12,mg/dL,False
+697093,838749,Blood Sugar,39.47,mg/dL,True
+757661,211073,Blood Sugar,244.3,mg/dL,False
+136784,189045,Cholesterol,241.82,mg/dL,False
+605849,138449,Blood Sugar,122.57,mg/dL,True
+827977,763121,Blood Sugar,140.77,mmol/L,True
+143654,125862,Hemoglobin,151.23,g/dL,True
+132960,314840,Blood Sugar,247.9,mmol/L,True
+389309,235747,Cholesterol,10.19,mmol/L,True
+572386,252692,Vitamin D,102.28,ng/mL,False
+930696,777717,Cholesterol,174.57,mmol/L,True
+183162,779245,Cholesterol,30.92,mg/dL,False
+807335,952919,Cholesterol,208.12,mg/dL,False
+733912,653871,Blood Sugar,Error,mg/dL,True
+163028,806262,Blood Sugar,174.01,mmol/L,True
+423773,779245,Vitamin D,198.53,nmol/L,True
+391483,142320,Blood Sugar,192.91,mg/dL,True
+610264,448781,Blood Sugar,19.56,mmol/L,True
+357238,153389,Blood Sugar,21.15,mg/dL,False
+275864,609285,Hemoglobin,240.17,g/dL,False
+490624,182067,Cholesterol,232.26,mmol/L,True
+965482,631070,Blood Sugar,138.78,mg/dL,False
+997703,299213,Cholesterol,69.42,mg/dL,False
+454744,768154,Hemoglobin,82.62,g/dL,True
+353836,526977,Hemoglobin,242.87,g/dL,False
+736648,769944,Blood Sugar,47.1,mmol/L,True
+169233,810336,Blood Sugar,228.56,mg/dL,False
+316717,281917,Blood Sugar,134.3,mg/dL,False
+431966,266492,Blood Sugar,71.93,mg/dL,True
+472408,815148,Vitamin D,195.29,ng/mL,True
+253208,626603,Blood Sugar,206.39,mmol/L,False
+803607,917383,Cholesterol,165.42,mg/dL,False
+248227,250196,Hemoglobin,70.8,g/dL,True
+378927,101562,Blood Sugar,Pending,mg/dL,False
+824944,880373,Blood Sugar,246.33,mmol/L,False
+845985,266492,Blood Sugar,104.5,mg/dL,True
+281685,285057,Blood Sugar,105.64,mmol/L,True
+844133,489771,Hemoglobin,182.43,g/dL,True
+734374,210967,Cholesterol,168.19,mmol/L,True
+899188,216622,Cholesterol,102.97,mg/dL,False
+423595,768306,Cholesterol,106.21,mmol/L,False
+595502,293747,Cholesterol,210.52,mmol/L,True
+378756,975864,Vitamin D,126.15,nmol/L,True
+184286,996470,Hemoglobin,228.42,g/dL,True
+610594,130991,Blood Sugar,106.19,mg/dL,False
+252869,337648,Cholesterol,58.77,mg/dL,False
+333564,563637,Blood Sugar,142.41,mmol/L,False
+689257,384705,Hemoglobin,162.37,g/dL,False
+454873,550562,Cholesterol,64.76,mg/dL,True
+209662,542802,Blood Sugar,183.1,mmol/L,False
+292491,469591,Blood Sugar,67.46,mmol/L,True
+652317,947070,Cholesterol,44.79,mmol/L,True
+341245,599472,Vitamin D,64.44,ng/mL,True
+684144,706534,Blood Sugar,225.64,mmol/L,False
+765748,288151,Blood Sugar,83.97,mmol/L,True
+914488,111647,Cholesterol,197.25,mmol/L,False
+735787,620286,Blood Sugar,95.19,mmol/L,False
+724787,997469,Blood Sugar,Error,mg/dL,False
+833226,238695,Blood Sugar,111.48,mmol/L,True
+374604,519595,Blood Sugar,72.94,mmol/L,True
+232383,501464,Blood Sugar,171.96,mmol/L,True
+553702,563094,Cholesterol,105.95,mmol/L,False
+853559,951871,Vitamin D,7.63,nmol/L,False
+170150,799343,Cholesterol,200.38,mmol/L,True
+512485,951871,Blood Sugar,154.06,mmol/L,False
+691970,858781,Blood Sugar,150.58,mmol/L,True
+394863,328437,Blood Sugar,Error,mmol/L,False
+954709,391707,Blood Sugar,215.28,mg/dL,True
+925612,258511,Cholesterol,104.4,mmol/L,False
+103974,127577,Blood Sugar,Error,mmol/L,True
+749881,449740,Vitamin D,244.77,nmol/L,True
+634778,505786,Blood Sugar,141.96,mg/dL,True
+228274,918265,Hemoglobin,197.32,g/dL,True
+613283,180540,Blood Sugar,198.87,mg/dL,True
+980004,267958,Cholesterol,147.6,mg/dL,False
+593377,798799,Cholesterol,238.86,mg/dL,False
+628857,937922,Blood Sugar,202.48,mmol/L,False
+940720,462912,Hemoglobin,81.29,g/dL,False
+558859,243414,Vitamin D,47.67,nmol/L,False
+204977,262611,Hemoglobin,36.96,g/dL,True
+831704,449957,Cholesterol,68.89,mg/dL,False
+713252,807168,Blood Sugar,234.03,mmol/L,True
+923442,108842,Blood Sugar,55.15,mg/dL,False
+169285,314386,Cholesterol,86.09,mg/dL,True
+586616,165821,Blood Sugar,139.44,mmol/L,True
+201860,832535,Blood Sugar,155.51,mmol/L,True
+500973,615705,Cholesterol,217.9,mmol/L,True
+104479,681815,Cholesterol,52.48,mmol/L,False
+294363,600058,Hemoglobin,177.37,g/dL,False
+758091,556745,Blood Sugar,89.62,mmol/L,False
+525156,991069,Blood Sugar,17.17,mmol/L,True
+897886,552185,Cholesterol,10.37,mmol/L,True
+687832,754799,Hemoglobin,224.5,g/dL,False
+666849,533711,Blood Sugar,106.89,mmol/L,True
+573911,401819,Hemoglobin,39.75,g/dL,False
+949607,204980,Hemoglobin,12.34,g/dL,True
+526849,916189,Blood Sugar,74.86,mmol/L,True
+480376,542721,Vitamin D,203.11,nmol/L,False
+111044,241087,Hemoglobin,220.16,g/dL,True
+797787,693853,Vitamin D,195.38,ng/mL,False
+453701,400454,Blood Sugar,Pending,mmol/L,False
+558518,247532,Hemoglobin,49.15,g/dL,False
+809330,412419,Blood Sugar,76.53,mg/dL,True
+836558,163405,Vitamin D,216.65,nmol/L,False
+633214,249091,Blood Sugar,200.82,mmol/L,False
+245188,666108,Cholesterol,178.65,mmol/L,True
+292443,978558,Vitamin D,148.64,nmol/L,False
+895932,875630,Blood Sugar,108.04,mmol/L,False
+715501,411581,Cholesterol,182.99,mg/dL,True
+884486,571773,Cholesterol,232.88,mmol/L,False
+448900,549582,Hemoglobin,124.78,g/dL,True
+335817,204980,Hemoglobin,146.19,g/dL,False
+119874,126077,Cholesterol,15.59,mg/dL,True
+267344,916833,Cholesterol,128.59,mg/dL,False
+453938,858348,Blood Sugar,10.72,mmol/L,True
+680955,162128,Cholesterol,117.9,mg/dL,True
+565341,247147,Blood Sugar,64.22,mg/dL,False
+779001,497009,Hemoglobin,53.44,g/dL,True
+413572,597567,Blood Sugar,28.91,mmol/L,False
+532770,680425,Cholesterol,10.55,mg/dL,False
+379631,234512,Cholesterol,113.86,mmol/L,True
+544965,946057,Vitamin D,48.25,ng/mL,False
+511421,325101,Vitamin D,209.55,ng/mL,True
+626182,914845,Cholesterol,39.75,mmol/L,True
+177180,281277,Cholesterol,214.75,mg/dL,True
+837095,859019,Cholesterol,174.28,mmol/L,True
+273599,685009,Blood Sugar,241.54,mmol/L,False
+255662,487909,Hemoglobin,203.97,g/dL,True
+245446,441382,Blood Sugar,191.17,mg/dL,False
+348989,495881,Hemoglobin,147.88,g/dL,False
+792912,202179,Hemoglobin,174.96,g/dL,True
+611585,680476,Blood Sugar,104.15,mmol/L,True
+539226,298656,Hemoglobin,92.76,g/dL,False
+203443,939219,Blood Sugar,36.55,mg/dL,False
+791301,342191,Hemoglobin,64.87,g/dL,False
+152408,664681,Vitamin D,217.78,ng/mL,False
+349206,630036,Cholesterol,8.41,mg/dL,True
+106664,706700,Cholesterol,32.85,mg/dL,False
+651582,458230,Vitamin D,51.39,ng/mL,False
+231245,730280,Hemoglobin,243.05,g/dL,False
+639904,670141,Vitamin D,111.47,ng/mL,False
+621759,112562,Blood Sugar,149.75,mg/dL,True
+222858,901512,Blood Sugar,6.13,mmol/L,True
+655081,827048,Hemoglobin,114.75,g/dL,False
+526416,354894,Cholesterol,180.95,mmol/L,True
+807167,989360,Blood Sugar,72.76,mg/dL,True
+885187,905047,Blood Sugar,183.62,mg/dL,True
+558831,261654,Blood Sugar,10.46,mmol/L,False
+442338,124601,Cholesterol,54.9,mg/dL,True
+989099,323634,Blood Sugar,158.83,mmol/L,True
+390594,964952,Blood Sugar,169.78,mg/dL,False
+515679,187203,Cholesterol,34.54,mg/dL,False
+564160,769975,Cholesterol,172.17,mg/dL,True
+382523,692148,Cholesterol,146.28,mg/dL,False
+197917,718935,Vitamin D,206.88,ng/mL,False
+891251,163730,Cholesterol,190.77,mg/dL,True
+279589,222000,Blood Sugar,222.15,mg/dL,True
+475370,722240,Cholesterol,89.02,mg/dL,True
+947205,270220,Hemoglobin,77.68,g/dL,True
+827736,203377,Hemoglobin,116.44,g/dL,True
+895369,624146,Cholesterol,120.73,mmol/L,False
+675077,215866,Blood Sugar,117.67,mmol/L,True
+443137,810640,Vitamin D,237.78,nmol/L,False
+650395,455427,Blood Sugar,88.54,mg/dL,True
+849495,325101,Blood Sugar,217.74,mg/dL,False
+881389,612788,Blood Sugar,180.05,mg/dL,True
+209364,658852,Vitamin D,188.25,ng/mL,False
+744602,330030,Blood Sugar,173.69,mg/dL,False
+851612,478904,Blood Sugar,154.96,mmol/L,False
+228406,521791,Vitamin D,58.82,ng/mL,False
+989388,160784,Hemoglobin,67.42,g/dL,False
+723179,417072,Vitamin D,122.46,ng/mL,True
+637113,174693,Blood Sugar,49.99,mmol/L,True
+692827,226485,Cholesterol,46.65,mmol/L,True
+839412,740993,Cholesterol,246.52,mmol/L,False
+242756,947696,Blood Sugar,235.32,mg/dL,False
+125203,817621,Cholesterol,26.76,mmol/L,True
+328460,735860,Cholesterol,24.8,mmol/L,True
+920179,472761,Blood Sugar,123.79,mg/dL,False
+268539,147822,Blood Sugar,47.15,mmol/L,True
+259140,539677,Blood Sugar,28.09,mg/dL,False
+578151,397507,Cholesterol,247.53,mg/dL,False
+185557,656419,Cholesterol,62.5,mmol/L,False
+493019,837589,Cholesterol,119.24,mg/dL,True
+423934,430599,Blood Sugar,76.87,mg/dL,False
+613027,856668,Blood Sugar,245.21,mg/dL,False
+638784,871057,Hemoglobin,157.27,g/dL,False
+408405,585744,Cholesterol,133.8,mg/dL,False
+431314,458866,Blood Sugar,249.01,mmol/L,False
+286179,939683,Blood Sugar,87.18,mg/dL,True
+228509,335715,Blood Sugar,106.63,mg/dL,False
+953288,229187,Cholesterol,239.74,mg/dL,False
+444398,795381,Blood Sugar,66.12,mmol/L,True
+434662,699206,Hemoglobin,117.84,g/dL,False
+140495,670821,Blood Sugar,217.38,mmol/L,True
+183267,887854,Blood Sugar,46.16,mg/dL,True
+772989,949434,Hemoglobin,220.81,g/dL,True
+345575,800690,Blood Sugar,240.39,mmol/L,False
+659767,347425,Blood Sugar,156.55,mg/dL,True
+898005,341543,Cholesterol,132.48,mmol/L,True
+348263,176009,Vitamin D,157.71,nmol/L,True
+439303,263981,Blood Sugar,149.71,mmol/L,True
+855064,754779,Blood Sugar,222.41,mg/dL,False
+647678,526476,Cholesterol,147.83,mg/dL,False
+237499,645528,Hemoglobin,210.5,g/dL,True
+756876,605807,Hemoglobin,12.65,g/dL,True
+762248,374049,Blood Sugar,27.36,mmol/L,False
+314112,519687,Vitamin D,161.98,ng/mL,True
+424215,415267,Blood Sugar,167.37,mg/dL,True
+141090,475874,Cholesterol,63.36,mg/dL,False
+311403,191830,Cholesterol,69.82,mg/dL,True
+846385,550219,Vitamin D,55.19,nmol/L,True
+554314,856668,Hemoglobin,43.12,g/dL,False
+729882,634982,Hemoglobin,151.17,g/dL,False
+194068,199454,Hemoglobin,93.75,g/dL,True
+780065,745598,Cholesterol,94.16,mg/dL,True
+759670,334593,Blood Sugar,231.55,mg/dL,True
+331010,656520,Hemoglobin,65.64,g/dL,False
+872355,540734,Cholesterol,70.07,mg/dL,True
+495093,913857,Hemoglobin,216.05,g/dL,False
+428852,590080,Blood Sugar,128.64,mg/dL,True
+408889,242918,Hemoglobin,196.0,g/dL,False
+420700,447497,Hemoglobin,20.73,g/dL,False
+579752,661108,Blood Sugar,128.67,mg/dL,True
+834681,212097,Cholesterol,89.33,mmol/L,True
+572903,725967,Vitamin D,91.15,ng/mL,True
+505038,875764,Blood Sugar,184.82,mg/dL,True
+552913,943724,Hemoglobin,39.65,g/dL,False
+168141,687132,Blood Sugar,16.45,mmol/L,False
+591576,568458,Hemoglobin,154.01,g/dL,False
+455582,487909,Blood Sugar,173.67,mg/dL,True
+746582,602653,Blood Sugar,27.64,mg/dL,True
+238624,910000,Cholesterol,112.32,mg/dL,True
+752275,419700,Vitamin D,66.47,nmol/L,True
+132230,445424,Blood Sugar,38.83,mmol/L,True
+592089,692319,Cholesterol,233.73,mg/dL,True
+382178,344619,Blood Sugar,138.03,mmol/L,True
+569710,981641,Vitamin D,28.08,nmol/L,True
+112587,591018,Blood Sugar,65.98,mmol/L,False
+956879,610584,Hemoglobin,216.95,g/dL,False
+697284,653467,Cholesterol,16.0,mg/dL,True
+192046,982434,Blood Sugar,243.04,mg/dL,True
+326333,512908,Cholesterol,217.52,mg/dL,True
+890641,635820,Blood Sugar,105.61,mg/dL,False
+714656,277023,Cholesterol,89.72,mg/dL,False
+167047,499726,Cholesterol,34.34,mmol/L,False
+961555,858884,Cholesterol,18.17,mmol/L,False
+155541,342092,Hemoglobin,51.64,g/dL,False
+183479,114272,Hemoglobin,58.93,g/dL,True
+848804,639908,Cholesterol,13.7,mmol/L,False
+906407,825757,Cholesterol,164.88,mg/dL,True
+461553,325913,Hemoglobin,Error,g/dL,False
+885754,343269,Cholesterol,215.25,mmol/L,False
+446505,211403,Blood Sugar,Error,mg/dL,False
+704453,835198,Vitamin D,238.1,nmol/L,True
+701831,587977,Vitamin D,28.68,nmol/L,False
+339480,464033,Hemoglobin,120.28,g/dL,True
+494345,909844,Blood Sugar,27.45,mmol/L,True
+537320,233930,Vitamin D,47.7,ng/mL,True
+651189,874594,Vitamin D,131.15,nmol/L,False
+146950,231358,Cholesterol,21.38,mg/dL,True
+757703,284678,Cholesterol,Pending,mg/dL,False
+488735,756304,Hemoglobin,55.59,g/dL,False
+742990,316277,Cholesterol,174.81,mmol/L,True
+346881,306352,Hemoglobin,Error,g/dL,False
+601079,205935,Hemoglobin,Error,g/dL,False
+916148,566529,Cholesterol,153.81,mg/dL,False
+525611,753152,Hemoglobin,218.21,g/dL,False
+456133,542563,Cholesterol,86.1,mmol/L,True
+425142,307847,Cholesterol,93.24,mg/dL,False
+364110,412744,Cholesterol,41.27,mmol/L,True
+802396,515036,Cholesterol,245.15,mg/dL,False
+849449,232904,Hemoglobin,218.38,g/dL,True
+733334,957942,Blood Sugar,226.29,mmol/L,False
+588172,165821,Hemoglobin,11.32,g/dL,False
+516387,987208,Blood Sugar,193.23,mmol/L,False
+877716,311807,Cholesterol,7.8,mg/dL,True
+241508,338238,Blood Sugar,26.54,mmol/L,False
+567515,745598,Hemoglobin,52.21,g/dL,True
+338430,649327,Hemoglobin,Error,g/dL,True
+806621,800912,Blood Sugar,133.24,mmol/L,False
+195880,859162,Hemoglobin,244.67,g/dL,True
+101318,941357,Cholesterol,93.42,mmol/L,True
+906796,415732,Hemoglobin,176.0,g/dL,True
+701581,124482,Hemoglobin,79.54,g/dL,True
+335507,550938,Cholesterol,187.43,mmol/L,False
+675855,384705,Blood Sugar,178.38,mmol/L,False
+478205,138748,Hemoglobin,192.45,g/dL,True
+433200,778904,Vitamin D,101.49,ng/mL,False
+603061,983123,Cholesterol,63.7,mmol/L,False
+261679,918983,Cholesterol,41.23,mmol/L,True
+544160,976583,Blood Sugar,62.39,mg/dL,True
+383823,377555,Blood Sugar,196.22,mmol/L,False
+395658,331511,Hemoglobin,9.35,g/dL,False
+945377,498786,Vitamin D,64.86,nmol/L,True
+607817,172839,Cholesterol,234.86,mg/dL,False
+252071,196865,Cholesterol,30.59,mmol/L,False
+176227,931490,Vitamin D,248.12,nmol/L,False
+483474,406745,Cholesterol,78.67,mg/dL,True
+686312,408834,Cholesterol,163.76,mg/dL,True
+372497,636258,Cholesterol,219.74,mmol/L,False
+796164,904367,Hemoglobin,221.07,g/dL,True
+724843,101375,Cholesterol,96.79,mmol/L,True
+258560,148952,Blood Sugar,73.57,mg/dL,False
+526090,156051,Blood Sugar,115.09,mmol/L,True
+205717,708085,Blood Sugar,235.36,mmol/L,False
+946761,245900,Blood Sugar,214.16,mmol/L,False
+700175,410289,Hemoglobin,93.88,g/dL,True
+478567,948107,Vitamin D,111.74,nmol/L,False
+522499,632626,Vitamin D,177.22,ng/mL,True
+777847,260724,Vitamin D,128.14,ng/mL,False
+337004,810085,Hemoglobin,77.05,g/dL,False
+596881,777717,Cholesterol,174.23,mg/dL,False
+226624,935391,Hemoglobin,27.27,g/dL,False
+718827,315770,Hemoglobin,209.28,g/dL,False
+819642,446024,Hemoglobin,180.14,g/dL,True
+613612,247975,Hemoglobin,196.84,g/dL,True
+500727,395472,Hemoglobin,216.74,g/dL,False
+274522,968548,Cholesterol,18.0,mg/dL,True
+934987,969107,Cholesterol,Error,mmol/L,True
+411544,668676,Blood Sugar,190.74,mg/dL,True
+236312,788716,Cholesterol,59.31,mmol/L,True
+469202,144813,Blood Sugar,203.97,mmol/L,True
+949275,167164,Blood Sugar,135.96,mg/dL,True
+627039,104099,Blood Sugar,143.37,mmol/L,True
+501155,502676,Cholesterol,84.63,mg/dL,True
+220466,656419,Blood Sugar,236.04,mmol/L,False
+944170,947605,Hemoglobin,241.23,g/dL,True
+729016,142321,Hemoglobin,227.48,g/dL,False
+648182,304793,Blood Sugar,95.07,mg/dL,False
+293922,486177,Cholesterol,219.12,mg/dL,False
+228257,951532,Blood Sugar,202.26,mmol/L,True
+466973,626603,Cholesterol,Pending,mg/dL,True
+493004,743709,Blood Sugar,135.85,mmol/L,False
+590916,453141,Cholesterol,131.53,mg/dL,True
+497150,261617,Blood Sugar,49.48,mg/dL,False
+923228,562445,Cholesterol,196.2,mmol/L,True
+156548,441062,Cholesterol,146.92,mg/dL,True
+665390,630637,Hemoglobin,117.54,g/dL,True
+952024,682810,Cholesterol,179.62,mmol/L,True
+741227,248138,Blood Sugar,43.92,mmol/L,True
+725715,642532,Cholesterol,63.64,mmol/L,False
+338219,515801,Blood Sugar,31.78,mmol/L,False
+369347,337723,Blood Sugar,20.86,mg/dL,False
+182815,314915,Blood Sugar,78.61,mmol/L,False
+348303,968982,Cholesterol,Pending,mg/dL,True
+987534,231358,Blood Sugar,82.13,mg/dL,False
+847506,452560,Cholesterol,173.56,mg/dL,False
+840754,556592,Hemoglobin,24.59,g/dL,True
+443641,937100,Hemoglobin,165.48,g/dL,False
+531840,808390,Blood Sugar,3.22,mg/dL,False
+788398,923818,Cholesterol,76.91,mg/dL,False
+344691,782449,Blood Sugar,244.17,mmol/L,False
+113442,412744,Cholesterol,248.26,mg/dL,False
+937962,503018,Cholesterol,233.25,mmol/L,False
+871704,479816,Cholesterol,196.93,mg/dL,True
+407243,939683,Cholesterol,43.93,mg/dL,True
+631752,635949,Cholesterol,43.81,mmol/L,False
+389381,465883,Cholesterol,23.75,mmol/L,False
+104925,218831,Hemoglobin,15.98,g/dL,False
+739892,218487,Cholesterol,233.93,mg/dL,True
+213129,739652,Hemoglobin,245.85,g/dL,True
+874825,178380,Hemoglobin,14.59,g/dL,True
+783474,314840,Hemoglobin,177.8,g/dL,True
+988105,370625,Hemoglobin,238.09,g/dL,True
+924484,349910,Blood Sugar,6.56,mmol/L,True
+690280,104743,Cholesterol,27.8,mmol/L,False
+804113,292484,Vitamin D,92.7,nmol/L,True
+985528,852709,Blood Sugar,226.67,mmol/L,False
+831666,845191,Blood Sugar,95.01,mg/dL,True
+834184,810336,Cholesterol,103.46,mg/dL,True
+103978,921483,Cholesterol,28.76,mmol/L,False
+226048,310144,Blood Sugar,55.74,mg/dL,True
+262131,157162,Vitamin D,200.66,ng/mL,True
+295630,747317,Cholesterol,240.66,mg/dL,False
+147449,474413,Blood Sugar,233.25,mmol/L,True
+826099,423989,Blood Sugar,102.49,mmol/L,False
+702106,516013,Cholesterol,197.97,mg/dL,True
+170247,899557,Blood Sugar,102.14,mmol/L,False
+341563,159565,Hemoglobin,134.32,g/dL,True
+410481,367933,Hemoglobin,4.66,g/dL,True
+400890,445426,Hemoglobin,14.55,g/dL,True
+494090,256976,Hemoglobin,141.45,g/dL,True
+304068,624111,Cholesterol,215.32,mmol/L,False
+630831,833333,Hemoglobin,233.66,g/dL,True
+606100,552578,Cholesterol,58.85,mmol/L,True
+447524,922865,Hemoglobin,72.56,g/dL,False
+453266,555667,Cholesterol,106.76,mg/dL,False
+108296,113236,Cholesterol,129.05,mg/dL,False
+185866,876519,Vitamin D,49.97,nmol/L,True
+841624,919704,Vitamin D,163.93,ng/mL,True
+675122,149529,Cholesterol,65.9,mg/dL,True
+807824,285374,Blood Sugar,28.79,mmol/L,True
+850118,215334,Blood Sugar,18.34,mg/dL,True
+711958,115596,Blood Sugar,113.79,mmol/L,False
+877844,202471,Cholesterol,158.38,mmol/L,False
+791147,246698,Hemoglobin,78.05,g/dL,True
+613316,661561,Cholesterol,222.64,mmol/L,True
+252656,966192,Blood Sugar,145.53,mg/dL,True
+203644,558608,Blood Sugar,179.57,mg/dL,False
+872861,222976,Cholesterol,109.12,mmol/L,True
+490741,752598,Cholesterol,26.11,mg/dL,True
+167717,924071,Vitamin D,54.56,ng/mL,False
+761212,386883,Hemoglobin,98.47,g/dL,False
+599989,427432,Hemoglobin,21.87,g/dL,True
+978491,920651,Cholesterol,93.54,mmol/L,True
+360359,363607,Blood Sugar,186.38,mg/dL,True
+758449,771170,Vitamin D,151.27,nmol/L,False
+823138,773336,Blood Sugar,146.96,mg/dL,False
+526517,844431,Cholesterol,35.63,mmol/L,True
+218523,599472,Cholesterol,56.26,mmol/L,True
+863121,775312,Blood Sugar,82.02,mmol/L,True
+775311,466710,Cholesterol,209.64,mg/dL,True
+683348,808587,Blood Sugar,201.5,mmol/L,False
+438351,254460,Cholesterol,96.61,mmol/L,True
+953640,694725,Blood Sugar,189.24,mg/dL,True
+895890,605529,Cholesterol,100.01,mg/dL,True
+645750,914509,Vitamin D,226.33,ng/mL,True
+382615,630637,Hemoglobin,4.07,g/dL,False
+711172,633188,Vitamin D,23.16,nmol/L,False
+981382,368524,Vitamin D,24.56,ng/mL,False
+680613,221805,Hemoglobin,143.84,g/dL,True
+113153,583124,Blood Sugar,9.71,mg/dL,False
+309938,679719,Blood Sugar,242.65,mmol/L,False
+470079,758589,Cholesterol,95.37,mg/dL,True
+261160,730280,Cholesterol,232.23,mmol/L,False
+436741,159140,Blood Sugar,162.06,mmol/L,True
+733676,732163,Blood Sugar,106.16,mmol/L,False
+933890,369885,Cholesterol,167.81,mmol/L,True
+983584,792067,Hemoglobin,74.67,g/dL,False
+806407,711120,Blood Sugar,211.15,mmol/L,True
+248234,663134,Blood Sugar,131.16,mmol/L,True
+861938,997469,Blood Sugar,208.4,mg/dL,True
+826466,501951,Blood Sugar,141.08,mg/dL,True
+402013,704611,Cholesterol,221.39,mg/dL,False
+969756,903789,Hemoglobin,Error,g/dL,True
+299424,448182,Blood Sugar,161.87,mmol/L,True
+529097,449435,Cholesterol,17.64,mmol/L,False
+474018,106226,Hemoglobin,152.53,g/dL,False
+369390,363819,Hemoglobin,154.47,g/dL,True
+875216,779760,Hemoglobin,175.92,g/dL,False
+520729,894201,Cholesterol,142.04,mmol/L,False
+478007,560757,Blood Sugar,68.59,mg/dL,True
+821958,806664,Blood Sugar,139.13,mg/dL,True
+107955,552445,Blood Sugar,222.7,mmol/L,True
+309011,462819,Blood Sugar,206.24,mg/dL,True
+175250,735724,Cholesterol,193.8,mmol/L,False
+342481,667709,Blood Sugar,34.38,mg/dL,True
+853168,169270,Vitamin D,213.61,nmol/L,False
+657384,672934,Blood Sugar,207.35,mg/dL,False
+531088,134038,Cholesterol,69.81,mmol/L,True
+594199,839742,Cholesterol,94.42,mmol/L,True
+457733,382060,Vitamin D,242.14,nmol/L,True
+473466,902068,Blood Sugar,150.54,mg/dL,True
+710097,424187,Vitamin D,223.39,nmol/L,False
+529348,533544,Cholesterol,178.2,mg/dL,False
+935960,678614,Hemoglobin,93.2,g/dL,False
+151199,566046,Cholesterol,97.6,mg/dL,True
+350737,690966,Cholesterol,193.45,mg/dL,False
+439932,701300,Hemoglobin,246.83,g/dL,False
+236778,397457,Cholesterol,37.37,mmol/L,True
+741653,211816,Blood Sugar,173.53,mmol/L,False
+560597,668427,Blood Sugar,204.7,mmol/L,False
+953311,758919,Hemoglobin,165.97,g/dL,True
+895967,378534,Hemoglobin,12.53,g/dL,True
+283247,302769,Blood Sugar,189.67,mg/dL,False
+585469,784319,Hemoglobin,121.4,g/dL,False
+569807,872842,Blood Sugar,145.3,mg/dL,True
+586172,481906,Blood Sugar,51.68,mg/dL,False
+594929,560269,Cholesterol,200.32,mmol/L,True
+201040,392072,Cholesterol,Pending,mmol/L,True
+580884,481039,Vitamin D,185.1,nmol/L,True
+202370,486589,Blood Sugar,Error,mmol/L,True
+617202,560269,Hemoglobin,88.9,g/dL,False
+166367,265039,Hemoglobin,38.41,g/dL,True
+895335,809798,Cholesterol,175.43,mmol/L,False
+214587,630432,Cholesterol,215.15,mmol/L,False
+123005,750871,Cholesterol,171.43,mmol/L,False
+704312,665062,Cholesterol,34.01,mmol/L,False
+505023,555915,Blood Sugar,194.9,mmol/L,True
+811889,220501,Hemoglobin,120.73,g/dL,True
+230260,968982,Cholesterol,110.23,mmol/L,False
+309352,701862,Blood Sugar,22.25,mmol/L,False
+359754,341273,Cholesterol,241.09,mg/dL,False
+531016,492024,Blood Sugar,138.02,mmol/L,False
+608415,986025,Blood Sugar,235.39,mg/dL,True
+969721,962260,Blood Sugar,209.66,mg/dL,False
+525847,234331,Cholesterol,3.2,mg/dL,True
+322100,695461,Hemoglobin,174.66,g/dL,False
+830692,808587,Blood Sugar,42.85,mg/dL,True
+727807,179769,Hemoglobin,126.96,g/dL,False
+225031,913463,Cholesterol,207.54,mmol/L,True
+403162,719699,Hemoglobin,240.66,g/dL,False
+612635,446600,Cholesterol,76.3,mg/dL,True
+324656,202471,Cholesterol,138.53,mmol/L,False
+619299,806262,Cholesterol,121.98,mmol/L,True
