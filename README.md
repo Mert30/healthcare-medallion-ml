@@ -65,7 +65,7 @@ RAW DATA (CSV)
     ↓
 [GOLD LAYER]  ← Business metrics oluşturulur
     Görev: Feature engineering, aggregations, ML input preparation
-    Output: Enriched features (age_group, blood_type, insurance_provider)
+    Output: Enriched features
     ↓
 [ML PIPELINE] ← Feature Store'dan veri alınır
     Görev: Encoding, scaling, SMOTE balancing, model training
