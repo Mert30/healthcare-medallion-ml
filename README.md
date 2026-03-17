@@ -28,15 +28,14 @@ healthcare-medallion-ml/
 │       └── gold.sql              # Business Logic, Aggregations, Feature Store
 │
 ├── notebooks/                     # 📓 JUPYTER NOTEBOOKS
+|   ├── model/P4/                      # 🤖 TRAINED MODELS & OUTPUTS
+|       ├── best_patient_risk_model.pkl         # Trained Random Forest Model
+|       ├── feature_encoder.pkl                 # OneHotEncoder (Categorical Features)
+|       └── feature_names.pkl                   # Feature Column List
 │   ├── P1_no_show_prediction.ipynb
 │   ├── P2_abnormal_prediction.ipynb
 │   ├── P3_doctor_workload_forecasting.ipynb
 │   └── P4_patient_risk_score.ipynb        # 👈 CURRENT PROJECT (46 cells)
-│
-├── model/P4/                      # 🤖 TRAINED MODELS & OUTPUTS
-│   ├── best_patient_risk_model.pkl         # Trained Random Forest Model
-│   ├── feature_encoder.pkl                 # OneHotEncoder (Categorical Features)
-│   ├── feature_names.pkl                   # Feature Column List
 │
 └── README.md                      # 📖 Main Documentation
 ```
@@ -45,7 +44,7 @@ healthcare-medallion-ml/
 
 ## 🔄 MEDALLION ARCHITECTURE - DETAYLI AÇIKLAMA
 
-### Neden Kullanuyor?
+### Neden Kullanıldı?
 
 - **Separation of Concerns**: Her layer'ın belirli bir görevi vardır
 - **Data Quality**: Her layer'da progressive refinement
@@ -526,18 +525,6 @@ risk_scores = pd.DataFrame({
 
 print(risk_scores)
 ```
-
----
-
-## 📈 PROJECT STATISTICS
-
-- **Total Notebook Cells**: 46
-- **Data Samples**: 1,083 patient records
-- **Features**: 35 engineered features
-- **Training Samples**: 649 (SMOTE: 964 after balancing)
-- **Test Samples**: 217
-- **Models Trained**: 4 base + 4 tuned = 8 total
-- **SVM Improvement**: +8.59%
 
 ---
 
