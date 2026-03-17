@@ -82,7 +82,7 @@ patients.csv + doctors.csv + appointments.csv + lab_results.csv
             ↓ [BRONZE]
 Raw SQL Tables (No transformation)
             ↓ [SILVER]
-Cleaned Tables (50+ million → 1,083 clean records)
+Cleaned Tables (1,083 clean records)
             ↓ [GOLD]
 Enriched Features (35 features engineered)
             ↓ [P4 NOTEBOOK]
@@ -288,49 +288,7 @@ BEST MODEL SELECTED:
    → RF chosen for interpretability (feature_importances_)
 ```
 
-### 🐛 Step 7: PROBLEM SOLVED - Model Persistence
-
-**PROBLEM IDENTIFIED:**
-
-```
-Issue: Model files trying to save to non-existent path
-Error: FileNotFoundError: [Errno 2] No such file or directory
-Root Cause: Directory model/P4/ not created before joblib.dump()
-```
-
-**SOLUTION IMPLEMENTED:**
-
-```python
-import os
-import joblib
-
-# Create directory if not exists
-os.makedirs('model/P4', exist_ok=True)
-
-# Save 3 files with full path verification
-model_path = os.path.join('model/P4', 'best_patient_risk_model.pkl')
-encoder_path = os.path.join('model/P4', 'feature_encoder.pkl')
-features_path = os.path.join('model/P4', 'feature_names.pkl')
-
-joblib.dump(best_model, model_path)
-joblib.dump(encoder, encoder_path)
-joblib.dump(feature_names, features_path)
-
-print(f"✓ Model saved: {os.path.abspath(model_path)}")
-```
-
-**RESULT:** ✅ All 3 files saved successfully
-
-```
-Output:
-C:\Users\Casper\...\model\P4\best_patient_risk_model.pkl
-C:\Users\Casper\...\model\P4\feature_encoder.pkl
-C:\Users\Casper\...\model\P4\feature_names.pkl
-```
-
----
-
-### 🎨 Step 8: FINAL - Patient Risk Predictions (Cell 46)
+### 🎨 Step 7: FINAL - Patient Risk Predictions (Cell 46)
 
 **PROBLEM ENCOUNTERED:**
 
@@ -446,7 +404,7 @@ Output Files:
 │  DT: 8 × 5 = 40        | SVM: 4 × 5 = 20                   │
 │  Total: 140 model trainings!                                │
 │                                                              │
-│  🎯 SVM Improvement: 0.7051 → 0.7910 (+7.91%) ⭐⭐⭐      │
+│  🎯 SVM Improvement: 0.7051 → 0.7910 (+8.59%) ⭐⭐⭐      │
 └────────────────────────┬────────────────────────────────────┘
                          ↓
 ┌─────────────────────────────────────────────────────────────┐
@@ -579,7 +537,7 @@ print(risk_scores)
 - **Training Samples**: 649 (SMOTE: 964 after balancing)
 - **Test Samples**: 217
 - **Models Trained**: 4 base + 4 tuned = 8 total
-- **SVM Improvement**: +8.59% on validation set
+- **SVM Improvement**: +8.59%
 
 ---
 
