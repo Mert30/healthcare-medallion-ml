@@ -94,7 +94,7 @@ patient_risk_predictions.csv ✅
 
 ---
 
-## 🔧 ML PIPELINE - ADIM ADIM MÜJDELİ ÇÖZÜM
+## 🔧 ML PIPELINE - ADIM ADIM ÇÖZÜM
 
 ### Step 1: Data Loading & EDA (Cells 1-30) ✅
 
